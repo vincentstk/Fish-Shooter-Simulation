@@ -1,9 +1,78 @@
 version: 2
 importPivots: 1
 tpsheetFileNames:
+- Assets/2D Sprites/angel fish.tpsheet
+- Assets/2D Sprites/big coral fish.tpsheet
+- Assets/2D Sprites/Big Lion fish 2.tpsheet
+- Assets/2D Sprites/Big Lion fish.tpsheet
+- Assets/2D Sprites/blue whale.tpsheet
+- Assets/2D Sprites/bubble fish.tpsheet
+- Assets/2D Sprites/coral fish.tpsheet
+- Assets/2D Sprites/dolphin.tpsheet
+- Assets/2D Sprites/flounder fish.tpsheet
+- Assets/2D Sprites/hammer shark.tpsheet
+- Assets/2D Sprites/jelly fish.tpsheet
+- Assets/2D Sprites/killer whale.tpsheet
+- Assets/2D Sprites/Koi fish.tpsheet
+- Assets/2D Sprites/lion fish.tpsheet
+- Assets/2D Sprites/ock fish group.tpsheet
+- Assets/2D Sprites/ock fish.tpsheet
+- Assets/2D Sprites/Orthocone.tpsheet
+- Assets/2D Sprites/puffer fish.tpsheet
+- Assets/2D Sprites/stingray fish.tpsheet
+- Assets/2D Sprites/tuna fish.tpsheet
+- Assets/2D Sprites/turbo cornutus.tpsheet
+- Assets/2D Sprites/turtle.tpsheet
+- Assets/2D Sprites/whale shark.tpsheet
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 textureFileNames:
+- Assets/2D Sprites/angel fish.png
+- Assets/2D Sprites/big coral fish.png
+- Assets/2D Sprites/Big Lion fish 2.png
+- Assets/2D Sprites/Big Lion fish.png
+- Assets/2D Sprites/blue whale.png
+- Assets/2D Sprites/bubble fish.png
+- Assets/2D Sprites/coral fish.png
+- Assets/2D Sprites/dolphin.png
+- Assets/2D Sprites/flounder fish.png
+- Assets/2D Sprites/hammer shark.png
+- Assets/2D Sprites/jelly fish.png
+- Assets/2D Sprites/killer whale.png
+- Assets/2D Sprites/Koi fish.png
+- Assets/2D Sprites/lion fish.png
+- Assets/2D Sprites/ock fish group.png
+- Assets/2D Sprites/ock fish.png
+- Assets/2D Sprites/Orthocone.png
+- Assets/2D Sprites/puffer fish.png
+- Assets/2D Sprites/stingray fish.png
+- Assets/2D Sprites/tuna fish.png
+- Assets/2D Sprites/turbo cornutus.png
+- Assets/2D Sprites/turtle.png
+- Assets/2D Sprites/whale shark.png
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
 enableDebugOutput: 0

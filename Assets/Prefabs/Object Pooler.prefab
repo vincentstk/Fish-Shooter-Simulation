@@ -49,3 +49,8 @@ MonoBehaviour:
       type: 3}
     Size: 10
     Parent: {fileID: 0}
+  - Tag: Dolphin
+    Prefab: {fileID: 2910921539215935892, guid: cc03909c7786eb5439e5ce4924d17fde,
+      type: 3}
+    Size: 10
+    Parent: {fileID: 0}
