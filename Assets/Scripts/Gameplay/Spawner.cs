@@ -58,7 +58,7 @@ public class Spawner : BaseSingleton<Spawner>
         if (RandomEdge <= 0.5f)
         {
             Vector3 LeftSpawnPosition = new Vector3(MinX, 0f, Random.Range(MinZ, MaxZ));
-            SpawnedFish = _ObjectPooling.SpawnObject(DOLPHIN, LeftSpawnPosition, Quaternion.Euler(0f, 90f, 0f));
+            SpawnedFish = _ObjectPooling.SpawnObject(DOLPHIN, LeftSpawnPosition, Quaternion.LookRotation(-LeftSpawnPosition));
             fish = SpawnedFish.GetComponent<Fish>();
             fish.SetupWay();
             UpdateFishCount();
@@ -66,7 +66,7 @@ public class Spawner : BaseSingleton<Spawner>
             return;
         }
         Vector3 TopSpawnPosition = new Vector3(Random.Range(MinX, MaxX), 0f, MaxZ);
-        SpawnedFish = _ObjectPooling.SpawnObject(DOLPHIN, TopSpawnPosition, Quaternion.Euler(0f, 180f, 0f));
+        SpawnedFish = _ObjectPooling.SpawnObject(DOLPHIN, TopSpawnPosition, Quaternion.LookRotation(-TopSpawnPosition));
         fish = SpawnedFish.GetComponent<Fish>();
         fish.SetupWay();
         UpdateFishCount();

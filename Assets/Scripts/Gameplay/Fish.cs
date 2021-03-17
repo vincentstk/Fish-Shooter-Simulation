@@ -26,12 +26,16 @@ public class Fish : MonoBehaviour, IGetNormalHit
     {
         
     }
+    private void CompleteTravelCallback()
+    {
+        _ObjectPooler.ReturnToPool(DOLPHIN, gameObject, true);
+    }
 
     public void SetupWay()
     {
         Vector3 TargetPosition = transform.position;
         TargetPosition *= -1;
-        transform.DOMove(TargetPosition, fishComp.SwimTime);
+        transform.DOMove(TargetPosition, fishComp.SwimTime).SetEase(Ease.Linear).OnComplete(CompleteTravelCallback);
     }
     public void Hit()
     {

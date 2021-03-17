@@ -40,7 +40,10 @@ public class Player : BaseSingleton<Player>
     // Update is called once per frame
     void Update()
     {
-        _ShootSystem.Tick(ref shootComp);
+        if (GameController.Instance.GetGold > 0)
+        {
+            _ShootSystem.Tick(ref shootComp);
+        }
     }
     private void RotateGun(InputAction.CallbackContext context)
     {

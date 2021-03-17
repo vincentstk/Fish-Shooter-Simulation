@@ -6,8 +6,13 @@ using Hiraishin.Utilities;
 public class GameController : BaseSingleton<GameController>
 {
 
+    [SerializeField]
     private int Gold;
 
+    public int GetGold
+    {
+        get => Gold;
+    }
     protected override void OnAwake()
     {
         base.OnAwake();
