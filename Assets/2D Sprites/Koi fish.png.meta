@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 65e5947d86f624243908f95bf6424462
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2808759881435955473
+    second: ock_fishes_koi_fish_dead_00
+  - first:
+      213: -7378383582493963958
+    second: ock_fishes_koi_fish_dead_01
+  - first:
+      213: -8668270035202355999
+    second: ock_fishes_koi_fish_dead_02
+  - first:
+      213: 268368730544767942
+    second: ock_fishes_koi_fish_dead_03
+  - first:
+      213: 7981245154072568533
+    second: ock_fishes_koi_fish_dead_04
+  - first:
+      213: 3297759845816354960
+    second: ock_fishes_koi_fish_dead_05
+  - first:
+      213: -3074501831065851311
+    second: ock_fishes_koi_fish_dead_06
+  - first:
+      213: -5736361948662166067
+    second: ock_fishes_koi_fish_dead_07
+  - first:
+      213: -5131924420834644487
+    second: ock_fishes_koi_fish_dead_08
+  - first:
+      213: 5477507133974644609
+    second: ock_fishes_koi_fish_dead_09
+  - first:
+      213: -5045484349355749173
+    second: ock_fishes_koi_fish_dead_10
+  - first:
+      213: 7503354061880450582
+    second: ock_fishes_koi_fish_dead_11
+  - first:
+      213: -2354609351137242876
+    second: ock_fishes_koi_fish_dead_12
+  - first:
+      213: 4138427402220302179
+    second: ock_fishes_koi_fish_dead_13
+  - first:
+      213: 2499839996101324708
+    second: ock_fishes_koi_fish_dead_14
+  - first:
+      213: -1810360289274515853
+    second: ock_fishes_koi_fish_dead_15
+  - first:
+      213: -123129604857288485
+    second: ock_fishes_koi_fish_dead_16
+  - first:
+      213: -3131340743878009837
+    second: ock_fishes_koi_fish_moving_00
+  - first:
+      213: -1217301674760814433
+    second: ock_fishes_koi_fish_moving_01
+  - first:
+      213: 7422208848562750823
+    second: ock_fishes_koi_fish_moving_02
+  - first:
+      213: 3895988671015512446
+    second: ock_fishes_koi_fish_moving_03
+  - first:
+      213: -5049308977676509340
+    second: ock_fishes_koi_fish_moving_04
+  - first:
+      213: -6487846022851520607
+    second: ock_fishes_koi_fish_moving_05
+  - first:
+      213: 7820971607670276566
+    second: ock_fishes_koi_fish_moving_06
+  - first:
+      213: -2724614558505559969
+    second: ock_fishes_koi_fish_moving_07
+  - first:
+      213: 1209565763142121518
+    second: ock_fishes_koi_fish_moving_08
+  - first:
+      213: -3283782268076025482
+    second: ock_fishes_koi_fish_moving_09
+  - first:
+      213: 2805289241972597255
+    second: ock_fishes_koi_fish_moving_10
+  - first:
+      213: 6457272129171422330
+    second: ock_fishes_koi_fish_moving_11
+  - first:
+      213: -5739837701278022798
+    second: ock_fishes_koi_fish_moving_12
+  - first:
+      213: 7081647239441530623
+    second: ock_fishes_koi_fish_moving_13
+  - first:
+      213: 791353114514823225
+    second: ock_fishes_koi_fish_moving_14
+  - first:
+      213: 96833550522294680
+    second: ock_fishes_koi_fish_moving_15
+  - first:
+      213: -165156153092547613
+    second: ock_fishes_koi_fish_moving_16
+  - first:
+      213: 342013826837487651
+    second: ock_fishes_koi_fish_moving_17
+  - first:
+      213: 6215682138043119016
+    second: ock_fishes_koi_fish_moving_18
+  - first:
+      213: -8168234133736359515
+    second: ock_fishes_koi_fish_moving_19
+  - first:
+      213: -870726033205665290
+    second: ock_fishes_koi_fish_moving_20
+  - first:
+      213: -8410390869303184078
+    second: ock_fishes_koi_fish_moving_21
+  - first:
+      213: -9175441187314483138
+    second: ock_fishes_koi_fish_moving_22
+  - first:
+      213: 6271783285898798429
+    second: ock_fishes_koi_fish_moving_23
+  - first:
+      213: -5872829610223977939
+    second: ock_fishes_koi_fish_moving_24
+  - first:
+      213: -4241430402556308081
+    second: ock_fishes_koi_fish_moving_25
+  - first:
+      213: -3755388944515648893
+    second: ock_fishes_koi_fish_moving_26
+  - first:
+      213: 4793359264615939869
+    second: ock_fishes_koi_fish_moving_27
+  - first:
+      213: 8500096101706919326
+    second: ock_fishes_koi_fish_moving_28
+  - first:
+      213: -6300377573810895193
+    second: ock_fishes_koi_fish_moving_29
+  - first:
+      213: 151459751072081485
+    second: ock_fishes_koi_fish_moving_30
+  - first:
+      213: 6905620439699218904
+    second: ock_fishes_koi_fish_moving_31
+  - first:
+      213: -5475166481034213562
+    second: ock_fishes_koi_fish_moving_32
+  - first:
+      213: 7707953745141783153
+    second: ock_fishes_koi_fish_moving_33
+  - first:
+      213: -8513515833511392521
+    second: ock_fishes_koi_fish_moving_34
+  - first:
+      213: -4784534377575355964
+    second: ock_fishes_koi_fish_moving_35
+  - first:
+      213: 4406091968016035964
+    second: ock_fishes_koi_fish_moving_36
+  - first:
+      213: -348142535818943434
+    second: ock_fishes_koi_fish_moving_37
+  - first:
+      213: 2641539219358269752
+    second: ock_fishes_koi_fish_moving_38
+  - first:
+      213: 1482258250578157555
+    second: ock_fishes_koi_fish_moving_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_00
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 660
+        width: 88
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5056818, y: 0.49532712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee34afe4c74509d0800000000000000
+      internalID: -2808759881435955473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_01
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1827
+        width: 88
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.495283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498fdc5937ba9990800000000000000
+      internalID: -7378383582493963958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_02
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1370
+        width: 88
+        height: 213
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecc996545e14b780800000000000000
+      internalID: -8668270035202355999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_03
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1058
+        width: 88
+        height: 231
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.47186148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c381f440ff69b300800000000000000
+      internalID: 268368730544767942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_04
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1077
+        width: 88
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.4778761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2adc16e2413ce60800000000000000
+      internalID: 7981245154072568533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_05
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 909
+        width: 88
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.495283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0984e648b1ff3cd20800000000000000
+      internalID: 3297759845816354960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_06
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1609
+        width: 92
+        height: 208
+      alignment: 9
+      pivot: {x: 0.4728261, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a2802cfdc2555d0800000000000000
+      internalID: -3074501831065851311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_07
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 648
+        width: 89
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48876405, y: 0.47196263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd8ce243395460b0800000000000000
+      internalID: -5736361948662166067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_08
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 646
+        width: 88
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.4675926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdaff9ededb7c8b0800000000000000
+      internalID: -5131924420834644487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_09
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 884
+        width: 89
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48876405, y: 0.47196263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1870a3f97b3040c40800000000000000
+      internalID: 5477507133974644609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1831
+        width: 92
+        height: 208
+      alignment: 9
+      pivot: {x: 0.4728261, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc09bd467b6daf9b0800000000000000
+      internalID: -5045484349355749173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1148
+        width: 88
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.495283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e5e5ac3c4412860800000000000000
+      internalID: 7503354061880450582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1330
+        width: 88
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.4778761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401d6a8354fb25fd0800000000000000
+      internalID: -2354609351137242876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1058
+        width: 88
+        height: 231
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.47186148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f6516cbc5ae6930800000000000000
+      internalID: 4138427402220302179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_14
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1599
+        width: 88
+        height: 213
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afeee25b3731b220800000000000000
+      internalID: 2499839996101324708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_15
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1377
+        width: 88
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.495283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ea15a98ee40e6e0800000000000000
+      internalID: -1810360289274515853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_dead_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 163
+        width: 88
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.4861111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8a529d64e8a4ef0800000000000000
+      internalID: -123129604857288485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_00
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1566
+        width: 122
+        height: 229
+      alignment: 9
+      pivot: {x: 0.46721312, y: 0.4628821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c917a1f2e3b84d0800000000000000
+      internalID: -3131340743878009837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_01
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 103
+        width: 114
+        height: 219
+      alignment: 9
+      pivot: {x: 0.48245615, y: 0.4977169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90c46b83964b1fe0800000000000000
+      internalID: -1217301674760814433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_02
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 872
+        width: 124
+        height: 218
+      alignment: 9
+      pivot: {x: 0.47580644, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765085b8f9bf00760800000000000000
+      internalID: 7422208848562750823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_03
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 844
+        width: 127
+        height: 223
+      alignment: 9
+      pivot: {x: 0.496063, y: 0.47085202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7963d0fd05511630800000000000000
+      internalID: 3895988671015512446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_04
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1100
+        width: 134
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.50454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9668bc304de9b0800000000000000
+      internalID: -5049308977676509340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_05
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1313
+        width: 131
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5114504, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a711829a6a86f5a0800000000000000
+      internalID: -6487846022851520607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_06
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 86
+        width: 134
+        height: 225
+      alignment: 9
+      pivot: {x: 0.51492536, y: 0.48444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d14a996d3ca98c60800000000000000
+      internalID: 7820971607670276566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_07
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 558
+        width: 124
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5080645, y: 0.47413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f581b62ae79303ad0800000000000000
+      internalID: -2724614558505559969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_08
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 124
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5080645, y: 0.4801762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e287f8c27ad39c010800000000000000
+      internalID: 1209565763142121518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_09
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1543
+        width: 119
+        height: 243
+      alignment: 9
+      pivot: {x: 0.48739496, y: 0.47736627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6791a97ec69ad62d0800000000000000
+      internalID: -3283782268076025482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 321
+        width: 121
+        height: 227
+      alignment: 9
+      pivot: {x: 0.49586776, y: 0.47577092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7026008d3b36ee620800000000000000
+      internalID: 2805289241972597255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1292
+        width: 120
+        height: 241
+      alignment: 9
+      pivot: {x: 0.49166667, y: 0.53112036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cfa451ac6dc9950800000000000000
+      internalID: 6457272129171422330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1796
+        width: 139
+        height: 243
+      alignment: 9
+      pivot: {x: 0.4964029, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273cdea85000850b0800000000000000
+      internalID: -5739837701278022798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 800
+        width: 123
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5203252, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeb983e4a0174260800000000000000
+      internalID: 7081647239441530623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1820
+        width: 129
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5426357, y: 0.49315068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9381e8207737bfa00800000000000000
+      internalID: 791353114514823225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1581
+        width: 136
+        height: 219
+      alignment: 9
+      pivot: {x: 0.50735295, y: 0.4977169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891a835e995085100800000000000000
+      internalID: 96833550522294680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 616
+        width: 128
+        height: 218
+      alignment: 9
+      pivot: {x: 0.4609375, y: 0.48623854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebd2729a5f35bdf0800000000000000
+      internalID: -165156153092547613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1299
+        width: 125
+        height: 236
+      alignment: 9
+      pivot: {x: 0.48, y: 0.44915253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320abe073c31fb400800000000000000
+      internalID: 342013826837487651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_18
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1131
+        width: 130
+        height: 213
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.4976526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5fcc2f8f9824650800000000000000
+      internalID: 6215682138043119016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_19
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1354
+        width: 134
+        height: 217
+      alignment: 9
+      pivot: {x: 0.48507464, y: 0.49769586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a97c60255a94ae80800000000000000
+      internalID: -8168234133736359515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 422
+        width: 125
+        height: 214
+      alignment: 9
+      pivot: {x: 0.504, y: 0.4906542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1671e394f8ae3f0800000000000000
+      internalID: -870726033205665290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 567
+        width: 122
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5265487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235bef4801a484b80800000000000000
+      internalID: -8410390869303184078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 588
+        width: 128
+        height: 224
+      alignment: 9
+      pivot: {x: 0.4921875, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30c1ac8ad84aa080800000000000000
+      internalID: -9175441187314483138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1805
+        width: 132
+        height: 234
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ea305ba9d90750800000000000000
+      internalID: 6271783285898798429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1593
+        width: 118
+        height: 217
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a3438c5948f7ea0800000000000000
+      internalID: -5872829610223977939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 822
+        width: 119
+        height: 226
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.4778761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d61c55896325c0800000000000000
+      internalID: -4241430402556308081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_26
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1108
+        width: 120
+        height: 218
+      alignment: 9
+      pivot: {x: 0.49166667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38237b0e6ad22ebc0800000000000000
+      internalID: -3755388944515648893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_27
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1822
+        width: 114
+        height: 217
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.50691247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fb248dade658240800000000000000
+      internalID: 4793359264615939869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_28
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1336
+        width: 114
+        height: 220
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d6cea7e5866f570800000000000000
+      internalID: 8500096101706919326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_29
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 389
+        width: 109
+        height: 217
+      alignment: 9
+      pivot: {x: 0.48623854, y: 0.49769586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a60a2a3aff8098a0800000000000000
+      internalID: -6300377573810895193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1798
+        width: 109
+        height: 241
+      alignment: 9
+      pivot: {x: 0.47706422, y: 0.53112036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ab6457d71a1200800000000000000
+      internalID: 151459751072081485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 332
+        width: 108
+        height: 225
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.48444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1e2fdc331b5df50800000000000000
+      internalID: 6905620439699218904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 319
+        width: 112
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5327511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64784db181d4404b0800000000000000
+      internalID: -5475166481034213562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1545
+        width: 110
+        height: 241
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.53526974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a515cb71728fa60800000000000000
+      internalID: 7707953745141783153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 132
+        width: 114
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac3e9b47ae9d980800000000000000
+      internalID: -8513515833511392521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1810
+        width: 115
+        height: 229
+      alignment: 9
+      pivot: {x: 0.46086955, y: 0.4585153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9e9f8455be99db0800000000000000
+      internalID: -4784534377575355964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 803
+        width: 117
+        height: 231
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.45887446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c703c49ec45952d30800000000000000
+      internalID: 4406091968016035964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 359
+        width: 111
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.4885845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ee4d45362b2bf0800000000000000
+      internalID: -348142535818943434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1553
+        width: 122
+        height: 235
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.54468083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831cc1eace1a8a420800000000000000
+      internalID: 2641539219358269752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_koi_fish_moving_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1044
+        width: 124
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5322581, y: 0.5420168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff5a1b860a029410800000000000000
+      internalID: 1482258250578157555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

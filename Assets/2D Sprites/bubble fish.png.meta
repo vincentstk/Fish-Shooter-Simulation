@@ -1,0 +1,956 @@
+fileFormatVersion: 2
+guid: 6abc38dc07c6ca54783e31ca92cdfb23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1523324837910294322
+    second: ock_fishes_bubble_dead_00
+  - first:
+      213: -595927278316068036
+    second: ock_fishes_bubble_dead_01
+  - first:
+      213: 4587422208986901538
+    second: ock_fishes_bubble_dead_02
+  - first:
+      213: 5059732850327962139
+    second: ock_fishes_bubble_dead_03
+  - first:
+      213: -189748593998119833
+    second: ock_fishes_bubble_dead_04
+  - first:
+      213: 7696771701669913445
+    second: ock_fishes_bubble_dead_05
+  - first:
+      213: -8008253593989792992
+    second: ock_fishes_bubble_dead_06
+  - first:
+      213: 79224009165068906
+    second: ock_fishes_bubble_dead_07
+  - first:
+      213: -8793191395341668408
+    second: ock_fishes_bubble_dead_08
+  - first:
+      213: 466496765149173729
+    second: ock_fishes_bubble_dead_09
+  - first:
+      213: 5853735771713929284
+    second: ock_fishes_bubble_dead_10
+  - first:
+      213: -3875681261940494887
+    second: ock_fishes_bubble_dead_11
+  - first:
+      213: 7138801999269753679
+    second: ock_fishes_bubble_moving_00
+  - first:
+      213: -7469614230330084730
+    second: ock_fishes_bubble_moving_01
+  - first:
+      213: 1327466633581611235
+    second: ock_fishes_bubble_moving_02
+  - first:
+      213: -8381348834696000460
+    second: ock_fishes_bubble_moving_03
+  - first:
+      213: -2306033242642981629
+    second: ock_fishes_bubble_moving_04
+  - first:
+      213: 7129963812429394381
+    second: ock_fishes_bubble_moving_05
+  - first:
+      213: 2548013789478805073
+    second: ock_fishes_bubble_moving_06
+  - first:
+      213: -373637674083750706
+    second: ock_fishes_bubble_moving_07
+  - first:
+      213: -540495831533091291
+    second: ock_fishes_bubble_moving_08
+  - first:
+      213: 315388202034021982
+    second: ock_fishes_bubble_moving_09
+  - first:
+      213: -3657577153167054758
+    second: ock_fishes_bubble_moving_11
+  - first:
+      213: -8661827400399013279
+    second: ock_fishes_bubble_moving_12
+  - first:
+      213: 6042612027925061762
+    second: ock_fishes_bubble_moving_13
+  - first:
+      213: -6937073946265567221
+    second: ock_fishes_bubble_moving_14
+  - first:
+      213: 5671259490490489100
+    second: ock_fishes_bubble_moving_15
+  - first:
+      213: 514575699841578133
+    second: ock_fishes_bubble_moving_16
+  - first:
+      213: -9087487845133429533
+    second: ock_fishes_bubble_moving_17
+  - first:
+      213: 7700982400888116341
+    second: ock_fishes_bubble_moving_18
+  - first:
+      213: 8180689997537422945
+    second: ock_fishes_bubble_moving_19
+  - first:
+      213: 3307673051146888519
+    second: ock_fishes_bubble_moving_20
+  - first:
+      213: -9197557719363465584
+    second: ock_fishes_bubble_moving_21
+  - first:
+      213: 2253679789511468081
+    second: ock_fishes_bubble_moving_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_00
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 403
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0d3de71201cdae0800000000000000
+      internalID: -1523324837910294322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_01
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 297
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3361083c47dab7f0800000000000000
+      internalID: -595927278316068036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_02
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 300
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ce661a13cc9af30800000000000000
+      internalID: 4587422208986901538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_03
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 348
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b124c224838c73640800000000000000
+      internalID: 5059732850327962139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_04
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 293
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cbc1ab8a0ed5df0800000000000000
+      internalID: -189748593998119833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_05
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 461
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563605b551d60da60800000000000000
+      internalID: 7696771701669913445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_06
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 75
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.5113636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b3efa29c7fcd090800000000000000
+      internalID: -8008253593989792992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_07
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 248
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a57fb01d5791100800000000000000
+      internalID: 79224009165068906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_08
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 238
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf63a6a30f48f580800000000000000
+      internalID: -8793191395341668408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_09
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7d5971654597600800000000000000
+      internalID: 466496765149173729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 355
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44081028ba5ac3150800000000000000
+      internalID: 5853735771713929284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_dead_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 244
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd266f2d60d63ac0800000000000000
+      internalID: -3875681261940494887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_00
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 458
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f437258689e121360800000000000000
+      internalID: 7138801999269753679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_01
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5113636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f8f7ee69965890800000000000000
+      internalID: -7469614230330084730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_02
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8c0d9bedb1c6210800000000000000
+      internalID: 1327466633581611235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_03
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 87
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c8f4124a77fab80800000000000000
+      internalID: -8381348834696000460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_04
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dd504dbf25fffd0800000000000000
+      internalID: -2306033242642981629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_05
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 22
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc17e3daf48b2f260800000000000000
+      internalID: 7129963812429394381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_06
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 23
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e5ea4aa0d5c5320800000000000000
+      internalID: 2548013789478805073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_07
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 191
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecce889d38290daf0800000000000000
+      internalID: -373637674083750706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_08
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 138
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52604e6a7e5cf78f0800000000000000
+      internalID: -540495831533091291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_09
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 85
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56469416eb706400800000000000000
+      internalID: 315388202034021982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 408
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a4e635fcad3dc0800000000000000
+      internalID: -3657577153167054758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ab8752fd10bc780800000000000000
+      internalID: -8661827400399013279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 350
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280e9ffcf9babd350800000000000000
+      internalID: 6042612027925061762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 405
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00493400009abf90800000000000000
+      internalID: -6937073946265567221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 460
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c099fbf757c54be40800000000000000
+      internalID: 5671259490490489100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 297
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594fa176fd3242700800000000000000
+      internalID: 514575699841578133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 352
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45422d3f1c2e180800000000000000
+      internalID: -9087487845133429533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 407
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574987a21b26fda60800000000000000
+      internalID: 7700982400888116341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 460
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e2fc8a536a78170800000000000000
+      internalID: 8180689997537422945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 244
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7452ebe7d1737ed20800000000000000
+      internalID: 3307673051146888519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 191
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e40382cf5bb5080800000000000000
+      internalID: -9197557719363465584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bubble_moving_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134ee4bf3dda64f10800000000000000
+      internalID: 2253679789511468081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

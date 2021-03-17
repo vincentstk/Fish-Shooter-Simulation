@@ -1,0 +1,2012 @@
+fileFormatVersion: 2
+guid: 1c103133176a6304db2b9f8a47611796
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4700987681265942534
+    second: ock_fishes_jellyl_fish_die_00
+  - first:
+      213: 8673769794473966582
+    second: ock_fishes_jellyl_fish_die_01
+  - first:
+      213: -4873026133683144604
+    second: ock_fishes_jellyl_fish_die_02
+  - first:
+      213: -2614460950823391539
+    second: ock_fishes_jellyl_fish_die_03
+  - first:
+      213: 9120223780990616026
+    second: ock_fishes_jellyl_fish_die_04
+  - first:
+      213: 2956425655613689761
+    second: ock_fishes_jellyl_fish_die_05
+  - first:
+      213: 7177303601913036127
+    second: ock_fishes_jellyl_fish_die_07
+  - first:
+      213: -2281768859118822101
+    second: ock_fishes_jellyl_fish_die_08
+  - first:
+      213: 6972102356652487825
+    second: ock_fishes_jellyl_fish_die_09
+  - first:
+      213: -3718865680494993065
+    second: ock_fishes_jellyl_fish_die_10
+  - first:
+      213: -2573227724381989216
+    second: ock_fishes_jellyl_fish_die_11
+  - first:
+      213: 1751994567744736808
+    second: ock_fishes_jellyl_fish_die_12
+  - first:
+      213: -830850024450516541
+    second: ock_fishes_jellyl_fish_die_13
+  - first:
+      213: 4797314903985988903
+    second: ock_fishes_jellyl_fish_die_14
+  - first:
+      213: -3354722060529684333
+    second: ock_fishes_jellyl_fish_die_15
+  - first:
+      213: -6160759862202877994
+    second: ock_fishes_jellyl_fish_die_16
+  - first:
+      213: -3015982019316876543
+    second: ock_fishes_jellyl_fish_die_17
+  - first:
+      213: 5853955328372903070
+    second: ock_fishes_jellyl_fish_die_18
+  - first:
+      213: 619377645034384636
+    second: ock_fishes_jellyl_fish_die_19
+  - first:
+      213: -8886457958733402078
+    second: ock_fishes_jellyl_fish_die_20
+  - first:
+      213: -2068145478392272511
+    second: ock_fishes_jellyl_fish_moving_00
+  - first:
+      213: -6156456969043197777
+    second: ock_fishes_jellyl_fish_moving_01
+  - first:
+      213: 6151536162818816181
+    second: ock_fishes_jellyl_fish_moving_02
+  - first:
+      213: -8149177945335451523
+    second: ock_fishes_jellyl_fish_moving_03
+  - first:
+      213: -1006672672818267837
+    second: ock_fishes_jellyl_fish_moving_04
+  - first:
+      213: 265819886632739000
+    second: ock_fishes_jellyl_fish_moving_05
+  - first:
+      213: -1013614592667040481
+    second: ock_fishes_jellyl_fish_moving_06
+  - first:
+      213: -6212696528876090896
+    second: ock_fishes_jellyl_fish_moving_07
+  - first:
+      213: -1636587767388062622
+    second: ock_fishes_jellyl_fish_moving_08
+  - first:
+      213: -996819519068423385
+    second: ock_fishes_jellyl_fish_moving_09
+  - first:
+      213: 8853276609361257056
+    second: ock_fishes_jellyl_fish_moving_10
+  - first:
+      213: 7312111795025972665
+    second: ock_fishes_jellyl_fish_moving_12
+  - first:
+      213: 8155324967764219158
+    second: ock_fishes_jellyl_fish_moving_13
+  - first:
+      213: 3606247254157106689
+    second: ock_fishes_jellyl_fish_moving_14
+  - first:
+      213: 8025557382962738767
+    second: ock_fishes_jellyl_fish_moving_15
+  - first:
+      213: 5865888466441057810
+    second: ock_fishes_jellyl_fish_moving_16
+  - first:
+      213: -7802396691700449153
+    second: ock_fishes_jellyl_fish_moving_17
+  - first:
+      213: 3880652150182385411
+    second: ock_fishes_jellyl_fish_moving_18
+  - first:
+      213: -1472054727037706288
+    second: ock_fishes_jellyl_fish_moving_19
+  - first:
+      213: -7736904838842527418
+    second: ock_fishes_jellyl_fish_moving_20
+  - first:
+      213: 6323044690216751650
+    second: ock_fishes_jellyl_fish_moving_21
+  - first:
+      213: -2596097718766034631
+    second: ock_fishes_jellyl_fish_moving_22
+  - first:
+      213: 4832382067520923627
+    second: ock_fishes_jellyl_fish_moving_23
+  - first:
+      213: 1295973005942291638
+    second: ock_fishes_jellyl_fish_moving_24
+  - first:
+      213: -5223170388553735337
+    second: ock_fishes_jellyl_fish_moving_25
+  - first:
+      213: 941679714971392392
+    second: ock_fishes_jellyl_fish_moving_26
+  - first:
+      213: 485990290050800456
+    second: ock_fishes_jellyl_fish_moving_27
+  - first:
+      213: 7075117884929155021
+    second: ock_fishes_jellyl_fish_moving_28
+  - first:
+      213: 8688837592584429866
+    second: ock_fishes_jellyl_fish_moving_29
+  - first:
+      213: -8366519514262189999
+    second: ock_fishes_jellyl_fish_moving_30
+  - first:
+      213: -8094110647504407709
+    second: ock_fishes_jellyl_fish_moving_31
+  - first:
+      213: 2057250644820918280
+    second: ock_fishes_jellyl_fish_moving_32
+  - first:
+      213: 5045185161637092914
+    second: ock_fishes_jellyl_fish_moving_33
+  - first:
+      213: 1568632145493025687
+    second: ock_fishes_jellyl_fish_moving_34
+  - first:
+      213: -8081181175039331611
+    second: ock_fishes_jellyl_fish_moving_35
+  - first:
+      213: 288990566994504643
+    second: ock_fishes_jellyl_fish_moving_36
+  - first:
+      213: 452533237651196946
+    second: ock_fishes_jellyl_fish_moving_37
+  - first:
+      213: 6597563103293965349
+    second: ock_fishes_jellyl_fish_moving_38
+  - first:
+      213: -7769778011823294914
+    second: ock_fishes_jellyl_fish_moving_39
+  - first:
+      213: -1963292188285601611
+    second: ock_fishes_jellyl_fish_moving_40
+  - first:
+      213: -607448840612131482
+    second: ock_fishes_jellyl_fish_moving_41
+  - first:
+      213: -2518332724357374921
+    second: ock_fishes_jellyl_fish_moving_42
+  - first:
+      213: -5387111566076705934
+    second: ock_fishes_jellyl_fish_moving_43
+  - first:
+      213: 7398975912551726506
+    second: ock_fishes_jellyl_fish_moving_44
+  - first:
+      213: 5972607591529399144
+    second: ock_fishes_jellyl_fish_moving_45
+  - first:
+      213: 4783159306422342114
+    second: ock_fishes_jellyl_fish_moving_46
+  - first:
+      213: 6589887790895093720
+    second: ock_fishes_jellyl_fish_moving_48
+  - first:
+      213: -8681671447755391297
+    second: ock_fishes_jellyl_fish_moving_49
+  - first:
+      213: -1865304675717078000
+    second: ock_fishes_jellyl_fish_moving_50
+  - first:
+      213: 215186494194051516
+    second: ock_fishes_jellyl_fish_moving_52
+  - first:
+      213: -4274581402876927418
+    second: ock_fishes_jellyl_fish_moving_53
+  - first:
+      213: 3688047919680832978
+    second: ock_fishes_jellyl_fish_moving_54
+  - first:
+      213: -2294325566603789026
+    second: ock_fishes_jellyl_fish_moving_55
+  - first:
+      213: -5824954479913893381
+    second: ock_fishes_jellyl_fish_moving_56
+  - first:
+      213: -4692532767165777800
+    second: ock_fishes_jellyl_fish_moving_57
+  - first:
+      213: -6783866759535930018
+    second: ock_fishes_jellyl_fish_moving_58
+  - first:
+      213: 1943186414376331415
+    second: ock_fishes_jellyl_fish_moving_59
+  - first:
+      213: -4150380702773606177
+    second: ock_fishes_jellyl_fish_moving_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_00
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 614
+        width: 142
+        height: 277
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6000853a3634d3140800000000000000
+      internalID: 4700987681265942534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_01
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 901
+        width: 157
+        height: 277
+      alignment: 9
+      pivot: {x: 0.522293, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb32272cab6f5870800000000000000
+      internalID: 8673769794473966582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_02
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1475
+        width: 166
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468fe90cc888f5cb0800000000000000
+      internalID: -4873026133683144604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_03
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 901
+        width: 178
+        height: 277
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceaa030e9197bbd0800000000000000
+      internalID: -2614460950823391539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_04
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 614
+        width: 196
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad10402353b819e70800000000000000
+      internalID: 9120223780990616026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_05
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1762
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af84bf4875570920800000000000000
+      internalID: 2956425655613689761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_07
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1475
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d78255997ea9360800000000000000
+      internalID: 7177303601913036127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_08
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1188
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d9cacdf478550e0800000000000000
+      internalID: -2281768859118822101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_09
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 901
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1947fe15722e1c060800000000000000
+      internalID: 6972102356652487825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 614
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75164b2fd5fe36cc0800000000000000
+      internalID: -3718865680494993065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 40
+        width: 197
+        height: 277
+      alignment: 9
+      pivot: {x: 0.49746192, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6560aa40f0a4cd0800000000000000
+      internalID: -2573227724381989216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_12
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1476
+        width: 188
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5159575, y: 0.5018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ec6d2e6c5505810800000000000000
+      internalID: 1751994567744736808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_13
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 327
+        width: 142
+        height: 277
+      alignment: 9
+      pivot: {x: 0.47887325, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c990070e4a3874f0800000000000000
+      internalID: -830850024450516541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_14
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 618
+        width: 114
+        height: 276
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.5018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725a5c7ec7c739240800000000000000
+      internalID: 4797314903985988903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_15
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 615
+        width: 106
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39036fd5f02a171d0800000000000000
+      internalID: -3354722060529684333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_16
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 40
+        width: 111
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4954955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7b9e2eb85908aa0800000000000000
+      internalID: -6160759862202877994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_17
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1189
+        width: 111
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5045045, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf6a135541526d0800000000000000
+      internalID: -3015982019316876543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_18
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 41
+        width: 104
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c0ca60b5d6d3150800000000000000
+      internalID: 5853955328372903070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_19
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 902
+        width: 110
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5090909, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfca712cfa8789800800000000000000
+      internalID: 619377645034384636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_die_20
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 614
+        width: 114
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220b04aa195fca480800000000000000
+      internalID: -8886457958733402078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_00
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 614
+        width: 142
+        height: 277
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189299815a87c43e0800000000000000
+      internalID: -2068145478392272511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_01
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 327
+        width: 145
+        height: 277
+      alignment: 9
+      pivot: {x: 0.48965517, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0c335410fdf8aa0800000000000000
+      internalID: -6156456969043197777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_02
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 40
+        width: 150
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8f8cf3c85ae5550800000000000000
+      internalID: 6151536162818816181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_03
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 327
+        width: 157
+        height: 277
+      alignment: 9
+      pivot: {x: 0.522293, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7035dcb5dd48ee80800000000000000
+      internalID: -8149177945335451523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_04
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1476
+        width: 155
+        height: 276
+      alignment: 9
+      pivot: {x: 0.4967742, y: 0.5018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349f293a9849702f0800000000000000
+      internalID: -1006672672818267837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_05
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1188
+        width: 167
+        height: 277
+      alignment: 9
+      pivot: {x: 0.46706587, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0aafc47c160b300800000000000000
+      internalID: 265819886632739000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_06
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 614
+        width: 166
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15cde8f5eaeee1f0800000000000000
+      internalID: -1013614592667040481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_07
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1188
+        width: 168
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4940476, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9c90b5c6118c9a0800000000000000
+      internalID: -6212696528876090896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_08
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1475
+        width: 182
+        height: 277
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cb519b81ca949e0800000000000000
+      internalID: -1636587767388062622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_09
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 901
+        width: 178
+        height: 277
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b30c4cde59a22f0800000000000000
+      internalID: -996819519068423385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1188
+        width: 182
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4945055, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062a0476b282dda70800000000000000
+      internalID: 8853276609361257056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_12
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 327
+        width: 196
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd8774bfe6d97560800000000000000
+      internalID: 7312111795025972665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 614
+        width: 198
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615d57379d88d2170800000000000000
+      internalID: 8155324967764219158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e134c55c6fb0230800000000000000
+      internalID: 3606247254157106689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46f1082be1806f60800000000000000
+      internalID: 8025557382962738767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1762
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b74e3b72d76150800000000000000
+      internalID: 5865888466441057810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1762
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70038a3c8158b390800000000000000
+      internalID: -7802396691700449153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_18
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1762
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3071a7ce198dad530800000000000000
+      internalID: 3880652150182385411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1762
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df9bf86606329be0800000000000000
+      internalID: -1472054727037706288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_20
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1762
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6415acb7a0ef0a490800000000000000
+      internalID: -7736904838842527418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_21
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1762
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2221a4315a7ffb750800000000000000
+      internalID: 6323044690216751650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_22
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1762
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931afb621eec8fbd0800000000000000
+      internalID: -2596097718766034631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_23
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1762
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be76d8923e1101340800000000000000
+      internalID: 4832382067520923627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1475
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc7fa125983cf110800000000000000
+      internalID: 1295973005942291638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1188
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536ae484329387b0800000000000000
+      internalID: -5223170388553735337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 901
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8899f0726b4811d00800000000000000
+      internalID: 941679714971392392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 614
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b54ca08959eb600800000000000000
+      internalID: 485990290050800456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 327
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf17331b3edf2260800000000000000
+      internalID: 7075117884929155021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 40
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212e0941c3f49870800000000000000
+      internalID: 8688837592584429866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_30
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1475
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158470a54d624eb80800000000000000
+      internalID: -8366519514262189999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1188
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363fac22041fbaf80800000000000000
+      internalID: -8094110647504407709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_32
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 901
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8008e7acf82dc8c10800000000000000
+      internalID: 2057250644820918280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_33
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 40
+        width: 197
+        height: 277
+      alignment: 9
+      pivot: {x: 0.49746192, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e53798c29140640800000000000000
+      internalID: 5045185161637092914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 327
+        width: 198
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4949495, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793ee5710a6e4c510800000000000000
+      internalID: 1568632145493025687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_35
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1476
+        width: 193
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5181347, y: 0.5018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2f4388980e9df80800000000000000
+      internalID: -8081181175039331611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_36
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1190
+        width: 188
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5159575, y: 0.5018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb6529b363b20400800000000000000
+      internalID: 288990566994504643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_37
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1475
+        width: 170
+        height: 277
+      alignment: 9
+      pivot: {x: 0.46470588, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cc14ff498b74600800000000000000
+      internalID: 452533237651196946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_38
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 40
+        width: 154
+        height: 277
+      alignment: 9
+      pivot: {x: 0.46753246, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5248f03efa04f8b50800000000000000
+      internalID: 6597563103293965349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_39
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 614
+        width: 142
+        height: 277
+      alignment: 9
+      pivot: {x: 0.47887325, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36b1a570143c2490800000000000000
+      internalID: -7769778011823294914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_40
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1762
+        width: 135
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8ffee182cf0c4e0800000000000000
+      internalID: -1963292188285601611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_41
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1188
+        width: 124
+        height: 277
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d47147f78e197f0800000000000000
+      internalID: -607448840612131482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_42
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 332
+        width: 114
+        height: 276
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.5018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cdf6adab51d0dd0800000000000000
+      internalID: -2518332724357374921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_43
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 328
+        width: 107
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2738992a2922d35b0800000000000000
+      internalID: -5387111566076705934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_44
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 902
+        width: 106
+        height: 277
+      alignment: 9
+      pivot: {x: 0.509434, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad315914617ea660800000000000000
+      internalID: 7398975912551726506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_45
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1189
+        width: 106
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86349e3d5f6f2e250800000000000000
+      internalID: 5972607591529399144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_46
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 615
+        width: 108
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e158630c02316240800000000000000
+      internalID: 4783159306422342114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_48
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 902
+        width: 111
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4954955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d75cf5f70cf37b50800000000000000
+      internalID: 6589887790895093720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_49
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1189
+        width: 109
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5045872, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe73e3d0d1848780800000000000000
+      internalID: -8681671447755391297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_50
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1189
+        width: 111
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4954955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014220eb74b1d16e0800000000000000
+      internalID: -1865304675717078000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_52
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 40
+        width: 114
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9e5e2f9fe7cf200800000000000000
+      internalID: 215186494194051516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_53
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 327
+        width: 115
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5043478, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642a70e9cd2ada4c0800000000000000
+      internalID: -4274581402876927418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_54
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 327
+        width: 112
+        height: 277
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c137fa049e2330800000000000000
+      internalID: 3688047919680832978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_55
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 904
+        width: 124
+        height: 276
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dfb739d0be820e0800000000000000
+      internalID: -2294325566603789026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_56
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 40
+        width: 119
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5126051, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf189ef23ca992fa0800000000000000
+      internalID: -5824954479913893381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_57
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1475
+        width: 123
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5203252, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f3347f46c0eeb0800000000000000
+      internalID: -4692532767165777800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_58
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 40
+        width: 120
+        height: 277
+      alignment: 9
+      pivot: {x: 0.49166667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55d74aef1ddad1a0800000000000000
+      internalID: -6783866759535930018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_59
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1476
+        width: 135
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5037037, y: 0.5018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79824499fb597fa10800000000000000
+      internalID: 1943186414376331415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_jellyl_fish_moving_60
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 901
+        width: 133
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5112782, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd80b809db2e666c0800000000000000
+      internalID: -4150380702773606177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

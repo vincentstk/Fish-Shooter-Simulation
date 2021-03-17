@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: bd1a4b6ba65f2d5459536e2b6d378452
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5598565187840806498
+    second: ock_fishes_dolphin_dead_00
+  - first:
+      213: -1649977779304449372
+    second: ock_fishes_dolphin_dead_01
+  - first:
+      213: 3600238155221483308
+    second: ock_fishes_dolphin_dead_02
+  - first:
+      213: -3657202904394278988
+    second: ock_fishes_dolphin_dead_03
+  - first:
+      213: -671686164241416399
+    second: ock_fishes_dolphin_dead_04
+  - first:
+      213: 3794747617209088769
+    second: ock_fishes_dolphin_dead_05
+  - first:
+      213: -4037781867551327855
+    second: ock_fishes_dolphin_dead_06
+  - first:
+      213: 2935081378125095423
+    second: ock_fishes_dolphin_dead_07
+  - first:
+      213: -3970438114325683306
+    second: ock_fishes_dolphin_dead_08
+  - first:
+      213: -4345586893001990782
+    second: ock_fishes_dolphin_dead_09
+  - first:
+      213: -4575941886681255612
+    second: ock_fishes_dolphin_dead_10
+  - first:
+      213: -8914375464898525627
+    second: ock_fishes_dolphin_dead_11
+  - first:
+      213: -1903652024653651700
+    second: ock_fishes_dolphin_dead_12
+  - first:
+      213: 3545356397694382730
+    second: ock_fishes_dolphin_dead_13
+  - first:
+      213: -6560548631013660342
+    second: ock_fishes_dolphin_dead_14
+  - first:
+      213: -8931723532199446064
+    second: ock_fishes_dolphin_dead_15
+  - first:
+      213: -4611234732283644512
+    second: ock_fishes_dolphin_dead_16
+  - first:
+      213: 2507069751445989494
+    second: ock_fishes_dolphin_dead_17
+  - first:
+      213: -5580148978520207296
+    second: ock_fishes_dolphin_dead_18
+  - first:
+      213: -2224110210898893853
+    second: ock_fishes_dolphin_dead_19
+  - first:
+      213: -2658181846817948034
+    second: ock_fishes_dolphin_dead_20
+  - first:
+      213: 648621876415372129
+    second: ock_fishes_dolphin_dead_21
+  - first:
+      213: 8337241241704750768
+    second: ock_fishes_dolphin_dead_22
+  - first:
+      213: -908345817009827504
+    second: ock_fishes_dolphin_dead_23
+  - first:
+      213: 5649446604994347706
+    second: ock_fishes_dolphin_dead_24
+  - first:
+      213: 3561366183440441423
+    second: ock_fishes_dolphin_dead_25
+  - first:
+      213: -1455369045951077408
+    second: ock_fishes_dolphin_dead_26
+  - first:
+      213: 3360644103465755048
+    second: ock_fishes_dolphin_dead_27
+  - first:
+      213: -1439736510344097378
+    second: ock_fishes_dolphin_dead_28
+  - first:
+      213: -7185740624562438799
+    second: ock_fishes_dolphin_dead_29
+  - first:
+      213: 147899253580379473
+    second: ock_fishes_dolphin_moving_00
+  - first:
+      213: -934138230037517093
+    second: ock_fishes_dolphin_moving_01
+  - first:
+      213: 4520677635358469060
+    second: ock_fishes_dolphin_moving_02
+  - first:
+      213: -37219007640960768
+    second: ock_fishes_dolphin_moving_03
+  - first:
+      213: -4358855587842285526
+    second: ock_fishes_dolphin_moving_04
+  - first:
+      213: -1367917126812125659
+    second: ock_fishes_dolphin_moving_05
+  - first:
+      213: -1279479857948206563
+    second: ock_fishes_dolphin_moving_06
+  - first:
+      213: -8756818041782959035
+    second: ock_fishes_dolphin_moving_07
+  - first:
+      213: 7919092681876549638
+    second: ock_fishes_dolphin_moving_08
+  - first:
+      213: 1101803340080641161
+    second: ock_fishes_dolphin_moving_09
+  - first:
+      213: 5072826744795969606
+    second: ock_fishes_dolphin_moving_10
+  - first:
+      213: 5405184162943638321
+    second: ock_fishes_dolphin_moving_11
+  - first:
+      213: 5512826044593625782
+    second: ock_fishes_dolphin_moving_12
+  - first:
+      213: 1285673219891561813
+    second: ock_fishes_dolphin_moving_13
+  - first:
+      213: -6793108115491844304
+    second: ock_fishes_dolphin_moving_14
+  - first:
+      213: 2375018568833167428
+    second: ock_fishes_dolphin_moving_15
+  - first:
+      213: 847526483683371162
+    second: ock_fishes_dolphin_moving_16
+  - first:
+      213: -8061682013724306695
+    second: ock_fishes_dolphin_moving_17
+  - first:
+      213: -7719752804900764396
+    second: ock_fishes_dolphin_moving_18
+  - first:
+      213: -5730753744543361988
+    second: ock_fishes_dolphin_moving_19
+  - first:
+      213: -5930830483161403043
+    second: ock_fishes_dolphin_moving_20
+  - first:
+      213: 8329333790293971738
+    second: ock_fishes_dolphin_moving_21
+  - first:
+      213: -1944850449211359289
+    second: ock_fishes_dolphin_moving_22
+  - first:
+      213: 3113204354207582851
+    second: ock_fishes_dolphin_moving_23
+  - first:
+      213: -8597244928588035759
+    second: ock_fishes_dolphin_moving_24
+  - first:
+      213: 243138143009962311
+    second: ock_fishes_dolphin_moving_25
+  - first:
+      213: -2735132432959418498
+    second: ock_fishes_dolphin_moving_26
+  - first:
+      213: -6338770555396516097
+    second: ock_fishes_dolphin_moving_27
+  - first:
+      213: -6123833468015229252
+    second: ock_fishes_dolphin_moving_28
+  - first:
+      213: 5916488728235586953
+    second: ock_fishes_dolphin_moving_30
+  - first:
+      213: 4962616110324771291
+    second: ock_fishes_dolphin_moving_31
+  - first:
+      213: -6158427724336947353
+    second: ock_fishes_dolphin_moving_32
+  - first:
+      213: -7406338910073361737
+    second: ock_fishes_dolphin_moving_33
+  - first:
+      213: -5395320226405752764
+    second: ock_fishes_dolphin_moving_34
+  - first:
+      213: 346439148656328200
+    second: ock_fishes_dolphin_moving_35
+  - first:
+      213: -7919523284522355423
+    second: ock_fishes_dolphin_moving_36
+  - first:
+      213: -7337819690488224165
+    second: ock_fishes_dolphin_moving_38
+  - first:
+      213: 8263741547318233316
+    second: ock_fishes_dolphin_moving_39
+  - first:
+      213: -7872537640200992122
+    second: ock_fishes_dolphin_moving_40
+  - first:
+      213: 654671541821962061
+    second: ock_fishes_dolphin_moving_41
+  - first:
+      213: -2667181090874871996
+    second: ock_fishes_dolphin_moving_42
+  - first:
+      213: -4942055744016110121
+    second: ock_fishes_dolphin_moving_43
+  - first:
+      213: -5342843945470524416
+    second: ock_fishes_dolphin_moving_44
+  - first:
+      213: 8990757228994399862
+    second: ock_fishes_dolphin_moving_45
+  - first:
+      213: 6496452171214208538
+    second: ock_fishes_dolphin_moving_46
+  - first:
+      213: -7301219700300000604
+    second: ock_fishes_dolphin_moving_47
+  - first:
+      213: 4806045346732401367
+    second: ock_fishes_dolphin_moving_48
+  - first:
+      213: 5205816685417433702
+    second: ock_fishes_dolphin_moving_49
+  - first:
+      213: -1473175160165146299
+    second: ock_fishes_dolphin_moving_50
+  - first:
+      213: 5178052877768999263
+    second: ock_fishes_dolphin_moving_51
+  - first:
+      213: 5893088095367457484
+    second: ock_fishes_dolphin_moving_52
+  - first:
+      213: -4799137455979028893
+    second: ock_fishes_dolphin_moving_53
+  - first:
+      213: -3322969784614216339
+    second: ock_fishes_dolphin_moving_54
+  - first:
+      213: 6961533265750904886
+    second: ock_fishes_dolphin_moving_55
+  - first:
+      213: 6550480197331854950
+    second: ock_fishes_dolphin_moving_56
+  - first:
+      213: 323649005546064049
+    second: ock_fishes_dolphin_moving_57
+  - first:
+      213: 250414946986955132
+    second: ock_fishes_dolphin_moving_58
+  - first:
+      213: -4980692809452868573
+    second: ock_fishes_dolphin_moving_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_00
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 783
+        width: 100
+        height: 193
+      alignment: 9
+      pivot: {x: 0.555, y: 0.41968912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9171e6cf96ed42b0800000000000000
+      internalID: -5598565187840806498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_01
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1622
+        width: 108
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5694444, y: 0.44554454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa3541a3f91a19e0800000000000000
+      internalID: -1649977779304449372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_02
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 470
+        width: 102
+        height: 207
+      alignment: 9
+      pivot: {x: 0.47549018, y: 0.46376812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fb8ccf68d96f130800000000000000
+      internalID: 3600238155221483308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_03
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1385
+        width: 106
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5801887, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b75d0cc5510f3dc0800000000000000
+      internalID: -3657202904394278988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_04
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 197
+        width: 92
+        height: 216
+      alignment: 9
+      pivot: {x: 0.6467391, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f78db0ef0bda6f0800000000000000
+      internalID: -671686164241416399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_05
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 906
+        width: 112
+        height: 213
+      alignment: 9
+      pivot: {x: 0.4955357, y: 0.48826292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf1083ad6a9a430800000000000000
+      internalID: 3794747617209088769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_06
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 643
+        width: 88
+        height: 222
+      alignment: 9
+      pivot: {x: 0.30113637, y: 0.5045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199f618d8cae6f7c0800000000000000
+      internalID: -4037781867551327855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_07
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1580
+        width: 94
+        height: 224
+      alignment: 9
+      pivot: {x: 0.47340426, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1a20276f08bb820800000000000000
+      internalID: 2935081378125095423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_08
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 875
+        width: 111
+        height: 223
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.50224215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69322f0429b26e8c0800000000000000
+      internalID: -3970438114325683306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_09
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 214
+        width: 100
+        height: 209
+      alignment: 9
+      pivot: {x: 0.435, y: 0.46411484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dd506aebf51b3c0800000000000000
+      internalID: -4345586893001990782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_10
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1424
+        width: 95
+        height: 192
+      alignment: 9
+      pivot: {x: 0.6157895, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4417883391dfe70c0800000000000000
+      internalID: -4575941886681255612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_11
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1837
+        width: 108
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5694444, y: 0.44554454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546044cbeb6c94480800000000000000
+      internalID: -8914375464898525627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_12
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 703
+        width: 102
+        height: 207
+      alignment: 9
+      pivot: {x: 0.47549018, y: 0.46376812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e09ec19ed495e0800000000000000
+      internalID: -1903652024653651700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_13
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1611
+        width: 106
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5801887, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827bbe0cd2a33130800000000000000
+      internalID: 3545356397694382730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 425
+        width: 92
+        height: 216
+      alignment: 9
+      pivot: {x: 0.6467391, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4961c487cf34f4a0800000000000000
+      internalID: -6560548631013660342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1139
+        width: 112
+        height: 213
+      alignment: 9
+      pivot: {x: 0.4955357, y: 0.48826292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9314f05c42c0480800000000000000
+      internalID: -8931723532199446064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 411
+        width: 88
+        height: 222
+      alignment: 9
+      pivot: {x: 0.30113637, y: 0.5045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a53a4e317a9100c0800000000000000
+      internalID: -4611234732283644512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1815
+        width: 94
+        height: 224
+      alignment: 9
+      pivot: {x: 0.47340426, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a01ae7a6eac220800000000000000
+      internalID: 2507069751445989494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1113
+        width: 111
+        height: 223
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.50224215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0405b85a1145f82b0800000000000000
+      internalID: -5580148978520207296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_19
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 687
+        width: 100
+        height: 209
+      alignment: 9
+      pivot: {x: 0.435, y: 0.46411484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36d0a0c8f5221e0800000000000000
+      internalID: -2224110210898893853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_20
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1637
+        width: 95
+        height: 192
+      alignment: 9
+      pivot: {x: 0.6157895, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e3608a1bd3c1bd0800000000000000
+      internalID: -2658181846817948034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 258
+        width: 108
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5694444, y: 0.44554454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b1949f82e500900800000000000000
+      internalID: 648621876415372129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_22
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 937
+        width: 102
+        height: 207
+      alignment: 9
+      pivot: {x: 0.47549018, y: 0.46376812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be5c8a9cb4d3b370800000000000000
+      internalID: 8337241241704750768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1831
+        width: 106
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5801887, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051dae3ca48e463f0800000000000000
+      internalID: -908345817009827504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 657
+        width: 92
+        height: 216
+      alignment: 9
+      pivot: {x: 0.6467391, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2893451cdd66e40800000000000000
+      internalID: 5649446604994347706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_25
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1373
+        width: 112
+        height: 213
+      alignment: 9
+      pivot: {x: 0.4955357, y: 0.48826292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f406e07cca38c6130800000000000000
+      internalID: 3561366183440441423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 179
+        width: 88
+        height: 222
+      alignment: 9
+      pivot: {x: 0.30113637, y: 0.5045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3acf6409d7dcbe0800000000000000
+      internalID: -1455369045951077408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1108
+        width: 94
+        height: 224
+      alignment: 9
+      pivot: {x: 0.47340426, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a16693b10863ae20800000000000000
+      internalID: 3360644103465755048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1347
+        width: 111
+        height: 223
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.50224215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9197ca9547050ce0800000000000000
+      internalID: -1439736510344097378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_dead_29
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 920
+        width: 100
+        height: 209
+      alignment: 9
+      pivot: {x: 0.435, y: 0.46411484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dbcd049fe174c90800000000000000
+      internalID: -7185740624562438799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_00
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1839
+        width: 93
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5268817, y: 0.435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155343866917d0200800000000000000
+      internalID: 147899253580379473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_01
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 49
+        width: 96
+        height: 199
+      alignment: 9
+      pivot: {x: 0.48958334, y: 0.4321608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc6083aa364903f0800000000000000
+      internalID: -934138230037517093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_02
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 519
+        width: 94
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.43367347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb28979b5cacbe30800000000000000
+      internalID: 4520677635358469060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_03
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 988
+        width: 94
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.42487046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0010bae7285cb7ff0800000000000000
+      internalID: -37219007640960768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_04
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 559
+        width: 90
+        height: 194
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4226804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a202f63efeb3283c0800000000000000
+      internalID: -4358855587842285526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_05
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 315
+        width: 92
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4226804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526b036ee9e240de0800000000000000
+      internalID: -1367917126812125659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_06
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1847
+        width: 95
+        height: 192
+      alignment: 9
+      pivot: {x: 0.51578945, y: 0.421875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1adab129df5e3ee0800000000000000
+      internalID: -1279479857948206563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_07
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 986
+        width: 95
+        height: 195
+      alignment: 9
+      pivot: {x: 0.51578945, y: 0.42564103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448bc8f268897680800000000000000
+      internalID: -8756818041782959035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_08
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 78
+        width: 97
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.42783505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600b5a646d446ed60800000000000000
+      internalID: 7919092681876549638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_09
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 763
+        width: 98
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.43076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98478d9dc446a4f00800000000000000
+      internalID: 1101803340080641161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_10
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1209
+        width: 98
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.43229166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6483aa22c0d466640800000000000000
+      internalID: 5072826744795969606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 9
+        width: 100
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b92d9bb52130b40800000000000000
+      internalID: 5405184162943638321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 49
+        width: 99
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5050505, y: 0.4321608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba5680541e718c40800000000000000
+      internalID: 5512826044593625782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_13
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1191
+        width: 100
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44278607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5558ed05bf0a7d110800000000000000
+      internalID: 1285673219891561813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1402
+        width: 99
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4949495, y: 0.44607842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f094f09280ab1a0800000000000000
+      internalID: -6793108115491844304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_15
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1616
+        width: 99
+        height: 205
+      alignment: 9
+      pivot: {x: 0.4949495, y: 0.45365855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440f1421ec2c5f020800000000000000
+      internalID: 2375018568833167428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_16
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1626
+        width: 98
+        height: 201
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.4477612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98eea5b8d403cb00800000000000000
+      internalID: 847526483683371162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_17
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1411
+        width: 100
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4477612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f29ecfcbe62f1090800000000000000
+      internalID: -8061682013724306695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 725
+        width: 99
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5050505, y: 0.46534654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415801699bdedd490800000000000000
+      internalID: -7719752804900764396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_19
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1834
+        width: 99
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5050505, y: 0.47317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34d04905d54870b0800000000000000
+      internalID: -5730753744543361988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_20
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1180
+        width: 98
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d513b14391571bda0800000000000000
+      internalID: -5930830483161403043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1829
+        width: 97
+        height: 210
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.47142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13512a93fcb79370800000000000000
+      internalID: 8329333790293971738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 201
+        width: 96
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48958334, y: 0.4813084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf7f7912d08205e0800000000000000
+      internalID: -1944850449211359289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_23
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1603
+        width: 95
+        height: 211
+      alignment: 9
+      pivot: {x: 0.48421052, y: 0.48341233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a0ebd9dd2543b20800000000000000
+      internalID: 3113204354207582851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_24
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1824
+        width: 93
+        height: 215
+      alignment: 9
+      pivot: {x: 0.47311828, y: 0.47906977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594b70a94370b880800000000000000
+      internalID: -8597244928588035759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_25
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 433
+        width: 91
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48351648, y: 0.4906542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749f4755adccf5300800000000000000
+      internalID: 243138143009962311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 423
+        width: 93
+        height: 218
+      alignment: 9
+      pivot: {x: 0.4623656, y: 0.48623854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fcdc72b8bda0ad0800000000000000
+      internalID: -2735132432959418498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_27
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1596
+        width: 95
+        height: 215
+      alignment: 9
+      pivot: {x: 0.50526315, y: 0.49302325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff692ec93c92808a0800000000000000
+      internalID: -6338770555396516097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 892
+        width: 92
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4673913, y: 0.49537036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6cd4308e5c30ba0800000000000000
+      internalID: -6123833468015229252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 181
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: 0.45348838, y: 0.49773756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985b514c6279b1250800000000000000
+      internalID: 5916488728235586953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1582
+        width: 87
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.49775785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9e98c2f01ced440800000000000000
+      internalID: 4962616110324771291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 181
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: 0.45348838, y: 0.49773756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f9afb0d9ed88aa0800000000000000
+      internalID: -6158427724336947353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 412
+        width: 87
+        height: 221
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.5022625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba6ce27006673990800000000000000
+      internalID: -7406338910073361737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1816
+        width: 87
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.50224215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ea97f6d8ff15b0800000000000000
+      internalID: -5395320226405752764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1813
+        width: 84
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44047618, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ef2f7f19ccec400800000000000000
+      internalID: 346439148656328200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1814
+        width: 87
+        height: 225
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.50222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1253c9b3883381290800000000000000
+      internalID: -7919523284522355423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1346
+        width: 87
+        height: 224
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.50446427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5625927ed3da2a90800000000000000
+      internalID: -7337819690488224165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1577
+        width: 84
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44047618, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e84a837725bea270800000000000000
+      internalID: 8263741547318233316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1342
+        width: 88
+        height: 225
+      alignment: 9
+      pivot: {x: 0.4659091, y: 0.50222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a8dea0ab02fb290800000000000000
+      internalID: -7872537640200992122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 881
+        width: 86
+        height: 222
+      alignment: 9
+      pivot: {x: 0.45348838, y: 0.5045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47fad67c4cd51900800000000000000
+      internalID: 654671541821962061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 643
+        width: 87
+        height: 222
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fa3cedde44cfad0800000000000000
+      internalID: -2667181090874871996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1583
+        width: 86
+        height: 223
+      alignment: 9
+      pivot: {x: 0.45348838, y: 0.49775785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddadb52c7a4a6bb0800000000000000
+      internalID: -4942055744016110121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1587
+        width: 87
+        height: 219
+      alignment: 9
+      pivot: {x: 0.47126436, y: 0.49315068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00402eb3db76ad5b0800000000000000
+      internalID: -5342843945470524416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_45
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1354
+        width: 93
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4623656, y: 0.4977169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e8cff801695cc70800000000000000
+      internalID: 8990757228994399862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 883
+        width: 92
+        height: 220
+      alignment: 9
+      pivot: {x: 0.4673913, y: 0.49545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb98d74d8082a50800000000000000
+      internalID: 6496452171214208538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1118
+        width: 97
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.4885845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2d888bd5bdcaa90800000000000000
+      internalID: -7301219700300000604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 651
+        width: 94
+        height: 220
+      alignment: 9
+      pivot: {x: 0.4787234, y: 0.48636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2676287c082b240800000000000000
+      internalID: 4806045346732401367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1821
+        width: 94
+        height: 218
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.48165137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a8b1c91b6ce3840800000000000000
+      internalID: 5205816685417433702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_50
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1362
+        width: 97
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.48372093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5416d6e3ffa3e8be0800000000000000
+      internalID: -1473175160165146299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_51
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 668
+        width: 90
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.47196263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f514c9768a32cd740800000000000000
+      internalID: 5178052877768999263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1129
+        width: 98
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.48372093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccae57a566478c150800000000000000
+      internalID: 5893088095367457484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_53
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1154
+        width: 90
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5222222, y: 0.46411484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e191429e9066db0800000000000000
+      internalID: -4799137455979028893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_54
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1168
+        width: 92
+        height: 207
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.46376812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d96b4369072e1d0800000000000000
+      internalID: -3322969784614216339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 469
+        width: 92
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630d5251f955c9060800000000000000
+      internalID: 6961533265750904886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_56
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1395
+        width: 93
+        height: 206
+      alignment: 9
+      pivot: {x: 0.49462366, y: 0.4563107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6662236980bf7ea50800000000000000
+      internalID: 6550480197331854950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_57
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 491
+        width: 100
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44554454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b84b774e05dd7400800000000000000
+      internalID: 323649005546064049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_58
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 968
+        width: 98
+        height: 202
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.44554454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711b994117a97300800000000000000
+      internalID: 250414946986955132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_dolphin_moving_59
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 282
+        width: 94
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.43718594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c2835574601eab0800000000000000
+      internalID: -4980692809452868573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

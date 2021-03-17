@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: 6a0049211fc658c4687148dbd9d78fbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3641830795975114080
+    second: ock_fishes_coralfish_dead_01
+  - first:
+      213: -374428208111919143
+    second: ock_fishes_coralfish_dead_02
+  - first:
+      213: 8823578609940408572
+    second: ock_fishes_coralfish_dead_03
+  - first:
+      213: 6867758739051261630
+    second: ock_fishes_coralfish_dead_04
+  - first:
+      213: -7312725713714642226
+    second: ock_fishes_coralfish_dead_05
+  - first:
+      213: 5732158407611368610
+    second: ock_fishes_coralfish_dead_07
+  - first:
+      213: 5483420071617025433
+    second: ock_fishes_coralfish_dead_08
+  - first:
+      213: -4658716347351884758
+    second: ock_fishes_coralfish_dead_09
+  - first:
+      213: -2482536072558463783
+    second: ock_fishes_coralfish_moving_00
+  - first:
+      213: -6709282479227118467
+    second: ock_fishes_coralfish_moving_01
+  - first:
+      213: 8916960729184286876
+    second: ock_fishes_coralfish_moving_02
+  - first:
+      213: 3781432007475893400
+    second: ock_fishes_coralfish_moving_03
+  - first:
+      213: 1595423998814659733
+    second: ock_fishes_coralfish_moving_04
+  - first:
+      213: 5088167435250633281
+    second: ock_fishes_coralfish_moving_05
+  - first:
+      213: -1258052114797705412
+    second: ock_fishes_coralfish_moving_06
+  - first:
+      213: -8938941435904346777
+    second: ock_fishes_coralfish_moving_07
+  - first:
+      213: 5150943671103939204
+    second: ock_fishes_coralfish_moving_08
+  - first:
+      213: 2345460313342270970
+    second: ock_fishes_coralfish_moving_09
+  - first:
+      213: 8914340120300236071
+    second: ock_fishes_coralfish_moving_10
+  - first:
+      213: -3206639940419142646
+    second: ock_fishes_coralfish_moving_11
+  - first:
+      213: -3584321843106823619
+    second: ock_fishes_coralfish_moving_12
+  - first:
+      213: 4559668173514428832
+    second: ock_fishes_coralfish_moving_13
+  - first:
+      213: -7790750766747980556
+    second: ock_fishes_coralfish_moving_14
+  - first:
+      213: -4671830420535485240
+    second: ock_fishes_coralfish_moving_16
+  - first:
+      213: -4953907956715842373
+    second: ock_fishes_coralfish_moving_17
+  - first:
+      213: -7342143796099574119
+    second: ock_fishes_coralfish_moving_18
+  - first:
+      213: 5370368484366616548
+    second: ock_fishes_coralfish_moving_19
+  - first:
+      213: 2465481165044596010
+    second: ock_fishes_coralfish_moving_20
+  - first:
+      213: -6723444566220728981
+    second: ock_fishes_coralfish_moving_21
+  - first:
+      213: 5674008412585681028
+    second: ock_fishes_coralfish_moving_22
+  - first:
+      213: -5966755852298113388
+    second: ock_fishes_coralfish_moving_23
+  - first:
+      213: 7792785962808814768
+    second: ock_fishes_coralfish_moving_24
+  - first:
+      213: 2006228274983283485
+    second: ock_fishes_coralfish_moving_25
+  - first:
+      213: -7402303761972395038
+    second: ock_fishes_coralfish_moving_26
+  - first:
+      213: -8401944603494963570
+    second: ock_fishes_coralfish_moving_27
+  - first:
+      213: -2651867026593816100
+    second: ock_fishes_coralfish_moving_28
+  - first:
+      213: 4487486281021535108
+    second: ock_fishes_coralfish_moving_29
+  - first:
+      213: -4647207572368912894
+    second: ock_fishes_coralfish_moving_30
+  - first:
+      213: 8960886975434373808
+    second: ock_fishes_coralfish_moving_31
+  - first:
+      213: -282498488243071138
+    second: ock_fishes_coralfish_moving_32
+  - first:
+      213: -8043981294714696882
+    second: ock_fishes_coralfish_moving_33
+  - first:
+      213: 4697256249331667882
+    second: ock_fishes_coralfish_moving_34
+  - first:
+      213: -6659761279427366281
+    second: ock_fishes_coralfish_moving_35
+  - first:
+      213: 1838728870230196956
+    second: ock_fishes_coralfish_moving_36
+  - first:
+      213: 7691699109637943467
+    second: ock_fishes_coralfish_moving_37
+  - first:
+      213: 7089563114687896405
+    second: ock_fishes_coralfish_moving_38
+  - first:
+      213: -5110009736246409115
+    second: ock_fishes_coralfish_moving_39
+  - first:
+      213: -5679201249394498449
+    second: ock_fishes_coralfish_moving_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_dead_01
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 310
+        width: 108
+        height: 132
+      alignment: 9
+      pivot: {x: 0.49074075, y: 0.49242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a243d1bf2e957dc0800000000000000
+      internalID: -3641830795975114080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_dead_02
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 738
+        width: 109
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5045872, y: 0.49624062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df5a9d4783cdcaf0800000000000000
+      internalID: -374428208111919143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_dead_03
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 320
+        width: 107
+        height: 130
+      alignment: 9
+      pivot: {x: 0.49532712, y: 0.4846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8ab351ff5a37a70800000000000000
+      internalID: 8823578609940408572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_dead_04
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 478
+        width: 110
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42735043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe2c3caf2e2f4f50800000000000000
+      internalID: 6867758739051261630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_dead_05
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 628
+        width: 106
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41284403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec28c2635baf38a90800000000000000
+      internalID: -7312725713714642226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_dead_07
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 886
+        width: 108
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4c1f193b7bc8f40800000000000000
+      internalID: 5732158407611368610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_dead_08
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 881
+        width: 109
+        height: 134
+      alignment: 9
+      pivot: {x: 0.49541286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995daf2b085091c40800000000000000
+      internalID: 5483420071617025433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_dead_09
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 742
+        width: 107
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49532712, y: 0.48854962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c19ce3a2ae85fb0800000000000000
+      internalID: -4658716347351884758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_00
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 452
+        width: 106
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d43f0558924c8dd0800000000000000
+      internalID: -2482536072558463783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_01
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 168
+        width: 106
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.49621212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c5ae7e127d3e2a0800000000000000
+      internalID: -6709282479227118467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_02
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 323
+        width: 106
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.50775194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9833230a886fbb70800000000000000
+      internalID: 8916960729184286876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_03
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 747
+        width: 105
+        height: 129
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.50775194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89494eb30685a7430800000000000000
+      internalID: 3781432007475893400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_04
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 884
+        width: 102
+        height: 131
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.4923664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5942b7b8ca5142610800000000000000
+      internalID: 1595423998814659733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_05
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 185
+        width: 105
+        height: 128
+      alignment: 9
+      pivot: {x: 0.50476193, y: 0.50390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a03d7f25dcc9640800000000000000
+      internalID: 5088167435250633281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_06
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 884
+        width: 107
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49532712, y: 0.4923664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37cd8c54408a8ee0800000000000000
+      internalID: -1258052114797705412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_07
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 464
+        width: 106
+        height: 129
+      alignment: 9
+      pivot: {x: 0.509434, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765b6e4ef1082f380800000000000000
+      internalID: -8938941435904346777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_08
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 458
+        width: 107
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5140187, y: 0.4923664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482623e5af3db7740800000000000000
+      internalID: 5150943671103939204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_09
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 181
+        width: 108
+        height: 129
+      alignment: 9
+      pivot: {x: 0.49074075, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdda8b6abfbc8020800000000000000
+      internalID: 2345460313342270970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 601
+        width: 106
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d2285fb1916bb70800000000000000
+      internalID: 8914340120300236071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 460
+        width: 105
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4952381, y: 0.4923664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cbcb4b6f9bf73d0800000000000000
+      internalID: -3206639940419142646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 309
+        width: 106
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4811321, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32c1f4364ee14ec0800000000000000
+      internalID: -3584321843106823619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 166
+        width: 105
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a15bffab02374f30800000000000000
+      internalID: 4559668173514428832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 23
+        width: 105
+        height: 133
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc626e6471b1e390800000000000000
+      internalID: -7790750766747980556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 166
+        width: 105
+        height: 133
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc5e152cf25a2fb0800000000000000
+      internalID: -4671830420535485240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 452
+        width: 104
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb498f5d5fe204bb0800000000000000
+      internalID: -4953907956715842373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_18
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 743
+        width: 103
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4854369, y: 0.50763357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99695a72e177b1a90800000000000000
+      internalID: -7342143796099574119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 309
+        width: 103
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4854369, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e700afdea1678a40800000000000000
+      internalID: 5370368484366616548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 462
+        width: 104
+        height: 130
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.49615383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d36e29e06273220800000000000000
+      internalID: 2465481165044596010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 743
+        width: 106
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4811321, y: 0.4923664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6512631ac681b2a0800000000000000
+      internalID: -6723444566220728981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 23
+        width: 105
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4806fbcc6902ebe40800000000000000
+      internalID: 5674008412585681028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 886
+        width: 105
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ea9426a23d13da0800000000000000
+      internalID: -5966755852298113388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 26
+        width: 106
+        height: 132
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.49621212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcaed39b89852c60800000000000000
+      internalID: 7792785962808814768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 326
+        width: 104
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4903846, y: 0.50390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b29b49cfd87db10800000000000000
+      internalID: 2006228274983283485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 26
+        width: 104
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4903846, y: 0.49621212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3091492fbb54990800000000000000
+      internalID: -7402303761972395038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 884
+        width: 106
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4811321, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e862c2606eb466b80800000000000000
+      internalID: -8401944603494963570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_28
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 26
+        width: 103
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5048544, y: 0.49621212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1ed405dfca23bd0800000000000000
+      internalID: -2651867026593816100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 603
+        width: 104
+        height: 130
+      alignment: 9
+      pivot: {x: 0.50961536, y: 0.49615383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4833ab23ff0c64e30800000000000000
+      internalID: 4487486281021535108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_30
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 168
+        width: 105
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.49621212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e027bb55dc18fb0800000000000000
+      internalID: -4647207572368912894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_31
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 744
+        width: 100
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.50384617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bab0333a377b5c70800000000000000
+      internalID: 8960886975434373808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 883
+        width: 103
+        height: 132
+      alignment: 9
+      pivot: {x: 0.49514562, y: 0.5037879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57dfa62f1d541cf0800000000000000
+      internalID: -282498488243071138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 599
+        width: 99
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.5037879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bc4ac91a90e5090800000000000000
+      internalID: -8043981294714696882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 319
+        width: 101
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5049505, y: 0.50763357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3d560fba1003140800000000000000
+      internalID: 4697256249331667882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 599
+        width: 98
+        height: 132
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.5037879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772b4dab666c393a0800000000000000
+      internalID: -6659761279427366281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 595
+        width: 109
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5045872, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2835c5a2a748910800000000000000
+      internalID: 1838728870230196956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 741
+        width: 100
+        height: 132
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5037879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0782d76976eba60800000000000000
+      internalID: 7691699109637943467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_38
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 605
+        width: 106
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b1fa73710336260800000000000000
+      internalID: 7089563114687896405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_39
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 43
+        width: 107
+        height: 128
+      alignment: 9
+      pivot: {x: 0.49532712, y: 0.50390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568ce3808399519b0800000000000000
+      internalID: -5110009736246409115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_coralfish_moving_40
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 602
+        width: 105
+        height: 131
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.4923664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64e2e9ad8c6f21b0800000000000000
+      internalID: -5679201249394498449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

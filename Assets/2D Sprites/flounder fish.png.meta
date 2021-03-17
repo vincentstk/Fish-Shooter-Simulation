@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: 7cf054b7e5041e445852d1473d1187a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -470974666690506183
+    second: ock_fishes_flounderfish_dead_00
+  - first:
+      213: 4818342652261239785
+    second: ock_fishes_flounderfish_dead_01
+  - first:
+      213: -7089269751654706240
+    second: ock_fishes_flounderfish_dead_02
+  - first:
+      213: 5749211643261006779
+    second: ock_fishes_flounderfish_dead_03
+  - first:
+      213: -752062275657076739
+    second: ock_fishes_flounderfish_dead_04
+  - first:
+      213: -4674156130665248633
+    second: ock_fishes_flounderfish_dead_05
+  - first:
+      213: 919388935408119683
+    second: ock_fishes_flounderfish_dead_06
+  - first:
+      213: -6136795221959431964
+    second: ock_fishes_flounderfish_dead_07
+  - first:
+      213: 2134580144275115358
+    second: ock_fishes_flounderfish_dead_08
+  - first:
+      213: 2612039873251483427
+    second: ock_fishes_flounderfish_dead_09
+  - first:
+      213: -1349455363654636373
+    second: ock_fishes_flounderfish_dead_10
+  - first:
+      213: 5220505081544871172
+    second: ock_fishes_flounderfish_dead_11
+  - first:
+      213: 5344448713140802938
+    second: ock_fishes_flounderfish_dead_12
+  - first:
+      213: -5029137902530494668
+    second: ock_fishes_flounderfish_dead_13
+  - first:
+      213: 8796134754805326160
+    second: ock_fishes_flounderfish_dead_14
+  - first:
+      213: -6351959791445068533
+    second: ock_fishes_flounderfish_dead_15
+  - first:
+      213: -2294004397022855744
+    second: ock_fishes_flounderfish_dead_16
+  - first:
+      213: -515550773087642490
+    second: ock_fishes_flounderfish_dead_17
+  - first:
+      213: -1715001793004805043
+    second: ock_fishes_flounderfish_dead_18
+  - first:
+      213: 6451840889555981139
+    second: ock_fishes_flounderfish_dead_19
+  - first:
+      213: 934717036492664198
+    second: ock_fishes_flounderfish_dead_20
+  - first:
+      213: -6109792620159507813
+    second: ock_fishes_flounderfish_dead_21
+  - first:
+      213: 6733365848105359339
+    second: ock_fishes_flounderfish_dead_22
+  - first:
+      213: -3409793904302278342
+    second: ock_fishes_flounderfish_dead_23
+  - first:
+      213: -3816581334022675267
+    second: ock_fishes_flounderfish_dead_24
+  - first:
+      213: 5430186963087701496
+    second: ock_fishes_flounderfish_dead_25
+  - first:
+      213: 7798867591963813348
+    second: ock_fishes_flounderfish_dead_26
+  - first:
+      213: 3925847082135999316
+    second: ock_fishes_flounderfish_moving_00
+  - first:
+      213: -4671768479596172511
+    second: ock_fishes_flounderfish_moving_01
+  - first:
+      213: 1609547411421252038
+    second: ock_fishes_flounderfish_moving_02
+  - first:
+      213: -8229934167011231048
+    second: ock_fishes_flounderfish_moving_03
+  - first:
+      213: -7872773382248607236
+    second: ock_fishes_flounderfish_moving_04
+  - first:
+      213: 3819539006367025889
+    second: ock_fishes_flounderfish_moving_05
+  - first:
+      213: -4328409507189313357
+    second: ock_fishes_flounderfish_moving_06
+  - first:
+      213: 5030803017615227014
+    second: ock_fishes_flounderfish_moving_07
+  - first:
+      213: -3265229596421995309
+    second: ock_fishes_flounderfish_moving_08
+  - first:
+      213: -2656311132390215305
+    second: ock_fishes_flounderfish_moving_09
+  - first:
+      213: 3878733846374510580
+    second: ock_fishes_flounderfish_moving_10
+  - first:
+      213: -774589431109594886
+    second: ock_fishes_flounderfish_moving_11
+  - first:
+      213: -7781299326252433633
+    second: ock_fishes_flounderfish_moving_12
+  - first:
+      213: 3023925578182677430
+    second: ock_fishes_flounderfish_moving_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_00
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 902
+        width: 90
+        height: 113
+      alignment: 9
+      pivot: {x: 0.2611111, y: 0.54867256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93254b53903c679f0800000000000000
+      internalID: -470974666690506183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_01
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 497
+        width: 91
+        height: 118
+      alignment: 9
+      pivot: {x: 0.31318682, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb05221d113ed240800000000000000
+      internalID: 4818342652261239785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_02
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 569
+        width: 82
+        height: 117
+      alignment: 9
+      pivot: {x: 0.2621951, y: 0.52991456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c313bfa8badd9d90800000000000000
+      internalID: -7089269751654706240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_03
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 502
+        width: 91
+        height: 102
+      alignment: 9
+      pivot: {x: 0.25824177, y: 0.46078432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3bc17678d49cf40800000000000000
+      internalID: 5749211643261006779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_04
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 824
+        width: 103
+        height: 91
+      alignment: 9
+      pivot: {x: 0.3446602, y: 0.2967033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffec7a48532095f0800000000000000
+      internalID: -752062275657076739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_05
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 724
+        width: 100
+        height: 90
+      alignment: 9
+      pivot: {x: 0.305, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788cbfe83cf022fb0800000000000000
+      internalID: -4674156130665248633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_06
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 824
+        width: 113
+        height: 91
+      alignment: 9
+      pivot: {x: 0.3938053, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fec699d5352cc00800000000000000
+      internalID: 919388935408119683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_07
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 925
+        width: 125
+        height: 90
+      alignment: 9
+      pivot: {x: 0.476, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e82bcf7249b5daa0800000000000000
+      internalID: -6136795221959431964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_08
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 922
+        width: 113
+        height: 93
+      alignment: 9
+      pivot: {x: 0.50884956, y: 0.29032257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dce1ce45d8f9d10800000000000000
+      internalID: 2134580144275115358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_09
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 723
+        width: 100
+        height: 89
+      alignment: 9
+      pivot: {x: 0.565, y: 0.26966292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f9f40fc64df3420800000000000000
+      internalID: 2612039873251483427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_10
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 922
+        width: 91
+        height: 93
+      alignment: 9
+      pivot: {x: 0.65384614, y: 0.24731183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacae191f75c54de0800000000000000
+      internalID: -1349455363654636373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 810
+        width: 89
+        height: 102
+      alignment: 9
+      pivot: {x: 0.71348315, y: 0.3137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d8a9556b5f27840800000000000000
+      internalID: 5220505081544871172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 897
+        width: 97
+        height: 118
+      alignment: 9
+      pivot: {x: 0.71649486, y: 0.40677965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a751d0bd9cb4b2a40800000000000000
+      internalID: 5344448713140802938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_13
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 794
+        width: 96
+        height: 122
+      alignment: 9
+      pivot: {x: 0.703125, y: 0.44262296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f773129b9e43ab0800000000000000
+      internalID: -5029137902530494668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 696
+        width: 95
+        height: 114
+      alignment: 9
+      pivot: {x: 0.6894737, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a3a0a4f5221a70800000000000000
+      internalID: 8796134754805326160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 451
+        width: 81
+        height: 108
+      alignment: 9
+      pivot: {x: 0.7962963, y: 0.49074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b053a5b493e49d7a0800000000000000
+      internalID: -6351959791445068533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 613
+        width: 95
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdb442b72f0a20e0800000000000000
+      internalID: -2294004397022855744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 820
+        width: 106
+        height: 98
+      alignment: 9
+      pivot: {x: 0.6556604, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cde6aad4568d8f0800000000000000
+      internalID: -515550773087642490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 928
+        width: 109
+        height: 87
+      alignment: 9
+      pivot: {x: 0.63761467, y: 0.74712646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d446acaa4f61338e0800000000000000
+      internalID: -1715001793004805043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 925
+        width: 113
+        height: 90
+      alignment: 9
+      pivot: {x: 0.58849555, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35313511b1b898950800000000000000
+      internalID: 6451840889555981139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 926
+        width: 108
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.6966292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68da6ad3138c8fc00800000000000000
+      internalID: 934717036492664198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 730
+        width: 101
+        height: 84
+      alignment: 9
+      pivot: {x: 0.490099, y: 0.7619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92e618abf7a53ba0800000000000000
+      internalID: -6109792620159507813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 822
+        width: 103
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4223301, y: 0.75555557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7111f5098b17d50800000000000000
+      internalID: 6733365848105359339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 625
+        width: 99
+        height: 95
+      alignment: 9
+      pivot: {x: 0.36868685, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3935c8828afda0d0800000000000000
+      internalID: -3409793904302278342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 614
+        width: 93
+        height: 99
+      alignment: 9
+      pivot: {x: 0.3172043, y: 0.7070707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db421317f77c80bc0800000000000000
+      internalID: -3816581334022675267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 382
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.2654321, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5bcc6c546eb5b40800000000000000
+      internalID: 5430186963087701496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_dead_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 770
+        width: 88
+        height: 122
+      alignment: 9
+      pivot: {x: 0.30113637, y: 0.56557375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e52f4531c42b3c60800000000000000
+      internalID: 7798867591963813348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_00
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 497
+        width: 82
+        height: 106
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45358350f196b7630800000000000000
+      internalID: 3925847082135999316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_01
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 270
+        width: 78
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49358973, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12badc4e15b8a2fb0800000000000000
+      internalID: -4671768479596172511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_02
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 386
+        width: 82
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49390244, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c9eac7d2465610800000000000000
+      internalID: 1609547411421252038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_03
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 678
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baf17aaa7669cd80800000000000000
+      internalID: -8229934167011231048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_04
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 381
+        width: 82
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49390244, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1dbe1125a4eb290800000000000000
+      internalID: -7872773382248607236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_05
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 665
+        width: 82
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49390244, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea41405d7ab10530800000000000000
+      internalID: 3819539006367025889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_06
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 781
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0be817c766ee3c0800000000000000
+      internalID: -4328409507189313357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_07
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 694
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6883befa0b001d540800000000000000
+      internalID: 5030803017615227014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_08
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 564
+        width: 83
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4903846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4cc236bf29fa2d0800000000000000
+      internalID: -3265229596421995309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_09
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 655
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77137fc4913e22bd0800000000000000
+      internalID: -2656311132390215305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 681
+        width: 83
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49514562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffef6302e704d530800000000000000
+      internalID: 3878733846374510580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 568
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.49514562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0d0ff240b1045f0800000000000000
+      internalID: -774589431109594886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_12
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 909
+        width: 80
+        height: 106
+      alignment: 9
+      pivot: {x: 0.50625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fbcb76d75430490800000000000000
+      internalID: -7781299326252433633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_flounderfish_moving_14
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 794
+        width: 80
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50625, y: 0.50476193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3dbcaba4427f920800000000000000
+      internalID: 3023925578182677430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

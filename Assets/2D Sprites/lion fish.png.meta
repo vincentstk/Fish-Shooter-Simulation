@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: a0a0cfd06d863654a91b823d0c9e61ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 364392257411400468
+    second: ock_fishes_lionfish_dead_00
+  - first:
+      213: -1100619409256333413
+    second: ock_fishes_lionfish_dead_01
+  - first:
+      213: -4606679859441388474
+    second: ock_fishes_lionfish_dead_02
+  - first:
+      213: -3750518115012036511
+    second: ock_fishes_lionfish_dead_03
+  - first:
+      213: -529147006149465868
+    second: ock_fishes_lionfish_dead_04
+  - first:
+      213: 1016397102436967698
+    second: ock_fishes_lionfish_dead_05
+  - first:
+      213: 4371680704967840255
+    second: ock_fishes_lionfish_dead_06
+  - first:
+      213: 828765433025523859
+    second: ock_fishes_lionfish_dead_07
+  - first:
+      213: -3987926178107408365
+    second: ock_fishes_lionfish_dead_08
+  - first:
+      213: 3941607642715685277
+    second: ock_fishes_lionfish_dead_09
+  - first:
+      213: 6950952714402993258
+    second: ock_fishes_lionfish_dead_10
+  - first:
+      213: -3173383155834925455
+    second: ock_fishes_lionfish_dead_12
+  - first:
+      213: 8234924589063962665
+    second: ock_fishes_lionfish_dead_13
+  - first:
+      213: -3174181698000030454
+    second: ock_fishes_lionfish_dead_14
+  - first:
+      213: -2176009069957253590
+    second: ock_fishes_lionfish_dead_15
+  - first:
+      213: 8594066079255329976
+    second: ock_fishes_lionfish_moving_00
+  - first:
+      213: 250866591097667730
+    second: ock_fishes_lionfish_moving_01
+  - first:
+      213: 5844406113042750061
+    second: ock_fishes_lionfish_moving_03
+  - first:
+      213: -3597725432099807591
+    second: ock_fishes_lionfish_moving_04
+  - first:
+      213: -5707543760715129363
+    second: ock_fishes_lionfish_moving_05
+  - first:
+      213: 4544221581427844442
+    second: ock_fishes_lionfish_moving_06
+  - first:
+      213: -2611001226092962460
+    second: ock_fishes_lionfish_moving_07
+  - first:
+      213: -1396411667093992224
+    second: ock_fishes_lionfish_moving_08
+  - first:
+      213: 1003298351981187752
+    second: ock_fishes_lionfish_moving_09
+  - first:
+      213: -587475446731592744
+    second: ock_fishes_lionfish_moving_10
+  - first:
+      213: 3970198628604382577
+    second: ock_fishes_lionfish_moving_11
+  - first:
+      213: -1654169612180679772
+    second: ock_fishes_lionfish_moving_12
+  - first:
+      213: 5990638669320223347
+    second: ock_fishes_lionfish_moving_13
+  - first:
+      213: -6939755176969549320
+    second: ock_fishes_lionfish_moving_14
+  - first:
+      213: -6975517651492953702
+    second: ock_fishes_lionfish_moving_15
+  - first:
+      213: -8525311360196779660
+    second: ock_fishes_lionfish_moving_16
+  - first:
+      213: -3739415154538604595
+    second: ock_fishes_lionfish_moving_17
+  - first:
+      213: -6919654817958488913
+    second: ock_fishes_lionfish_moving_18
+  - first:
+      213: 3473429205886327397
+    second: ock_fishes_lionfish_moving_19
+  - first:
+      213: -5369849487754258211
+    second: ock_fishes_lionfish_moving_20
+  - first:
+      213: -7394159747868157871
+    second: ock_fishes_lionfish_moving_21
+  - first:
+      213: 8044564036081178622
+    second: ock_fishes_lionfish_moving_22
+  - first:
+      213: 3989335004871000680
+    second: ock_fishes_lionfish_moving_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_00
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 932
+        width: 111
+        height: 83
+      alignment: 9
+      pivot: {x: 0.490991, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413c8e5d3d49e0500800000000000000
+      internalID: 364392257411400468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_01
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 842
+        width: 111
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f30668a70d9b0f0800000000000000
+      internalID: -1100619409256333413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_02
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 934
+        width: 111
+        height: 81
+      alignment: 9
+      pivot: {x: 0.509009, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644bc083319c110c0800000000000000
+      internalID: -4606679859441388474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_03
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 934
+        width: 104
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5432692, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1683a0f35ab73fbc0800000000000000
+      internalID: -3750518115012036511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_04
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 660
+        width: 105
+        height: 79
+      alignment: 9
+      pivot: {x: 0.53809524, y: 0.51898736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8ef78f99718a8f0800000000000000
+      internalID: -529147006149465868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_05
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 934
+        width: 113
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215ed7197c7fa1e00800000000000000
+      internalID: 1016397102436967698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_06
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 935
+        width: 112
+        height: 80
+      alignment: 9
+      pivot: {x: 0.50446427, y: 0.5125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1990360745bac30800000000000000
+      internalID: 4371680704967840255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_07
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 420
+        width: 97
+        height: 84
+      alignment: 9
+      pivot: {x: 0.57216495, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390fb9535cd508b00800000000000000
+      internalID: 828765433025523859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_08
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 567
+        width: 101
+        height: 83
+      alignment: 9
+      pivot: {x: 0.53960395, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3104d6b154a08a8c0800000000000000
+      internalID: -3987926178107408365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_09
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 841
+        width: 111
+        height: 83
+      alignment: 9
+      pivot: {x: 0.509009, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91880c744763b630800000000000000
+      internalID: 3941607642715685277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_10
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 931
+        width: 104
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5432692, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6417808aaeb67060800000000000000
+      internalID: 6950952714402993258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 931
+        width: 110
+        height: 84
+      alignment: 9
+      pivot: {x: 0.49545455, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e404445d0e5f3d0800000000000000
+      internalID: -3173383155834925455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 749
+        width: 109
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48165137, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92089438844584270800000000000000
+      internalID: 8234924589063962665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 838
+        width: 109
+        height: 84
+      alignment: 9
+      pivot: {x: 0.48165137, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05792e209a03f3d0800000000000000
+      internalID: -3174181698000030454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_dead_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 841
+        width: 110
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48636365, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a267b25a7434dc1e0800000000000000
+      internalID: -2176009069957253590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_00
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 915
+        width: 106
+        height: 100
+      alignment: 9
+      pivot: {x: 0.504717, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc7f36d091444770800000000000000
+      internalID: 8594066079255329976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_01
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 824
+        width: 103
+        height: 100
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c360e5d14b7300800000000000000
+      internalID: 250866591097667730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_03
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 715
+        width: 100
+        height: 99
+      alignment: 9
+      pivot: {x: 0.535, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad80315608b1150800000000000000
+      internalID: 5844406113042750061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_04
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 805
+        width: 102
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5245098, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e5d44f7cf421ec0800000000000000
+      internalID: -3597725432099807591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_05
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 514
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.535, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedd392803bbac0b0800000000000000
+      internalID: -5707543760715129363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_06
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 713
+        width: 100
+        height: 98
+      alignment: 9
+      pivot: {x: 0.535, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55aba5b371501f30800000000000000
+      internalID: 4544221581427844442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_07
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 695
+        width: 99
+        height: 100
+      alignment: 9
+      pivot: {x: 0.540404, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d9e92f73cd3cbd0800000000000000
+      internalID: -2611001226092962460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_08
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 606
+        width: 95
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5631579, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecc6aebcf2fe9ce0800000000000000
+      internalID: -1396411667093992224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_09
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 712
+        width: 102
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5245098, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2d291198e6ced00800000000000000
+      internalID: 1003298351981187752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 509
+        width: 97
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5515464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbac4b913ed8d7f0800000000000000
+      internalID: -587475446731592744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 619
+        width: 101
+        height: 100
+      alignment: 9
+      pivot: {x: 0.519802, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d05b12e9af81730800000000000000
+      internalID: 3970198628604382577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_12
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 602
+        width: 99
+        height: 100
+      alignment: 9
+      pivot: {x: 0.540404, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a399bb70853b09e0800000000000000
+      internalID: -1654169612180679772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 585
+        width: 92
+        height: 100
+      alignment: 9
+      pivot: {x: 0.58152175, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37afc864126032350800000000000000
+      internalID: 5990638669320223347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_14
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 603
+        width: 93
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5645161, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f94d885f6901bf90800000000000000
+      internalID: -6939755176969549320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 515
+        width: 98
+        height: 100
+      alignment: 9
+      pivot: {x: 0.54591835, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91ab4267abf13f90800000000000000
+      internalID: -6975517651492953702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 459
+        width: 97
+        height: 98
+      alignment: 9
+      pivot: {x: 0.53092784, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4716ed7ac7200b980800000000000000
+      internalID: -8525311360196779660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_17
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 821
+        width: 103
+        height: 100
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7930eaabdea1cc0800000000000000
+      internalID: -3739415154538604595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_18
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 732
+        width: 106
+        height: 99
+      alignment: 9
+      pivot: {x: 0.504717, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4934fda9278ff90800000000000000
+      internalID: -6919654817958488913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 625
+        width: 102
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49509802, y: 0.48453608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a5251b579143030800000000000000
+      internalID: 3473429205886327397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 624
+        width: 104
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49519232, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8181177567a75b0800000000000000
+      internalID: -5369849487754258211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 732
+        width: 107
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15893df92eaa26990800000000000000
+      internalID: -7394159747868157871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_22
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 821
+        width: 106
+        height: 100
+      alignment: 9
+      pivot: {x: 0.495283, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7508f6e5804af60800000000000000
+      internalID: 8044564036081178622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_lionfish_moving_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 729
+        width: 105
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8620e5fec07fc5730800000000000000
+      internalID: 3989335004871000680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

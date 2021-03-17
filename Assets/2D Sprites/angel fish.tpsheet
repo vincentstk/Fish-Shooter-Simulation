@@ -1,0 +1,67 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b9de2b4bca64d803bcff79c96ac8417e:795e3ae700892574b3265d51e1558122:56d590d759ba8013b89b532b7648a4bb$
+#
+:format=40300
+:texture=angel fish.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ock_fishes_angelfish_dead_00;406;360;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_01;451;360;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_02;406;290;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_03;451;290;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_04;181;277;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_05;226;277;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_06;271;277;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_08;316;277;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_09;361;277;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_10;406;220;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_11;451;220;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_12;181;150;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_13;181;80;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_14;181;10;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_15;226;207;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_dead_16;271;207;43;68; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_00;1;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_01;1;347;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_02;1;264;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_03;1;181;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_04;1;98;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_05;1;15;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_06;46;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_07;46;347;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_08;46;264;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_09;46;181;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_10;46;98;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_11;46;15;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_12;91;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_13;136;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_14;181;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_15;226;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_16;271;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_17;316;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_18;361;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_19;406;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_20;451;430;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_21;91;347;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_22;91;264;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_23;91;181;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_24;91;98;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_25;91;15;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_26;136;347;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_27;136;264;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_28;136;181;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_29;136;98;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_30;136;15;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_31;181;347;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_32;226;347;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_33;271;347;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_34;316;347;43;81; 0.5;0.5; 0;0;0;0
+ock_fishes_angelfish_moving_35;361;347;43;81; 0.5;0.5; 0;0;0;0

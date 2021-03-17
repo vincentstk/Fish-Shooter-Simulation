@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 4612dc4a55fe75440b2d6af2c8358446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4644150277159004879
+    second: ock_fishes_turbo_cornutus_dead_00
+  - first:
+      213: 3452736505329985604
+    second: ock_fishes_turbo_cornutus_dead_01
+  - first:
+      213: 1441809351360685356
+    second: ock_fishes_turbo_cornutus_dead_02
+  - first:
+      213: 4843197058093616743
+    second: ock_fishes_turbo_cornutus_dead_03
+  - first:
+      213: -5933051921499028342
+    second: ock_fishes_turbo_cornutus_dead_04
+  - first:
+      213: 1140232489695466046
+    second: ock_fishes_turbo_cornutus_dead_05
+  - first:
+      213: -5008257217782031055
+    second: ock_fishes_turbo_cornutus_dead_06
+  - first:
+      213: 1191842848254868677
+    second: ock_fishes_turbo_cornutus_moving_00
+  - first:
+      213: 7587676394186389376
+    second: ock_fishes_turbo_cornutus_moving_01
+  - first:
+      213: -6143909791249990684
+    second: ock_fishes_turbo_cornutus_moving_02
+  - first:
+      213: -3946346106028193824
+    second: ock_fishes_turbo_cornutus_moving_03
+  - first:
+      213: -309500035862086757
+    second: ock_fishes_turbo_cornutus_moving_04
+  - first:
+      213: 2958350824461200282
+    second: ock_fishes_turbo_cornutus_moving_05
+  - first:
+      213: 4467971262932993490
+    second: ock_fishes_turbo_cornutus_moving_06
+  - first:
+      213: 292615363008324815
+    second: ock_fishes_turbo_cornutus_moving_07
+  - first:
+      213: -9012673627915937270
+    second: ock_fishes_turbo_cornutus_moving_08
+  - first:
+      213: -8515403600512248032
+    second: ock_fishes_turbo_cornutus_moving_10
+  - first:
+      213: 6358474179878578629
+    second: ock_fishes_turbo_cornutus_moving_11
+  - first:
+      213: 8657237364801163995
+    second: ock_fishes_turbo_cornutus_moving_12
+  - first:
+      213: 3818502267790901830
+    second: ock_fishes_turbo_cornutus_moving_13
+  - first:
+      213: -3671926772507613670
+    second: ock_fishes_turbo_cornutus_moving_14
+  - first:
+      213: 1258664394582317347
+    second: ock_fishes_turbo_cornutus_moving_15
+  - first:
+      213: 3136789168790966662
+    second: ock_fishes_turbo_cornutus_moving_16
+  - first:
+      213: 3651561610014816713
+    second: ock_fishes_turbo_cornutus_moving_17
+  - first:
+      213: 7377838868193176247
+    second: ock_fishes_turbo_cornutus_moving_19
+  - first:
+      213: 1362300505561539375
+    second: ock_fishes_turbo_cornutus_moving_20
+  - first:
+      213: 2714223260131709929
+    second: ock_fishes_turbo_cornutus_moving_21
+  - first:
+      213: -8768968509927402824
+    second: ock_fishes_turbo_cornutus_moving_22
+  - first:
+      213: -2600481808811880524
+    second: ock_fishes_turbo_cornutus_moving_23
+  - first:
+      213: -4146921872402588025
+    second: ock_fishes_turbo_cornutus_moving_24
+  - first:
+      213: 8160820230647970786
+    second: ock_fishes_turbo_cornutus_moving_25
+  - first:
+      213: 2784404887968318308
+    second: ock_fishes_turbo_cornutus_moving_26
+  - first:
+      213: 5773752968336287733
+    second: ock_fishes_turbo_cornutus_moving_27
+  - first:
+      213: -4369153632447321808
+    second: ock_fishes_turbo_cornutus_moving_28
+  - first:
+      213: -989985670492697606
+    second: ock_fishes_turbo_cornutus_moving_29
+  - first:
+      213: 7782702565793885274
+    second: ock_fishes_turbo_cornutus_moving_30
+  - first:
+      213: -2768886918903800508
+    second: ock_fishes_turbo_cornutus_moving_31
+  - first:
+      213: -7265669115872282007
+    second: ock_fishes_turbo_cornutus_moving_32
+  - first:
+      213: 2292244000083698086
+    second: ock_fishes_turbo_cornutus_moving_33
+  - first:
+      213: 3508246102536484846
+    second: ock_fishes_turbo_cornutus_moving_34
+  - first:
+      213: 2243585013397436192
+    second: ock_fishes_turbo_cornutus_moving_35
+  - first:
+      213: 7463359878513603336
+    second: ock_fishes_turbo_cornutus_moving_36
+  - first:
+      213: 6064655505521590497
+    second: ock_fishes_turbo_cornutus_moving_37
+  - first:
+      213: -2498368018201130848
+    second: ock_fishes_turbo_cornutus_moving_38
+  - first:
+      213: -4618956065053217857
+    second: ock_fishes_turbo_cornutus_moving_39
+  - first:
+      213: 670058386723819668
+    second: ock_fishes_turbo_cornutus_moving_40
+  - first:
+      213: -7647870529271825031
+    second: ock_fishes_turbo_cornutus_moving_41
+  - first:
+      213: 5371127434380148149
+    second: ock_fishes_turbo_cornutus_moving_42
+  - first:
+      213: -636619736637959370
+    second: ock_fishes_turbo_cornutus_moving_43
+  - first:
+      213: -3000359630196511841
+    second: ock_fishes_turbo_cornutus_moving_44
+  - first:
+      213: 5154117491380849377
+    second: ock_fishes_turbo_cornutus_moving_45
+  - first:
+      213: 5422126385596451133
+    second: ock_fishes_turbo_cornutus_moving_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_dead_00
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 515
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135d76ebde9ac8fb0800000000000000
+      internalID: -4644150277159004879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_dead_01
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 355
+        width: 98
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.48051947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448a737ee859aef20800000000000000
+      internalID: 3452736505329985604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_dead_02
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 192
+        width: 92
+        height: 147
+      alignment: 9
+      pivot: {x: 0.4293478, y: 0.45578232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a0bd47f5520410800000000000000
+      internalID: 1441809351360685356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_dead_03
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 52
+        width: 91
+        height: 130
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e03e0601e763340800000000000000
+      internalID: 4843197058093616743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_dead_04
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 229
+        width: 96
+        height: 115
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.3043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a840a1946b099ada0800000000000000
+      internalID: -5933051921499028342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_dead_05
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 117
+        width: 86
+        height: 102
+      alignment: 9
+      pivot: {x: 0.3895349, y: 0.21568628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3258ad786be2df00800000000000000
+      internalID: 1140232489695466046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_dead_06
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 17
+        width: 98
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dd05668981f7ab0800000000000000
+      internalID: -5008257217782031055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_00
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 855
+        width: 115
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc325e71c64a8010800000000000000
+      internalID: 1191842848254868677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_01
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 855
+        width: 113
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49115044, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087b812ba77dc4960800000000000000
+      internalID: 7587676394186389376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_02
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 686
+        width: 110
+        height: 159
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebff70c8927cbaa0800000000000000
+      internalID: -6143909791249990684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_03
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 857
+        width: 108
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4675926, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7817d0023cb39c0800000000000000
+      internalID: -3946346106028193824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_04
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 516
+        width: 105
+        height: 160
+      alignment: 9
+      pivot: {x: 0.46190476, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b38707b5f64bbf0800000000000000
+      internalID: -309500035862086757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_05
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 346
+        width: 102
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44607842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b6efc966c2e0920800000000000000
+      internalID: 2958350824461200282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_06
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 9
+        width: 107
+        height: 159
+      alignment: 9
+      pivot: {x: 0.46261683, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d546c9f03c610e30800000000000000
+      internalID: 4467971262932993490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_07
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 516
+        width: 101
+        height: 160
+      alignment: 9
+      pivot: {x: 0.43069306, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4eeef4f149f0400800000000000000
+      internalID: 292615363008324815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_08
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 178
+        width: 99
+        height: 158
+      alignment: 9
+      pivot: {x: 0.42929292, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a1a8b261d8ce280800000000000000
+      internalID: -9012673627915937270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 11
+        width: 99
+        height: 157
+      alignment: 9
+      pivot: {x: 0.42929292, y: 0.49044585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0279268ba8533d980800000000000000
+      internalID: -8515403600512248032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 686
+        width: 101
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44059405, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9e725f396dd3850800000000000000
+      internalID: 6358474179878578629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_12
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 690
+        width: 105
+        height: 155
+      alignment: 9
+      pivot: {x: 0.46190476, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd25639e38fa42870800000000000000
+      internalID: 8657237364801163995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 346
+        width: 101
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44059405, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64243bdc49b0ef430800000000000000
+      internalID: 3818502267790901830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 516
+        width: 99
+        height: 160
+      alignment: 9
+      pivot: {x: 0.42929292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16ef6b1e02ba0dc0800000000000000
+      internalID: -3671926772507613670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_15
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 519
+        width: 97
+        height: 157
+      alignment: 9
+      pivot: {x: 0.41752577, y: 0.49044585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329d282299ca77110800000000000000
+      internalID: 1258664394582317347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 178
+        width: 100
+        height: 158
+      alignment: 9
+      pivot: {x: 0.435, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681141d212d188b20800000000000000
+      internalID: 3136789168790966662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 178
+        width: 102
+        height: 158
+      alignment: 9
+      pivot: {x: 0.44607842, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9f26000f3fca230800000000000000
+      internalID: 3651561610014816713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 105
+        height: 159
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba69b47c59536660800000000000000
+      internalID: 7377838868193176247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 346
+        width: 107
+        height: 159
+      alignment: 9
+      pivot: {x: 0.46261683, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23a45f871dd7e210800000000000000
+      internalID: 1362300505561539375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 515
+        width: 110
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3d04dacabdaa520800000000000000
+      internalID: 2714223260131709929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 685
+        width: 115
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2d037a99d5e4680800000000000000
+      internalID: -8768968509927402824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 855
+        width: 115
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf07e4a29b39ebd0800000000000000
+      internalID: -2600481808811880524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 515
+        width: 115
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e5524478c2376c0800000000000000
+      internalID: -4146921872402588025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 685
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf79b03ce014170800000000000000
+      internalID: 8160820230647970786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 346
+        width: 113
+        height: 159
+      alignment: 9
+      pivot: {x: 0.49115044, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46386324e7134a620800000000000000
+      internalID: 2784404887968318308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 178
+        width: 110
+        height: 158
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7aa8aebbd702050800000000000000
+      internalID: 5773752968336287733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_28
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 856
+        width: 107
+        height: 159
+      alignment: 9
+      pivot: {x: 0.46261683, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039aed88be5ad53c0800000000000000
+      internalID: -4369153632447321808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_29
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 858
+        width: 109
+        height: 157
+      alignment: 9
+      pivot: {x: 0.47247708, y: 0.49044585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb4e81274dd242f0800000000000000
+      internalID: -989985670492697606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 519
+        width: 105
+        height: 157
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.49044585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c6aa2cfb6b10c60800000000000000
+      internalID: 7782702565793885274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_31
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 686
+        width: 102
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44607842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d53877400f299d0800000000000000
+      internalID: -2768886918903800508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 346
+        width: 100
+        height: 159
+      alignment: 9
+      pivot: {x: 0.435, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af7ec2f682b2b90800000000000000
+      internalID: -7265669115872282007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_33
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 178
+        width: 97
+        height: 158
+      alignment: 9
+      pivot: {x: 0.41752577, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16283f5cfafcf10800000000000000
+      internalID: 2292244000083698086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_34
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 178
+        width: 99
+        height: 158
+      alignment: 9
+      pivot: {x: 0.42929292, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7f5562e3bcfa030800000000000000
+      internalID: 3508246102536484846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_35
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 354
+        width: 105
+        height: 155
+      alignment: 9
+      pivot: {x: 0.46190476, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027b1f2cea0d22f10800000000000000
+      internalID: 2243585013397436192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_36
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 9
+        width: 105
+        height: 159
+      alignment: 9
+      pivot: {x: 0.46190476, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803b4b5544e239760800000000000000
+      internalID: 7463359878513603336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 346
+        width: 101
+        height: 159
+      alignment: 9
+      pivot: {x: 0.44059405, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e04bb3ec0cf92450800000000000000
+      internalID: 6064655505521590497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_38
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 9
+        width: 98
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4234694, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8ccec3683045dd0800000000000000
+      internalID: -2498368018201130848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_39
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 349
+        width: 95
+        height: 157
+      alignment: 9
+      pivot: {x: 0.40526316, y: 0.49044585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbed5d5eeb26efb0800000000000000
+      internalID: -4618956065053217857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_40
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 10
+        width: 99
+        height: 158
+      alignment: 9
+      pivot: {x: 0.42929292, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d1777d868c4900800000000000000
+      internalID: 670058386723819668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_41
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 178
+        width: 101
+        height: 158
+      alignment: 9
+      pivot: {x: 0.43069306, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97df296164e4dd590800000000000000
+      internalID: -7647870529271825031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_42
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 855
+        width: 106
+        height: 160
+      alignment: 9
+      pivot: {x: 0.45754716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd7591b1f31a8a40800000000000000
+      internalID: 5371127434380148149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_43
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 686
+        width: 106
+        height: 160
+      alignment: 9
+      pivot: {x: 0.46698114, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63311b4f8b54a27f0800000000000000
+      internalID: -636619736637959370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_44
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 686
+        width: 105
+        height: 160
+      alignment: 9
+      pivot: {x: 0.46190476, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9be6bb10d49c56d0800000000000000
+      internalID: -3000359630196511841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 108
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4675926, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea026cfc8a178740800000000000000
+      internalID: 5154117491380849377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turbo_cornutus_moving_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 856
+        width: 110
+        height: 159
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39cfb458334f3b40800000000000000
+      internalID: 5422126385596451133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 9505b432b80cfb648b16cc376a524a5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2262107883173356570
+    second: ock_fishes_biglionfish_moving_00
+  - first:
+      213: 978328559860670916
+    second: ock_fishes_biglionfish_moving_01
+  - first:
+      213: -4465886971857872091
+    second: ock_fishes_biglionfish_moving_02
+  - first:
+      213: -5512861259349875072
+    second: ock_fishes_biglionfish_moving_03
+  - first:
+      213: -4536745451829056804
+    second: ock_fishes_biglionfish_moving_04
+  - first:
+      213: -5733056917676546801
+    second: ock_fishes_biglionfish_moving_05
+  - first:
+      213: -1292151601200809761
+    second: ock_fishes_biglionfish_moving_06
+  - first:
+      213: 5574992317726653505
+    second: ock_fishes_biglionfish_moving_07
+  - first:
+      213: -9203423240060117782
+    second: ock_fishes_biglionfish_moving_08
+  - first:
+      213: -1055640410350486476
+    second: ock_fishes_biglionfish_moving_09
+  - first:
+      213: 7128942633035274458
+    second: ock_fishes_biglionfish_moving_10
+  - first:
+      213: -2560433997371228346
+    second: ock_fishes_biglionfish_moving_11
+  - first:
+      213: -6771389555440204947
+    second: ock_fishes_biglionfish_moving_12
+  - first:
+      213: -4634426270694008868
+    second: ock_fishes_biglionfish_moving_13
+  - first:
+      213: -6544144135979863070
+    second: ock_fishes_biglionfish_moving_14
+  - first:
+      213: 5018735871863138611
+    second: ock_fishes_biglionfish_moving_15
+  - first:
+      213: -340250173310314599
+    second: ock_fishes_biglionfish_moving_16
+  - first:
+      213: 4673818095560363762
+    second: ock_fishes_biglionfish_moving_18
+  - first:
+      213: -147410615777296977
+    second: ock_fishes_biglionfish_moving_19
+  - first:
+      213: 732881724763420696
+    second: ock_fishes_biglionfish_moving_20
+  - first:
+      213: -8482081892427327692
+    second: ock_fishes_biglionfish_moving_21
+  - first:
+      213: -7010107018833983572
+    second: ock_fishes_biglionfish_moving_22
+  - first:
+      213: -7689310396302125983
+    second: ock_fishes_biglionfish_moving_23
+  - first:
+      213: 2005299524693001060
+    second: ock_fishes_biglionfish_moving_24
+  - first:
+      213: 5278659440902936155
+    second: ock_fishes_biglionfish_moving_25
+  - first:
+      213: 7035727065669401852
+    second: ock_fishes_biglionfish_moving_26
+  - first:
+      213: -1736026634195994622
+    second: ock_fishes_biglionfish_moving_27
+  - first:
+      213: 5731379301667722225
+    second: ock_fishes_biglionfish_moving_28
+  - first:
+      213: -6987503620564019640
+    second: ock_fishes_biglionfish_moving_29
+  - first:
+      213: -3253043942929092892
+    second: ock_fishes_biglionfish_moving_30
+  - first:
+      213: 5095271102665344175
+    second: ock_fishes_biglionfish_moving_31
+  - first:
+      213: 6482031300442517483
+    second: ock_fishes_biglionfish_moving_32
+  - first:
+      213: -8207009136454561765
+    second: ock_fishes_biglionfish_moving_33
+  - first:
+      213: 8086785234492155911
+    second: ock_fishes_biglionfish_moving_34
+  - first:
+      213: 3140993331817370000
+    second: ock_fishes_biglionfish_moving_35
+  - first:
+      213: -7778912816246594998
+    second: ock_fishes_biglionfish_moving_36
+  - first:
+      213: 1105645887691181501
+    second: ock_fishes_biglionfish_moving_37
+  - first:
+      213: 6265971044964760123
+    second: ock_fishes_biglionfish_moving_38
+  - first:
+      213: -4242393566716737446
+    second: ock_fishes_biglionfish_moving_39
+  - first:
+      213: 1881110121129215265
+    second: ock_fishes_biglionfish_moving_40
+  - first:
+      213: 6363106557103280578
+    second: ock_fishes_biglionfish_moving_41
+  - first:
+      213: 4824681428386496757
+    second: ock_fishes_biglionfish_moving_42
+  - first:
+      213: -611524309757095166
+    second: ock_fishes_biglionfish_moving_43
+  - first:
+      213: -7396370278868647477
+    second: ock_fishes_biglionfish_moving_44
+  - first:
+      213: -570827311259923736
+    second: ock_fishes_biglionfish_moving_45
+  - first:
+      213: -3224053794264536361
+    second: ock_fishes_biglionfish_moving_46
+  - first:
+      213: -5529468526773696110
+    second: ock_fishes_biglionfish_moving_47
+  - first:
+      213: -6164635068231017765
+    second: ock_fishes_biglionfish_moving_48
+  - first:
+      213: 4800911997186919451
+    second: ock_fishes_biglionfish_moving_49
+  - first:
+      213: -5055293447576490706
+    second: ock_fishes_biglionfish_moving_50
+  - first:
+      213: -2805346092298485637
+    second: ock_fishes_biglionfish_moving_51
+  - first:
+      213: -8572671576545866693
+    second: ock_fishes_biglionfish_moving_52
+  - first:
+      213: -7348353782371885474
+    second: ock_fishes_biglionfish_moving_53
+  - first:
+      213: -2815283274799023173
+    second: ock_fishes_biglionfish_moving_54
+  - first:
+      213: 7852083030198854765
+    second: ock_fishes_biglionfish_moving_55
+  - first:
+      213: 3811276715402174301
+    second: ock_fishes_biglionfish_moving_56
+  - first:
+      213: 1791558126493627899
+    second: ock_fishes_biglionfish_moving_57
+  - first:
+      213: -7487849891238282792
+    second: ock_fishes_biglionfish_moving_58
+  - first:
+      213: 3173159983810025787
+    second: ock_fishes_biglionfish_moving_59
+  - first:
+      213: -6745073543089559927
+    second: ock_fishes_biglionfish_moving_60
+  - first:
+      213: 3811728237423014113
+    second: ock_fishes_biglionfish_moving_61
+  - first:
+      213: 2861575768546524377
+    second: ock_fishes_biglionfish_moving_62
+  - first:
+      213: 6696586390662488235
+    second: ock_fishes_biglionfish_moving_63
+  - first:
+      213: -8157663924202676692
+    second: ock_fishes_biglionfish_moving_64
+  - first:
+      213: 1405714388052920395
+    second: ock_fishes_biglionfish_moving_65
+  - first:
+      213: -4711068292502084078
+    second: ock_fishes_biglionfish_moving_66
+  - first:
+      213: 5147115624087738688
+    second: ock_fishes_biglionfish_moving_67
+  - first:
+      213: -6865676767710047287
+    second: ock_fishes_biglionfish_moving_68
+  - first:
+      213: 1170415279930229241
+    second: ock_fishes_biglionfish_moving_69
+  - first:
+      213: -2311124713165503651
+    second: ock_fishes_biglionfish_moving_70
+  - first:
+      213: 8179264210045702566
+    second: ock_fishes_biglionfish_moving_71
+  - first:
+      213: 2578591282726013292
+    second: ock_fishes_biglionfish_moving_72
+  - first:
+      213: 7513065982711222931
+    second: ock_fishes_biglionfish_moving_73
+  - first:
+      213: 7817259075194757251
+    second: ock_fishes_biglionfish_moving_74
+  - first:
+      213: -5180764804931194483
+    second: ock_fishes_biglionfish_moving_75
+  - first:
+      213: -507678405425323275
+    second: ock_fishes_biglionfish_moving_76
+  - first:
+      213: 938849142934664402
+    second: ock_fishes_biglionfish_moving_77
+  - first:
+      213: -4089049847005426333
+    second: ock_fishes_biglionfish_moving_78
+  - first:
+      213: 8031291072501200910
+    second: ock_fishes_biglionfish_moving_79
+  - first:
+      213: 4689431644985342616
+    second: ock_fishes_biglionfish_moving_80
+  - first:
+      213: 3996450443204992381
+    second: ock_fishes_biglionfish_moving_81
+  - first:
+      213: 6284916239081839443
+    second: ock_fishes_biglionfish_moving_82
+  - first:
+      213: 1980089679309276793
+    second: ock_fishes_biglionfish_moving_83
+  - first:
+      213: -8255380955152555742
+    second: ock_fishes_biglionfish_moving_84
+  - first:
+      213: 6934178834225928641
+    second: ock_fishes_biglionfish_moving_85
+  - first:
+      213: 7443141609726961926
+    second: ock_fishes_biglionfish_moving_86
+  - first:
+      213: -3720259940036593059
+    second: ock_fishes_biglionfish_moving_87
+  - first:
+      213: -7525691675559504840
+    second: ock_fishes_biglionfish_moving_88
+  - first:
+      213: 446685651984858558
+    second: ock_fishes_biglionfish_moving_89
+  - first:
+      213: 2554836444066347915
+    second: ock_fishes_biglionfish_moving_90
+  - first:
+      213: 1865438397095507601
+    second: ock_fishes_biglionfish_moving_91
+  - first:
+      213: 7495096144952861418
+    second: ock_fishes_biglionfish_moving_92
+  - first:
+      213: -1993232053554431733
+    second: ock_fishes_biglionfish_moving_93
+  - first:
+      213: 7851173232687373820
+    second: ock_fishes_biglionfish_moving_94
+  - first:
+      213: 5802583222919320029
+    second: ock_fishes_biglionfish_moving_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_00
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3717
+        width: 391
+        height: 378
+      alignment: 9
+      pivot: {x: 0.4961637, y: 0.755291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb57db8dd06b90e0800000000000000
+      internalID: -2262107883173356570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_01
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3334
+        width: 390
+        height: 384
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.74348956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c16d1c44a8b39d00800000000000000
+      internalID: 978328559860670916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_02
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 2570
+        width: 377
+        height: 383
+      alignment: 9
+      pivot: {x: 0.48541114, y: 0.7454308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bdd5bd57bf502c0800000000000000
+      internalID: -4465886971857872091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_03
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2957
+        width: 384
+        height: 381
+      alignment: 9
+      pivot: {x: 0.49739584, y: 0.7493438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086207c94e16e73b0800000000000000
+      internalID: -5512861259349875072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_04
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 3328
+        width: 386
+        height: 385
+      alignment: 9
+      pivot: {x: 0.50259066, y: 0.74155843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda2c5b5c0e3a01c0800000000000000
+      internalID: -4536745451829056804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_05
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2941
+        width: 381
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5013123, y: 0.74088544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052bc0cb171070b0800000000000000
+      internalID: -5733056917676546801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_06
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2952
+        width: 382
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5052356, y: 0.7513298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8397ef6fa511ee0800000000000000
+      internalID: -1292151601200809761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2948
+        width: 383
+        height: 381
+      alignment: 9
+      pivot: {x: 0.5065274, y: 0.7467192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cf0a3b9f95e5d40800000000000000
+      internalID: 5574992317726653505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_08
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 3712
+        width: 388
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.74281985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec54a2335fd64080800000000000000
+      internalID: -9203423240060117782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_09
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2571
+        width: 377
+        height: 380
+      alignment: 9
+      pivot: {x: 0.51193637, y: 0.7486842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cf28ac3ac9951f0800000000000000
+      internalID: -1055640410350486476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2570
+        width: 380
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.7447644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad89432dd871fe260800000000000000
+      internalID: 7128942633035274458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2199
+        width: 376
+        height: 381
+      alignment: 9
+      pivot: {x: 0.5212766, y: 0.7493438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fbadb58d2877cd0800000000000000
+      internalID: -2560433997371228346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_12
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2953
+        width: 380
+        height: 375
+      alignment: 9
+      pivot: {x: 0.5236842, y: 0.75333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63423063113702a0800000000000000
+      internalID: -6771389555440204947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_13
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2191
+        width: 375
+        height: 379
+      alignment: 9
+      pivot: {x: 0.52, y: 0.75065964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd79b8d6cd53fafb0800000000000000
+      internalID: -4634426270694008868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_14
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2186
+        width: 373
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5254692, y: 0.7454308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f6f7a4978e25a0800000000000000
+      internalID: -6544144135979863070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_15
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2572
+        width: 371
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5283019, y: 0.7473822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339a9ef5fa126a540800000000000000
+      internalID: 5018735871863138611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_16
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1805
+        width: 370
+        height: 379
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.75065964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997d2152540374bf0800000000000000
+      internalID: -340250173310314599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_18
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 1081
+        width: 361
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5235457, y: 0.7526455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe0ba28bccbcd040800000000000000
+      internalID: 4673818095560363762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_19
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 1815
+        width: 364
+        height: 379
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.7480211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadf87273da44fdf0800000000000000
+      internalID: -147410615777296977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1817
+        width: 359
+        height: 380
+      alignment: 9
+      pivot: {x: 0.53481895, y: 0.7434211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81836e2bb08bb2a00800000000000000
+      internalID: 732881724763420696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2191
+        width: 360
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5388889, y: 0.75198936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43798167577994a80800000000000000
+      internalID: -8482081892427327692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1435
+        width: 355
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5408451, y: 0.7520107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca78de8bec817be90800000000000000
+      internalID: -7010107018833983572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_23
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1042
+        width: 348
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5488506, y: 0.7526455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16491bc2fe41a4590800000000000000
+      internalID: -7689310396302125983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_24
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1429
+        width: 351
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5470086, y: 0.7526738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463069d0b4144db10800000000000000
+      internalID: 2005299524693001060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_25
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 2217
+        width: 370
+        height: 375
+      alignment: 9
+      pivot: {x: 0.5108108, y: 0.75333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5618414bc0914940800000000000000
+      internalID: 5278659440902936155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 663
+        width: 345
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5536232, y: 0.7546419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc73d54d7ce3a160800000000000000
+      internalID: 7035727065669401852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_27
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1836
+        width: 365
+        height: 379
+      alignment: 9
+      pivot: {x: 0.52328765, y: 0.75329816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208712c59f468e7e0800000000000000
+      internalID: -1736026634195994622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 670
+        width: 347
+        height: 379
+      alignment: 9
+      pivot: {x: 0.55043226, y: 0.75329816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f35ee4db13f98f40800000000000000
+      internalID: 5731379301667722225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_29
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1811
+        width: 372
+        height: 378
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.7526455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846968d7a76670f90800000000000000
+      internalID: -6987503620564019640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_30
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 2957
+        width: 386
+        height: 375
+      alignment: 9
+      pivot: {x: 0.48963732, y: 0.7506667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eea9fee4cddad2d0800000000000000
+      internalID: -3253043942929092892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_31
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1801
+        width: 366
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5163934, y: 0.755291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44eac621a06b640800000000000000
+      internalID: 5095271102665344175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1810
+        width: 357
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.7427441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe6dddf1dc4f950800000000000000
+      internalID: 6482031300442517483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_33
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 1821
+        width: 366
+        height: 380
+      alignment: 9
+      pivot: {x: 0.5136612, y: 0.7460526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b109d394ca8da1e80800000000000000
+      internalID: -8207009136454561765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_34
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1438
+        width: 362
+        height: 375
+      alignment: 9
+      pivot: {x: 0.519337, y: 0.7506667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70867cc33580a3070800000000000000
+      internalID: 8086785234492155911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2192
+        width: 360
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5222222, y: 0.7513298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09158d82bcc079b20800000000000000
+      internalID: 3140993331817370000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_36
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 674
+        width: 348
+        height: 377
+      alignment: 9
+      pivot: {x: 0.54022986, y: 0.7546419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4263e01200cb0490800000000000000
+      internalID: -7778912816246594998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_37
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 677
+        width: 345
+        height: 378
+      alignment: 9
+      pivot: {x: 0.54202896, y: 0.744709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd443fa31b085f00800000000000000
+      internalID: 1105645887691181501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_38
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1057
+        width: 349
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5444126, y: 0.7526738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3af104877335f650800000000000000
+      internalID: 6265971044964760123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 296
+        width: 347
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5389049, y: 0.75329816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58427a378dff15c0800000000000000
+      internalID: -4242393566716737446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_40
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 299
+        width: 343
+        height: 376
+      alignment: 9
+      pivot: {x: 0.54227406, y: 0.75398934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1258c4940bb0b1a10800000000000000
+      internalID: 1881110121129215265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_41
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 1040
+        width: 343
+        height: 378
+      alignment: 9
+      pivot: {x: 0.54810494, y: 0.755291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1991453bb4e4850800000000000000
+      internalID: 6363106557103280578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_42
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1056
+        width: 343
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5451895, y: 0.74281985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0c6656236b4f240800000000000000
+      internalID: 4824681428386496757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_43
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 678
+        width: 340
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5470588, y: 0.75398934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203996951ed6387f0800000000000000
+      internalID: -611524309757095166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_44
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 676
+        width: 341
+        height: 380
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.7513158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc107c44b60da5990800000000000000
+      internalID: -7396370278868647477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_45
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 668
+        width: 343
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5451895, y: 0.755291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac244b5930418f0800000000000000
+      internalID: -570827311259923736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_46
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1058
+        width: 342
+        height: 378
+      alignment: 9
+      pivot: {x: 0.54385966, y: 0.755291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daac18e72cd143d0800000000000000
+      internalID: -3224053794264536361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_47
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1420
+        width: 346
+        height: 379
+      alignment: 9
+      pivot: {x: 0.53757226, y: 0.75065964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29983f8dba16343b0800000000000000
+      internalID: -5529468526773696110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_48
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 708
+        width: 342
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5409357, y: 0.7513298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda9c2c2111d27aa0800000000000000
+      internalID: -6164635068231017765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1057
+        width: 354
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.7513298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ccc3e660440a240800000000000000
+      internalID: 4800911997186919451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_50
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1433
+        width: 354
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.75398934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2de7ddb46df7d9b0800000000000000
+      internalID: -5055293447576490706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_51
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 1441
+        width: 364
+        height: 378
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.7526455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70c488a7986119d0800000000000000
+      internalID: -2805346092298485637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 289
+        width: 344
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5377907, y: 0.75065964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c45effe90c70980800000000000000
+      internalID: -8572671576545866693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1051
+        width: 351
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5270655, y: 0.7480211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e53dd0b27650a90800000000000000
+      internalID: -7348353782371885474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_54
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 282
+        width: 342
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5292398, y: 0.75065964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb718f07ca1ee8d0800000000000000
+      internalID: -2815283274799023173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_55
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1048
+        width: 345
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5275362, y: 0.75329816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6420e1f9e338fc60800000000000000
+      internalID: 7852083030198854765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_56
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 296
+        width: 345
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5246377, y: 0.7513298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f934acaff54e430800000000000000
+      internalID: 3811276715402174301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_57
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1053
+        width: 351
+        height: 380
+      alignment: 9
+      pivot: {x: 0.52991456, y: 0.7460526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5fd1cbf94ecd810800000000000000
+      internalID: 1791558126493627899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 677
+        width: 351
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5270655, y: 0.7473545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d97b4d3230d51890800000000000000
+      internalID: -7487849891238282792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1435
+        width: 355
+        height: 380
+      alignment: 9
+      pivot: {x: 0.52112675, y: 0.7460526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b391b727134590c20800000000000000
+      internalID: 3173159983810025787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_60
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1803
+        width: 357
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5154062, y: 0.75065964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986e248795fa462a0800000000000000
+      internalID: -6745073543089559927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_61
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1422
+        width: 352
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5255682, y: 0.7480211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0bce3f2aaf5e430800000000000000
+      internalID: 3811728237423014113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1432
+        width: 355
+        height: 380
+      alignment: 9
+      pivot: {x: 0.52394366, y: 0.7460526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcb41e000c56b720800000000000000
+      internalID: 2861575768546524377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_63
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1461
+        width: 363
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5289256, y: 0.7520107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0272f97dd0fec50800000000000000
+      internalID: 6696586390662488235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_64
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1814
+        width: 359
+        height: 376
+      alignment: 9
+      pivot: {x: 0.51810586, y: 0.7486702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e51e0d1e72ace80800000000000000
+      internalID: -8157663924202676692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_65
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 2196
+        width: 369
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5203252, y: 0.7473262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48cc83c9c9128310800000000000000
+      internalID: 1405714388052920395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_66
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 2181
+        width: 370
+        height: 387
+      alignment: 9
+      pivot: {x: 0.5162162, y: 0.7377261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216aec8295cee9eb0800000000000000
+      internalID: -4711068292502084078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_67
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2203
+        width: 371
+        height: 380
+      alignment: 9
+      pivot: {x: 0.51212937, y: 0.7513158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049dc97b36a3e6740800000000000000
+      internalID: 5147115624087738688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_68
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 1086
+        width: 362
+        height: 373
+      alignment: 9
+      pivot: {x: 0.49447513, y: 0.74932975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c39dfd0b5738b0a0800000000000000
+      internalID: -6865676767710047287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_69
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2184
+        width: 375
+        height: 379
+      alignment: 9
+      pivot: {x: 0.504, y: 0.75329816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f14ee7fe762e3010800000000000000
+      internalID: 1170415279930229241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_70
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2572
+        width: 377
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5066313, y: 0.755291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53c428715c3defd0800000000000000
+      internalID: -2311124713165503651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_71
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2585
+        width: 380
+        height: 370
+      alignment: 9
+      pivot: {x: 0.49736843, y: 0.7472973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a117d3a675928170800000000000000
+      internalID: 8179264210045702566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_72
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 2955
+        width: 380
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5026316, y: 0.73719674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c698dc31c1ff8c320800000000000000
+      internalID: 2578591282726013292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_73
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2565
+        width: 377
+        height: 374
+      alignment: 9
+      pivot: {x: 0.48806366, y: 0.7446524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392d29194b5c34860800000000000000
+      internalID: 7513065982711222931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_74
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 3715
+        width: 388
+        height: 380
+      alignment: 9
+      pivot: {x: 0.49226806, y: 0.7513158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ae2616bb7c7c60800000000000000
+      internalID: 7817259075194757251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_75
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2582
+        width: 381
+        height: 373
+      alignment: 9
+      pivot: {x: 0.49081364, y: 0.74932975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81fa39dbd93a18b0800000000000000
+      internalID: -5180764804931194483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_76
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 3327
+        width: 384
+        height: 383
+      alignment: 9
+      pivot: {x: 0.48697916, y: 0.7454308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2ac781e2d54f8f0800000000000000
+      internalID: -507678405425323275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_77
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2954
+        width: 384
+        height: 378
+      alignment: 9
+      pivot: {x: 0.484375, y: 0.755291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4fc4e3256770d00800000000000000
+      internalID: 938849142934664402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_78
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 2956
+        width: 386
+        height: 378
+      alignment: 9
+      pivot: {x: 0.48445597, y: 0.755291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d406034d6c047c0800000000000000
+      internalID: -4089049847005426333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3714
+        width: 392
+        height: 381
+      alignment: 9
+      pivot: {x: 0.49489796, y: 0.7493438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083338cda0e47f60800000000000000
+      internalID: 8031291072501200910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_80
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3720
+        width: 392
+        height: 375
+      alignment: 9
+      pivot: {x: 0.49234694, y: 0.74266666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ab3d54c35341140800000000000000
+      internalID: 4689431644985342616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_81
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 2594
+        width: 385
+        height: 380
+      alignment: 9
+      pivot: {x: 0.4831169, y: 0.7513158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d9fa5018e367730800000000000000
+      internalID: 3996450443204992381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_82
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 3334
+        width: 386
+        height: 379
+      alignment: 9
+      pivot: {x: 0.4818653, y: 0.75065964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b9e814502883750800000000000000
+      internalID: 6284916239081839443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_83
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 2976
+        width: 387
+        height: 372
+      alignment: 9
+      pivot: {x: 0.48320413, y: 0.74596775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97685a68211ba7b10800000000000000
+      internalID: 1980089679309276793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_84
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 3713
+        width: 388
+        height: 382
+      alignment: 9
+      pivot: {x: 0.48453608, y: 0.7447644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2216b9a92cefe6d80800000000000000
+      internalID: -8255380955152555742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_85
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 3350
+        width: 388
+        height: 371
+      alignment: 9
+      pivot: {x: 0.48453608, y: 0.745283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9911f29e62b3060800000000000000
+      internalID: 6934178834225928641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_86
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 3723
+        width: 388
+        height: 372
+      alignment: 9
+      pivot: {x: 0.48453608, y: 0.7486559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60964bccbd95b4760800000000000000
+      internalID: 7443141609726961926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_87
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 3718
+        width: 388
+        height: 377
+      alignment: 9
+      pivot: {x: 0.48453608, y: 0.7466844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ab00a9b4bfe5cc0800000000000000
+      internalID: -3720259940036593059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2570
+        width: 380
+        height: 376
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.74601066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834592d3b4f5f8790800000000000000
+      internalID: -7525691675559504840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_89
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 3715
+        width: 388
+        height: 380
+      alignment: 9
+      pivot: {x: 0.48453608, y: 0.7460526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd32dcdb32f23600800000000000000
+      internalID: 446685651984858558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_90
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3330
+        width: 383
+        height: 380
+      alignment: 9
+      pivot: {x: 0.47780678, y: 0.7486842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bfbc3b53a947320800000000000000
+      internalID: 2554836444066347915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_91
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 3336
+        width: 387
+        height: 380
+      alignment: 9
+      pivot: {x: 0.48320413, y: 0.7460526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1967041b65e53e910800000000000000
+      internalID: 1865438397095507601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_92
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 3330
+        width: 386
+        height: 381
+      alignment: 9
+      pivot: {x: 0.4818653, y: 0.7440945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2a05dab3ee30860800000000000000
+      internalID: 7495096144952861418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_93
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3340
+        width: 389
+        height: 375
+      alignment: 9
+      pivot: {x: 0.48843187, y: 0.748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0937f4020e9654e0800000000000000
+      internalID: -1993232053554431733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3331
+        width: 390
+        height: 381
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.7440945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdd2643578f4fc60800000000000000
+      internalID: 7851173232687373820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_biglionfish_moving_95
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 3712
+        width: 389
+        height: 383
+      alignment: 9
+      pivot: {x: 0.49100256, y: 0.7454308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd15fb5a2bae68050800000000000000
+      internalID: 5802583222919320029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

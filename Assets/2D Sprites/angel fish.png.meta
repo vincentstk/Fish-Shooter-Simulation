@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: bb7e16fda8404694fa316f5abe6ded17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6835686306518692029
+    second: ock_fishes_angelfish_dead_00
+  - first:
+      213: 7460206734198755954
+    second: ock_fishes_angelfish_dead_01
+  - first:
+      213: 1020864888546115124
+    second: ock_fishes_angelfish_dead_02
+  - first:
+      213: 4485858045125490725
+    second: ock_fishes_angelfish_dead_03
+  - first:
+      213: 4993440659389371349
+    second: ock_fishes_angelfish_dead_04
+  - first:
+      213: 304537877846785194
+    second: ock_fishes_angelfish_dead_05
+  - first:
+      213: 3911056535389511709
+    second: ock_fishes_angelfish_dead_06
+  - first:
+      213: 3801925652583834558
+    second: ock_fishes_angelfish_dead_08
+  - first:
+      213: -1513318841626553462
+    second: ock_fishes_angelfish_dead_09
+  - first:
+      213: -3910526584121733287
+    second: ock_fishes_angelfish_dead_10
+  - first:
+      213: -9040077446613350997
+    second: ock_fishes_angelfish_dead_11
+  - first:
+      213: 2351897132417858853
+    second: ock_fishes_angelfish_dead_12
+  - first:
+      213: -5937489638685966416
+    second: ock_fishes_angelfish_dead_13
+  - first:
+      213: -8663873137468564967
+    second: ock_fishes_angelfish_dead_14
+  - first:
+      213: -8151675248459990600
+    second: ock_fishes_angelfish_dead_15
+  - first:
+      213: -7885556025752184672
+    second: ock_fishes_angelfish_dead_16
+  - first:
+      213: -3962416540272670444
+    second: ock_fishes_angelfish_moving_00
+  - first:
+      213: -1414813314232798270
+    second: ock_fishes_angelfish_moving_01
+  - first:
+      213: -6331733340131794661
+    second: ock_fishes_angelfish_moving_02
+  - first:
+      213: 4842088537391973010
+    second: ock_fishes_angelfish_moving_03
+  - first:
+      213: -7343843944388682030
+    second: ock_fishes_angelfish_moving_04
+  - first:
+      213: 5506738250855898403
+    second: ock_fishes_angelfish_moving_05
+  - first:
+      213: 7549022752282288101
+    second: ock_fishes_angelfish_moving_06
+  - first:
+      213: -1092839797353884895
+    second: ock_fishes_angelfish_moving_07
+  - first:
+      213: -8840874176516988945
+    second: ock_fishes_angelfish_moving_08
+  - first:
+      213: 3950555935205333653
+    second: ock_fishes_angelfish_moving_09
+  - first:
+      213: 2188378359478062313
+    second: ock_fishes_angelfish_moving_10
+  - first:
+      213: -1651945757957200026
+    second: ock_fishes_angelfish_moving_11
+  - first:
+      213: 8503562579970720068
+    second: ock_fishes_angelfish_moving_12
+  - first:
+      213: -3285453912821308283
+    second: ock_fishes_angelfish_moving_13
+  - first:
+      213: -1155717881565771005
+    second: ock_fishes_angelfish_moving_14
+  - first:
+      213: 1574074703755564683
+    second: ock_fishes_angelfish_moving_15
+  - first:
+      213: -529239779100812000
+    second: ock_fishes_angelfish_moving_16
+  - first:
+      213: -1276613976828019
+    second: ock_fishes_angelfish_moving_17
+  - first:
+      213: -8188926311812248995
+    second: ock_fishes_angelfish_moving_18
+  - first:
+      213: -5637185875732904961
+    second: ock_fishes_angelfish_moving_19
+  - first:
+      213: 3872592468226185999
+    second: ock_fishes_angelfish_moving_20
+  - first:
+      213: -3878647782202285294
+    second: ock_fishes_angelfish_moving_21
+  - first:
+      213: -9037090388757848050
+    second: ock_fishes_angelfish_moving_22
+  - first:
+      213: -3359585990332724365
+    second: ock_fishes_angelfish_moving_23
+  - first:
+      213: -1261202924843402332
+    second: ock_fishes_angelfish_moving_24
+  - first:
+      213: 7387668120797374471
+    second: ock_fishes_angelfish_moving_25
+  - first:
+      213: -4392115650370411214
+    second: ock_fishes_angelfish_moving_26
+  - first:
+      213: 2578722640009618079
+    second: ock_fishes_angelfish_moving_27
+  - first:
+      213: -6168198504595705469
+    second: ock_fishes_angelfish_moving_28
+  - first:
+      213: 7831422417677942402
+    second: ock_fishes_angelfish_moving_29
+  - first:
+      213: 8890488821871658320
+    second: ock_fishes_angelfish_moving_30
+  - first:
+      213: -3439397089347732429
+    second: ock_fishes_angelfish_moving_31
+  - first:
+      213: -2217105595832490673
+    second: ock_fishes_angelfish_moving_32
+  - first:
+      213: 6465084937487481131
+    second: ock_fishes_angelfish_moving_33
+  - first:
+      213: -5252753253107770441
+    second: ock_fishes_angelfish_moving_34
+  - first:
+      213: 9163149560420926709
+    second: ock_fishes_angelfish_moving_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_00
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 360
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f83ff6583c221a0800000000000000
+      internalID: -6835686306518692029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_01
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 360
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272d4e6bf7af78760800000000000000
+      internalID: 7460206734198755954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_02
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 290
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb5751537da2e00800000000000000
+      internalID: 1020864888546115124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_03
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 290
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528788cff18f04e30800000000000000
+      internalID: 4485858045125490725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_04
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 277
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d355e5c2d34c4540800000000000000
+      internalID: 4993440659389371349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_05
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 277
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac75bd169fe93400800000000000000
+      internalID: 304537877846785194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_06
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 277
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ac50823dd64630800000000000000
+      internalID: 3911056535389511709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_08
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 277
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb364b0dc3723c430800000000000000
+      internalID: 3801925652583834558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_09
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 277
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8391fc088c9ffae0800000000000000
+      internalID: -1513318841626553462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 220
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fc3b46ac40bb9c0800000000000000
+      internalID: -3910526584121733287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 220
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5479c65713b8280800000000000000
+      internalID: -9040077446613350997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 150
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52db6062bfd93a020800000000000000
+      internalID: 2351897132417858853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 80
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf7f8cb1acc99da0800000000000000
+      internalID: -5937489638685966416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 10
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a132ed84db3c780800000000000000
+      internalID: -8663873137468564967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 207
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9b23b0d8e6fde80800000000000000
+      internalID: -8151675248459990600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_dead_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 207
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a89994f290e09290800000000000000
+      internalID: -7885556025752184672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4194ae0862ba209c0800000000000000
+      internalID: -3962416540272670444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c339a569c29d5ce0800000000000000
+      internalID: -1414813314232798270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1162f8f21a2128a0800000000000000
+      internalID: -6331733340131794661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2924d3acedd823340800000000000000
+      internalID: 4842088537391973010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de1fc887dc651a90800000000000000
+      internalID: -7343843944388682030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d5251634ddb6c40800000000000000
+      internalID: 5506738250855898403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_06
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef902f523483c860800000000000000
+      internalID: 7549022752282288101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_07
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 347
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123df429ef375d0f0800000000000000
+      internalID: -1092839797353884895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_08
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 264
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefd7c407c7ee4580800000000000000
+      internalID: -8840874176516988945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_09
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 181
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a993f21b133d630800000000000000
+      internalID: 3950555935205333653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 98
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec87def58eae5e10800000000000000
+      internalID: 2188378359478062313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 15
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6676fb4e51c1319e0800000000000000
+      internalID: -1651945757957200026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4418578dc19b20670800000000000000
+      internalID: 8503562579970720068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5846e58c219b762d0800000000000000
+      internalID: -3285453912821308283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b84b0c5b016ffe0800000000000000
+      internalID: -1155717881565771005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86574f6a9c38d510800000000000000
+      internalID: 1574074703755564683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d90b59933c7a8f0800000000000000
+      internalID: -529239779100812000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8755652de67bfff0800000000000000
+      internalID: -1276613976828019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ac49cf7e61b5e80800000000000000
+      internalID: -8188926311812248995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff347182051b4c1b0800000000000000
+      internalID: -5637185875732904961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 430
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b997cf4563eb530800000000000000
+      internalID: 3872592468226185999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 347
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213e9fc54664c2ac0800000000000000
+      internalID: -3878647782202285294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 264
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00edf60c2ec59280800000000000000
+      internalID: -9037090388757848050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 181
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc6d5775a5061d0800000000000000
+      internalID: -3359585990332724365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 98
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab760b3f9e4f7ee0800000000000000
+      internalID: -1261202924843402332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 15
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708ea9aa305468660800000000000000
+      internalID: 7387668120797374471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 347
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235ec3f16121c03c0800000000000000
+      internalID: -4392115650370411214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 264
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e704149679c320800000000000000
+      internalID: 2578722640009618079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 181
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3813a7df328266aa0800000000000000
+      internalID: -6168198504595705469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e79bb323dceac60800000000000000
+      internalID: 7831422417677942402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 15
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055cd3bca7c516b70800000000000000
+      internalID: 8890488821871658320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 347
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c7ae7e19ec440d0800000000000000
+      internalID: -3439397089347732429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 347
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45afd215324b31e0800000000000000
+      internalID: -2217105595832490673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 347
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b297ba54f7898b950800000000000000
+      internalID: 6465084937487481131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 347
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbdbbf1fb87a17b0800000000000000
+      internalID: -5252753253107770441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_angelfish_moving_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 347
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f48aac0afb0a2f70800000000000000
+      internalID: 9163149560420926709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

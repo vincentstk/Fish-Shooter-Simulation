@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: aa29a7af21226f842810885ea0afae8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2872291224835025745
+    second: ock_fishes_stingray_dead_00
+  - first:
+      213: 5013088231206722043
+    second: ock_fishes_stingray_dead_01
+  - first:
+      213: -6426179173067895493
+    second: ock_fishes_stingray_dead_02
+  - first:
+      213: -5543391105259596921
+    second: ock_fishes_stingray_dead_03
+  - first:
+      213: 2845440945727452959
+    second: ock_fishes_stingray_dead_05
+  - first:
+      213: -1654978986464995506
+    second: ock_fishes_stingray_dead_06
+  - first:
+      213: 6068574365241899865
+    second: ock_fishes_stingray_dead_07
+  - first:
+      213: -8329851874904244562
+    second: ock_fishes_stingray_dead_08
+  - first:
+      213: -4227580142188939259
+    second: ock_fishes_stingray_dead_09
+  - first:
+      213: -8129965300070734925
+    second: ock_fishes_stingray_dead_10
+  - first:
+      213: 5539012488750188681
+    second: ock_fishes_stingray_moving_01
+  - first:
+      213: 9081637743995384129
+    second: ock_fishes_stingray_moving_02
+  - first:
+      213: 8406492706536621976
+    second: ock_fishes_stingray_moving_03
+  - first:
+      213: 2286734833399473039
+    second: ock_fishes_stingray_moving_04
+  - first:
+      213: -2748955220463127653
+    second: ock_fishes_stingray_moving_06
+  - first:
+      213: -7139223816602278373
+    second: ock_fishes_stingray_moving_07
+  - first:
+      213: -4702005148224412511
+    second: ock_fishes_stingray_moving_08
+  - first:
+      213: 4274886808131081216
+    second: ock_fishes_stingray_moving_09
+  - first:
+      213: 85556145315668091
+    second: ock_fishes_stingray_moving_11
+  - first:
+      213: 2741013954620859490
+    second: ock_fishes_stingray_moving_12
+  - first:
+      213: -636209927645334402
+    second: ock_fishes_stingray_moving_13
+  - first:
+      213: 295817906962777444
+    second: ock_fishes_stingray_moving_14
+  - first:
+      213: 6835984064025542312
+    second: ock_fishes_stingray_moving_15
+  - first:
+      213: 6458575741432605313
+    second: ock_fishes_stingray_moving_16
+  - first:
+      213: -2286378945383982785
+    second: ock_fishes_stingray_moving_17
+  - first:
+      213: -4516833245904219467
+    second: ock_fishes_stingray_moving_18
+  - first:
+      213: 712762248003999621
+    second: ock_fishes_stingray_moving_20
+  - first:
+      213: 3380499747727178263
+    second: ock_fishes_stingray_moving_21
+  - first:
+      213: -8861583360581265264
+    second: ock_fishes_stingray_moving_22
+  - first:
+      213: -3807485185234484639
+    second: ock_fishes_stingray_moving_24
+  - first:
+      213: -5940992294279919522
+    second: ock_fishes_stingray_moving_25
+  - first:
+      213: -1416270270179355217
+    second: ock_fishes_stingray_moving_26
+  - first:
+      213: 5812687250440460084
+    second: ock_fishes_stingray_moving_27
+  - first:
+      213: -5832699463864863060
+    second: ock_fishes_stingray_moving_28
+  - first:
+      213: 6166304128559940777
+    second: ock_fishes_stingray_moving_29
+  - first:
+      213: -5556898030402912765
+    second: ock_fishes_stingray_moving_30
+  - first:
+      213: -7294078555398011375
+    second: ock_fishes_stingray_moving_31
+  - first:
+      213: 1392391490165599400
+    second: ock_fishes_stingray_moving_32
+  - first:
+      213: -5852211389626745409
+    second: ock_fishes_stingray_moving_33
+  - first:
+      213: 4271116522125401997
+    second: ock_fishes_stingray_moving_34
+  - first:
+      213: -6322761223683018748
+    second: ock_fishes_stingray_moving_35
+  - first:
+      213: -5456902334742650343
+    second: ock_fishes_stingray_moving_36
+  - first:
+      213: -4693504457120034638
+    second: ock_fishes_stingray_moving_37
+  - first:
+      213: -7333263706238943760
+    second: ock_fishes_stingray_moving_38
+  - first:
+      213: 5173187962808315122
+    second: ock_fishes_stingray_moving_39
+  - first:
+      213: -8523186845756687285
+    second: ock_fishes_stingray_moving_40
+  - first:
+      213: 9154015466324736330
+    second: ock_fishes_stingray_moving_41
+  - first:
+      213: 2140897009405621737
+    second: ock_fishes_stingray_moving_42
+  - first:
+      213: -3323645440823380661
+    second: ock_fishes_stingray_moving_43
+  - first:
+      213: -1334680784494102478
+    second: ock_fishes_stingray_moving_44
+  - first:
+      213: -4707165646307507065
+    second: ock_fishes_stingray_moving_45
+  - first:
+      213: -5039012693170043353
+    second: ock_fishes_stingray_moving_46
+  - first:
+      213: -4851592293463000892
+    second: ock_fishes_stingray_moving_47
+  - first:
+      213: -9008755691647141282
+    second: ock_fishes_stingray_moving_48
+  - first:
+      213: 3566919631743480185
+    second: ock_fishes_stingray_moving_49
+  - first:
+      213: 3991941155200823220
+    second: ock_fishes_stingray_moving_50
+  - first:
+      213: -8931941248064029756
+    second: ock_fishes_stingray_moving_51
+  - first:
+      213: -7642724244454824336
+    second: ock_fishes_stingray_moving_52
+  - first:
+      213: 6203587365434297713
+    second: ock_fishes_stingray_moving_53
+  - first:
+      213: -5168974645063953251
+    second: ock_fishes_stingray_moving_54
+  - first:
+      213: -4030461236657301171
+    second: ock_fishes_stingray_moving_55
+  - first:
+      213: -8309970950374341763
+    second: ock_fishes_stingray_moving_56
+  - first:
+      213: -8255526343650378702
+    second: ock_fishes_stingray_moving_57
+  - first:
+      213: 6944490075000601467
+    second: ock_fishes_stingray_moving_58
+  - first:
+      213: 2643320935963496381
+    second: ock_fishes_stingray_moving_59
+  - first:
+      213: 5196242739253873486
+    second: ock_fishes_stingray_moving_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_00
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 78
+        width: 223
+        height: 226
+      alignment: 9
+      pivot: {x: 0.49327356, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b63c3a6ad6cd720800000000000000
+      internalID: 2872291224835025745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_01
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 633
+        width: 223
+        height: 224
+      alignment: 9
+      pivot: {x: 0.51121074, y: 0.4955357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf994c09f21129540800000000000000
+      internalID: 5013088231206722043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_02
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1327
+        width: 183
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5191257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d4646e610a1d6a0800000000000000
+      internalID: -6426179173067895493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_03
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 93
+        width: 194
+        height: 225
+      alignment: 9
+      pivot: {x: 0.48969072, y: 0.4977778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78311ffe82be113b0800000000000000
+      internalID: -5543391105259596921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_05
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1096
+        width: 227
+        height: 211
+      alignment: 9
+      pivot: {x: 0.50220263, y: 0.47867298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17bf6fd6790d7720800000000000000
+      internalID: 2845440945727452959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_06
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 867
+        width: 225
+        height: 219
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0.4885845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47940951655809e0800000000000000
+      internalID: -1654978986464995506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_07
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 581
+        width: 204
+        height: 226
+      alignment: 9
+      pivot: {x: 0.49509802, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bf8458b38e73450800000000000000
+      internalID: 6068574365241899865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_08
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 328
+        width: 214
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaef5bc6adb666c80800000000000000
+      internalID: -8329851874904244562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_09
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 398
+        width: 221
+        height: 225
+      alignment: 9
+      pivot: {x: 0.51583713, y: 0.4977778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5083555624e9455c0800000000000000
+      internalID: -4227580142188939259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_dead_10
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 831
+        width: 223
+        height: 225
+      alignment: 9
+      pivot: {x: 0.49775785, y: 0.50222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3280d42af8c2f80800000000000000
+      internalID: -8129965300070734925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_01
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1559
+        width: 235
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48504272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9884866f2868edc40800000000000000
+      internalID: 5539012488750188681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_02
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1798
+        width: 235
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141ff9d5965780e70800000000000000
+      internalID: 9081637743995384129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_03
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 314
+        width: 224
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5066964, y: 0.48504272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897070cb39cd9a470800000000000000
+      internalID: 8406492706536621976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_04
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 64
+        width: 228
+        height: 234
+      alignment: 9
+      pivot: {x: 0.49780703, y: 0.48504272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a940273d1cbf10800000000000000
+      internalID: 2286734833399473039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_06
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 564
+        width: 222
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5022523, y: 0.48931623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93f6d4aacfb9d9d0800000000000000
+      internalID: -2748955220463127653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_07
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1053
+        width: 206
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5169903, y: 0.49369746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16a96793c16cec90800000000000000
+      internalID: -7139223816602278373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_08
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1548
+        width: 204
+        height: 240
+      alignment: 9
+      pivot: {x: 0.48284313, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4a600ea3f1fbeb0800000000000000
+      internalID: -4702005148224412511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_09
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 801
+        width: 199
+        height: 239
+      alignment: 9
+      pivot: {x: 0.49497488, y: 0.4958159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00418a517e2735b30800000000000000
+      internalID: 4274886808131081216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 794
+        width: 193
+        height: 241
+      alignment: 9
+      pivot: {x: 0.48445597, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7064e16cd4ff2100800000000000000
+      internalID: 85556145315668091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1549
+        width: 201
+        height: 240
+      alignment: 9
+      pivot: {x: 0.46517414, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a0915ba90a0620800000000000000
+      internalID: 2741013954620859490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 543
+        width: 194
+        height: 241
+      alignment: 9
+      pivot: {x: 0.49226806, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e747f1c017abb27f0800000000000000
+      internalID: -636209927645334402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 292
+        width: 197
+        height: 241
+      alignment: 9
+      pivot: {x: 0.49492386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46547bea1d4fa1400800000000000000
+      internalID: 295817906962777444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_15
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 546
+        width: 194
+        height: 240
+      alignment: 9
+      pivot: {x: 0.4974227, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae3972a94b4ede50800000000000000
+      internalID: 6835984064025542312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 41
+        width: 203
+        height: 241
+      alignment: 9
+      pivot: {x: 0.47536945, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aab07fa6871a950800000000000000
+      internalID: 6458575741432605313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_17
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1301
+        width: 195
+        height: 239
+      alignment: 9
+      pivot: {x: 0.4897436, y: 0.4958159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39947286762540e0800000000000000
+      internalID: -2286378945383982785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 41
+        width: 205
+        height: 241
+      alignment: 9
+      pivot: {x: 0.48536587, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b25434181cf051c0800000000000000
+      internalID: -4516833245904219467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_20
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 553
+        width: 217
+        height: 238
+      alignment: 9
+      pivot: {x: 0.47235024, y: 0.49369746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5875699fc7d34e900800000000000000
+      internalID: 712762248003999621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_21
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1552
+        width: 232
+        height: 238
+      alignment: 9
+      pivot: {x: 0.49353448, y: 0.49369746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a73922c92f9ee20800000000000000
+      internalID: 3380499747727178263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 44
+        width: 230
+        height: 238
+      alignment: 9
+      pivot: {x: 0.4978261, y: 0.49369746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0989a0d52e4550580800000000000000
+      internalID: -8861583360581265264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_24
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 52
+        width: 231
+        height: 236
+      alignment: 9
+      pivot: {x: 0.508658, y: 0.4894068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162498e9568192bc0800000000000000
+      internalID: -3807485185234484639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_25
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1803
+        width: 234
+        height: 236
+      alignment: 9
+      pivot: {x: 0.50213677, y: 0.4894068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58cc1e2cfa5d8da0800000000000000
+      internalID: -5940992294279919522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_26
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 558
+        width: 233
+        height: 235
+      alignment: 9
+      pivot: {x: 0.50429183, y: 0.48723406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5530861b5685ce0800000000000000
+      internalID: -1416270270179355217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_27
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1050
+        width: 235
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4958159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43712f0e140daa050800000000000000
+      internalID: 5812687250440460084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1547
+        width: 233
+        height: 241
+      alignment: 9
+      pivot: {x: 0.50429183, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca639b69db61e0fa0800000000000000
+      internalID: -5832699463864863060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_29
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1305
+        width: 234
+        height: 237
+      alignment: 9
+      pivot: {x: 0.50213677, y: 0.49156117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a407d73fec139550800000000000000
+      internalID: 6166304128559940777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_30
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1060
+        width: 232
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.48723406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e34ccdeaee1e2b0800000000000000
+      internalID: -5556898030402912765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_31
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1066
+        width: 230
+        height: 233
+      alignment: 9
+      pivot: {x: 0.50652176, y: 0.4828326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11605b5133a36ca90800000000000000
+      internalID: -7294078555398011375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_32
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1309
+        width: 232
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5021552, y: 0.48723406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ace89fdea4c25310800000000000000
+      internalID: 1392391490165599400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1296
+        width: 229
+        height: 241
+      alignment: 9
+      pivot: {x: 0.49563318, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd7dca5fb4c8cea0800000000000000
+      internalID: -5852211389626745409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_34
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 298
+        width: 223
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5134529, y: 0.49369746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f1697f8dd064b30800000000000000
+      internalID: 4271116522125401997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_35
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1801
+        width: 232
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5021552, y: 0.49369746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40072ce9a2a0148a0800000000000000
+      internalID: -6322761223683018748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 794
+        width: 224
+        height: 241
+      alignment: 9
+      pivot: {x: 0.515625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9122aab0d303544b0800000000000000
+      internalID: -5456902334742650343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1046
+        width: 216
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5115741, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0d5a140925ddeb0800000000000000
+      internalID: -4693504457120034638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 543
+        width: 212
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5117925, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdfc5133830b3a90800000000000000
+      internalID: -7333263706238943760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_39
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 803
+        width: 208
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5168269, y: 0.49369746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc248f1b0bdac740800000000000000
+      internalID: 5173187962808315122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_40
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 796
+        width: 200
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5275, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cf368b8be87b980800000000000000
+      internalID: -8523186845756687285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_41
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 292
+        width: 194
+        height: 241
+      alignment: 9
+      pivot: {x: 0.507732, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49b7ba0198990f70800000000000000
+      internalID: 9154015466324736330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_42
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1299
+        width: 190
+        height: 240
+      alignment: 9
+      pivot: {x: 0.49210528, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e57152bc7ef5bd10800000000000000
+      internalID: 2140897009405621737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_43
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1051
+        width: 199
+        height: 239
+      alignment: 9
+      pivot: {x: 0.4849246, y: 0.4958159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45306cb41a00e1d0800000000000000
+      internalID: -3323645440823380661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 543
+        width: 192
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23870bfd5e24a7de0800000000000000
+      internalID: -1334680784494102478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_45
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1799
+        width: 201
+        height: 240
+      alignment: 9
+      pivot: {x: 0.4950249, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844be8c8c9ccaeb0800000000000000
+      internalID: -4707165646307507065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_46
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1799
+        width: 204
+        height: 240
+      alignment: 9
+      pivot: {x: 0.48284313, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7264ae447a4d11ab0800000000000000
+      internalID: -5039012693170043353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 292
+        width: 208
+        height: 241
+      alignment: 9
+      pivot: {x: 0.48798078, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c87d11938eabacb0800000000000000
+      internalID: -4851592293463000892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1297
+        width: 213
+        height: 240
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5af71bcd687af280800000000000000
+      internalID: -9008755691647141282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_49
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1800
+        width: 218
+        height: 239
+      alignment: 9
+      pivot: {x: 0.4701835, y: 0.4958159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971ff68b18e308130800000000000000
+      internalID: 3566919631743480185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_50
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1800
+        width: 219
+        height: 239
+      alignment: 9
+      pivot: {x: 0.48173517, y: 0.4958159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfe1089459366730800000000000000
+      internalID: 3991941155200823220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_51
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1550
+        width: 226
+        height: 239
+      alignment: 9
+      pivot: {x: 0.48451328, y: 0.4958159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbfb7222ce5b0480800000000000000
+      internalID: -8931941248064029756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1045
+        width: 228
+        height: 241
+      alignment: 9
+      pivot: {x: 0.49780703, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0762105eac69fe590800000000000000
+      internalID: -7642724244454824336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_53
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1300
+        width: 229
+        height: 239
+      alignment: 9
+      pivot: {x: 0.50873363, y: 0.4958159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d00d147d1971650800000000000000
+      internalID: 6203587365434297713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_54
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1554
+        width: 234
+        height: 237
+      alignment: 9
+      pivot: {x: 0.50213677, y: 0.49156117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9456fb52fc1448b0800000000000000
+      internalID: -5168974645063953251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_55
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 808
+        width: 233
+        height: 235
+      alignment: 9
+      pivot: {x: 0.49570817, y: 0.48723406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d495f0c0cdce018c0800000000000000
+      internalID: -4030461236657301171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_56
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1805
+        width: 233
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48504272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d734f11e27d0dac80800000000000000
+      internalID: -8309970950374341763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_57
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 308
+        width: 235
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48723406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cf6d4b78a7e6d80800000000000000
+      internalID: -8255526343650378702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_58
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1317
+        width: 235
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48060346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bf2a20ee8cf5060800000000000000
+      internalID: 6944490075000601467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_59
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 817
+        width: 234
+        height: 233
+      alignment: 9
+      pivot: {x: 0.50213677, y: 0.4828326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf0577e266fea420800000000000000
+      internalID: 2643320935963496381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_stingray_moving_60
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1563
+        width: 235
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4849138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b0eef8d33cc1840800000000000000
+      internalID: 5196242739253873486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

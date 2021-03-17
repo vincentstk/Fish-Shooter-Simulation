@@ -1,0 +1,2996 @@
+fileFormatVersion: 2
+guid: 277a220386851c64c88614d9e11716cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4927547189459374992
+    second: ock_fishes_killer_whale_dead_00
+  - first:
+      213: 6079715372802525629
+    second: ock_fishes_killer_whale_dead_01
+  - first:
+      213: 6574761702236915256
+    second: ock_fishes_killer_whale_dead_02
+  - first:
+      213: 2032221806330752226
+    second: ock_fishes_killer_whale_dead_03
+  - first:
+      213: 9099147792394556148
+    second: ock_fishes_killer_whale_dead_04
+  - first:
+      213: 1272173839114022550
+    second: ock_fishes_killer_whale_dead_05
+  - first:
+      213: -7063507210082720790
+    second: ock_fishes_killer_whale_dead_06
+  - first:
+      213: -4554443113396449550
+    second: ock_fishes_killer_whale_dead_07
+  - first:
+      213: 6381536420615016951
+    second: ock_fishes_killer_whale_dead_08
+  - first:
+      213: -2990392159688257414
+    second: ock_fishes_killer_whale_dead_09
+  - first:
+      213: -445867397031309260
+    second: ock_fishes_killer_whale_dead_10
+  - first:
+      213: 4412865414732194313
+    second: ock_fishes_killer_whale_dead_11
+  - first:
+      213: -7538240749850105555
+    second: ock_fishes_killer_whale_dead_12
+  - first:
+      213: 5658957653605458797
+    second: ock_fishes_killer_whale_dead_13
+  - first:
+      213: -2253125542920897689
+    second: ock_fishes_killer_whale_dead_14
+  - first:
+      213: -1384444473774807601
+    second: ock_fishes_killer_whale_dead_15
+  - first:
+      213: -7143128144849454520
+    second: ock_fishes_killer_whale_dead_16
+  - first:
+      213: 5208139830967796983
+    second: ock_fishes_killer_whale_dead_17
+  - first:
+      213: -7519314858451695028
+    second: ock_fishes_killer_whale_dead_18
+  - first:
+      213: 247154811763157810
+    second: ock_fishes_killer_whale_dead_20
+  - first:
+      213: 6781024312406601993
+    second: ock_fishes_killer_whale_dead_21
+  - first:
+      213: -8432445237142410211
+    second: ock_fishes_killer_whale_dead_22
+  - first:
+      213: -8357169149752782106
+    second: ock_fishes_killer_whale_dead_23
+  - first:
+      213: 939270872741468733
+    second: ock_fishes_killer_whale_dead_24
+  - first:
+      213: 3458240336746127437
+    second: ock_fishes_killer_whale_dead_25
+  - first:
+      213: 4872288121417544338
+    second: ock_fishes_killer_whale_dead_26
+  - first:
+      213: -981779557863377928
+    second: ock_fishes_killer_whale_dead_27
+  - first:
+      213: -8669782743546303774
+    second: ock_fishes_killer_whale_moving_00
+  - first:
+      213: 7240954875579150387
+    second: ock_fishes_killer_whale_moving_01
+  - first:
+      213: 2597500284932589420
+    second: ock_fishes_killer_whale_moving_02
+  - first:
+      213: 2305273477004248792
+    second: ock_fishes_killer_whale_moving_04
+  - first:
+      213: -1105232306396838345
+    second: ock_fishes_killer_whale_moving_05
+  - first:
+      213: -7143552778041253940
+    second: ock_fishes_killer_whale_moving_07
+  - first:
+      213: -4255514090682781174
+    second: ock_fishes_killer_whale_moving_08
+  - first:
+      213: -1030742427501317719
+    second: ock_fishes_killer_whale_moving_10
+  - first:
+      213: -4619057811553774027
+    second: ock_fishes_killer_whale_moving_11
+  - first:
+      213: -8691155325301933679
+    second: ock_fishes_killer_whale_moving_13
+  - first:
+      213: 4187871579996027582
+    second: ock_fishes_killer_whale_moving_14
+  - first:
+      213: -5652367892791870030
+    second: ock_fishes_killer_whale_moving_15
+  - first:
+      213: -8759276483893916651
+    second: ock_fishes_killer_whale_moving_16
+  - first:
+      213: -9074563143571383245
+    second: ock_fishes_killer_whale_moving_17
+  - first:
+      213: -6206853080345299314
+    second: ock_fishes_killer_whale_moving_18
+  - first:
+      213: -6407901633493189358
+    second: ock_fishes_killer_whale_moving_19
+  - first:
+      213: -7198845148567875359
+    second: ock_fishes_killer_whale_moving_20
+  - first:
+      213: 2394535255999491982
+    second: ock_fishes_killer_whale_moving_21
+  - first:
+      213: -4532599061600314984
+    second: ock_fishes_killer_whale_moving_22
+  - first:
+      213: -2759112988554886527
+    second: ock_fishes_killer_whale_moving_23
+  - first:
+      213: 2544248497523501832
+    second: ock_fishes_killer_whale_moving_24
+  - first:
+      213: 5870893081054654833
+    second: ock_fishes_killer_whale_moving_25
+  - first:
+      213: -7935405482303624454
+    second: ock_fishes_killer_whale_moving_26
+  - first:
+      213: -1146622487751660561
+    second: ock_fishes_killer_whale_moving_27
+  - first:
+      213: -6329662716015546003
+    second: ock_fishes_killer_whale_moving_28
+  - first:
+      213: 4433168339267313453
+    second: ock_fishes_killer_whale_moving_29
+  - first:
+      213: -107701805205639211
+    second: ock_fishes_killer_whale_moving_30
+  - first:
+      213: 2180465965280579048
+    second: ock_fishes_killer_whale_moving_31
+  - first:
+      213: 952914319946418889
+    second: ock_fishes_killer_whale_moving_32
+  - first:
+      213: 46753114879934512
+    second: ock_fishes_killer_whale_moving_33
+  - first:
+      213: 6701575217633708069
+    second: ock_fishes_killer_whale_moving_34
+  - first:
+      213: -2884015133743915093
+    second: ock_fishes_killer_whale_moving_35
+  - first:
+      213: -3788338290836038264
+    second: ock_fishes_killer_whale_moving_37
+  - first:
+      213: -7942497108687674518
+    second: ock_fishes_killer_whale_moving_38
+  - first:
+      213: 4880824999946480949
+    second: ock_fishes_killer_whale_moving_39
+  - first:
+      213: 8960374966086388128
+    second: ock_fishes_killer_whale_moving_40
+  - first:
+      213: -2015388988624448900
+    second: ock_fishes_killer_whale_moving_41
+  - first:
+      213: -7369594020593176026
+    second: ock_fishes_killer_whale_moving_42
+  - first:
+      213: 6402631063784461127
+    second: ock_fishes_killer_whale_moving_43
+  - first:
+      213: -3139852796203331727
+    second: ock_fishes_killer_whale_moving_44
+  - first:
+      213: 369243255680629797
+    second: ock_fishes_killer_whale_moving_45
+  - first:
+      213: 4438715549180795096
+    second: ock_fishes_killer_whale_moving_46
+  - first:
+      213: 8559695714997035418
+    second: ock_fishes_killer_whale_moving_47
+  - first:
+      213: 4218317722489152517
+    second: ock_fishes_killer_whale_moving_48
+  - first:
+      213: 6809983289838154945
+    second: ock_fishes_killer_whale_moving_49
+  - first:
+      213: -7622222813420273383
+    second: ock_fishes_killer_whale_moving_50
+  - first:
+      213: -3222714304569181017
+    second: ock_fishes_killer_whale_moving_51
+  - first:
+      213: 7381079256034374035
+    second: ock_fishes_killer_whale_moving_52
+  - first:
+      213: -4666938423820030266
+    second: ock_fishes_killer_whale_moving_53
+  - first:
+      213: -6443117742664354182
+    second: ock_fishes_killer_whale_moving_54
+  - first:
+      213: -7833622250604905289
+    second: ock_fishes_killer_whale_moving_55
+  - first:
+      213: -4018830492795001337
+    second: ock_fishes_killer_whale_moving_57
+  - first:
+      213: -4219439391899822724
+    second: ock_fishes_killer_whale_moving_58
+  - first:
+      213: -5744649674959186758
+    second: ock_fishes_killer_whale_moving_59
+  - first:
+      213: 4587636792588517321
+    second: ock_fishes_killer_whale_moving_60
+  - first:
+      213: 5148746341373581322
+    second: ock_fishes_killer_whale_moving_61
+  - first:
+      213: 2778746163748414291
+    second: ock_fishes_killer_whale_moving_62
+  - first:
+      213: -257832863319462015
+    second: ock_fishes_killer_whale_moving_63
+  - first:
+      213: -541204597181504332
+    second: ock_fishes_killer_whale_moving_64
+  - first:
+      213: -2734155637603417558
+    second: ock_fishes_killer_whale_moving_65
+  - first:
+      213: 4271504290733180608
+    second: ock_fishes_killer_whale_moving_66
+  - first:
+      213: -9160204137169293536
+    second: ock_fishes_killer_whale_moving_67
+  - first:
+      213: -6217592309188907143
+    second: ock_fishes_killer_whale_moving_68
+  - first:
+      213: -2345587756102142117
+    second: ock_fishes_killer_whale_moving_69
+  - first:
+      213: -8454510822850531005
+    second: ock_fishes_killer_whale_moving_70
+  - first:
+      213: -5037764853295989823
+    second: ock_fishes_killer_whale_moving_71
+  - first:
+      213: -6564374218138205960
+    second: ock_fishes_killer_whale_moving_72
+  - first:
+      213: 8227276616846374888
+    second: ock_fishes_killer_whale_moving_74
+  - first:
+      213: -3679354783498967879
+    second: ock_fishes_killer_whale_moving_75
+  - first:
+      213: -4759310076067100703
+    second: ock_fishes_killer_whale_moving_76
+  - first:
+      213: -3264924679352889912
+    second: ock_fishes_killer_whale_moving_77
+  - first:
+      213: -4509684791333722832
+    second: ock_fishes_killer_whale_moving_78
+  - first:
+      213: 761124269934739107
+    second: ock_fishes_killer_whale_moving_79
+  - first:
+      213: -2428482485438842052
+    second: ock_fishes_killer_whale_moving_80
+  - first:
+      213: 3795989074504930840
+    second: ock_fishes_killer_whale_moving_81
+  - first:
+      213: 3798867855062432277
+    second: ock_fishes_killer_whale_moving_83
+  - first:
+      213: -5847715061665114767
+    second: ock_fishes_killer_whale_moving_84
+  - first:
+      213: 1083066303213449380
+    second: ock_fishes_killer_whale_moving_85
+  - first:
+      213: -2727055210770988562
+    second: ock_fishes_killer_whale_moving_86
+  - first:
+      213: 3565992283754300608
+    second: ock_fishes_killer_whale_moving_87
+  - first:
+      213: 1736004149572872023
+    second: ock_fishes_killer_whale_moving_88
+  - first:
+      213: -6359196603458766739
+    second: ock_fishes_killer_whale_moving_89
+  - first:
+      213: -5731051955543211272
+    second: ock_fishes_killer_whale_moving_90
+  - first:
+      213: -6923849327940722673
+    second: ock_fishes_killer_whale_moving_91
+  - first:
+      213: -2243760192008520943
+    second: ock_fishes_killer_whale_moving_92
+  - first:
+      213: 5917988910032203617
+    second: ock_fishes_killer_whale_moving_93
+  - first:
+      213: -7629515781073598593
+    second: ock_fishes_killer_whale_moving_94
+  - first:
+      213: -2266679297201665504
+    second: ock_fishes_killer_whale_moving_95
+  - first:
+      213: -966742436618748807
+    second: ock_fishes_killer_whale_moving_96
+  - first:
+      213: 1549335788910408269
+    second: ock_fishes_killer_whale_moving_97
+  - first:
+      213: 4752119816199253603
+    second: ock_fishes_killer_whale_moving_98
+  - first:
+      213: 9108784068772761824
+    second: ock_fishes_killer_whale_moving_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_00
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 508
+        width: 226
+        height: 330
+      alignment: 9
+      pivot: {x: 0.49115044, y: 0.46060607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09353b1cf0a226440800000000000000
+      internalID: 4927547189459374992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_01
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3055
+        width: 221
+        height: 324
+      alignment: 9
+      pivot: {x: 0.45701358, y: 0.49691358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9406b7bec7f5450800000000000000
+      internalID: 6079715372802525629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_02
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 197
+        height: 336
+      alignment: 9
+      pivot: {x: 0.39593908, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8368ca00fee3e3b50800000000000000
+      internalID: 6574761702236915256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_03
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 848
+        width: 206
+        height: 334
+      alignment: 9
+      pivot: {x: 0.39320388, y: 0.5329341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eca52737f6e33c10800000000000000
+      internalID: 2032221806330752226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_04
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2267
+        width: 217
+        height: 345
+      alignment: 9
+      pivot: {x: 0.4562212, y: 0.5507246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2157435baa64e70800000000000000
+      internalID: 9099147792394556148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_05
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 3742
+        width: 159
+        height: 345
+      alignment: 9
+      pivot: {x: 0.6289308, y: 0.5478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eafeccd5ba7a110800000000000000
+      internalID: 1272173839114022550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_06
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1542
+        width: 157
+        height: 348
+      alignment: 9
+      pivot: {x: 0.6242038, y: 0.545977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3eb92dd9169fd90800000000000000
+      internalID: -7063507210082720790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_07
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1539
+        width: 160
+        height: 351
+      alignment: 9
+      pivot: {x: 0.675, y: 0.5270655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fec74c6e1e5bc0c0800000000000000
+      internalID: -4554443113396449550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_08
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 874
+        width: 192
+        height: 329
+      alignment: 9
+      pivot: {x: 0.6510417, y: 0.4893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1d9ff4095cf8850800000000000000
+      internalID: 6381536420615016951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_09
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 3771
+        width: 200
+        height: 316
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46518987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a701baeac2eff76d0800000000000000
+      internalID: -2990392159688257414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_10
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 3183
+        width: 209
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.41580757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4305507f6f5ffc9f0800000000000000
+      internalID: -445867397031309260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_11
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1873
+        width: 196
+        height: 275
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.35636362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90228bed6b5ad3d30800000000000000
+      internalID: 4412865414732194313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_12
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2201
+        width: 192
+        height: 271
+      alignment: 9
+      pivot: {x: 0.41145834, y: 0.33948338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d296fc13af9c26790800000000000000
+      internalID: -7538240749850105555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_13
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 3223
+        width: 210
+        height: 259
+      alignment: 9
+      pivot: {x: 0.42380953, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63a126e008a88e40800000000000000
+      internalID: 5658957653605458797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_14
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 3830
+        width: 215
+        height: 257
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.27237353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b37db914a4bb0e0800000000000000
+      internalID: -2253125542920897689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_15
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 3529
+        width: 205
+        height: 259
+      alignment: 9
+      pivot: {x: 0.42439026, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc56661161779cce0800000000000000
+      internalID: -1384444473774807601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_16
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 164
+        width: 200
+        height: 256
+      alignment: 9
+      pivot: {x: 0.385, y: 0.29296875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a37255cc28edc90800000000000000
+      internalID: -7143128144849454520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_17
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1486
+        width: 193
+        height: 276
+      alignment: 9
+      pivot: {x: 0.373057, y: 0.33695653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f406651597074840800000000000000
+      internalID: 5208139830967796983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_18
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2084
+        width: 182
+        height: 308
+      alignment: 9
+      pivot: {x: 0.31318682, y: 0.4448052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a8baba9f606a790800000000000000
+      internalID: -7519314858451695028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3723
+        width: 141
+        height: 364
+      alignment: 9
+      pivot: {x: 0.34042552, y: 0.48626372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23beba7edf11e6300800000000000000
+      internalID: 247154811763157810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3352
+        width: 170
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4882353, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901784a4fa90b1e50800000000000000
+      internalID: 6781024312406601993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_22
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 3746
+        width: 190
+        height: 341
+      alignment: 9
+      pivot: {x: 0.6105263, y: 0.44281524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c213cdbbfe9fa80800000000000000
+      internalID: -8432445237142410211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_23
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 170
+        width: 183
+        height: 328
+      alignment: 9
+      pivot: {x: 0.6557377, y: 0.4207317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2d12dbfee550c80800000000000000
+      internalID: -8357169149752782106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_24
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 3798
+        width: 202
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.34256056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a50add1e5f80d00800000000000000
+      internalID: 939270872741468733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_25
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 3484
+        width: 196
+        height: 296
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.3581081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d402ea383432eff20800000000000000
+      internalID: 3458240336746127437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_26
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 3783
+        width: 215
+        height: 304
+      alignment: 9
+      pivot: {x: 0.4976744, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292b2706b38dd9340800000000000000
+      internalID: 4872288121417544338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_dead_27
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 3110
+        width: 231
+        height: 317
+      alignment: 9
+      pivot: {x: 0.45887446, y: 0.4164038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f330dd91b40062f0800000000000000
+      internalID: -981779557863377928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_00
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 727
+        width: 184
+        height: 303
+      alignment: 9
+      pivot: {x: 0.5543478, y: 0.47854784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea6c1b778ebea780800000000000000
+      internalID: -8669782743546303774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_01
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1079
+        width: 171
+        height: 303
+      alignment: 9
+      pivot: {x: 0.57309943, y: 0.5049505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3303789581a0d7460800000000000000
+      internalID: 7240954875579150387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_02
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2470
+        width: 180
+        height: 307
+      alignment: 9
+      pivot: {x: 0.55, y: 0.52117264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67026b3fbc2c0420800000000000000
+      internalID: 2597500284932589420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_04
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1756
+        width: 178
+        height: 309
+      alignment: 9
+      pivot: {x: 0.57865167, y: 0.5566343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6c7f2730afdff10800000000000000
+      internalID: 2305273477004248792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_05
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2400
+        width: 168
+        height: 316
+      alignment: 9
+      pivot: {x: 0.57738096, y: 0.5759494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7364ee6b21d69a0f0800000000000000
+      internalID: -1105232306396838345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_07
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 829
+        width: 186
+        height: 340
+      alignment: 9
+      pivot: {x: 0.60215056, y: 0.55588233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf9896b8900ddc90800000000000000
+      internalID: -7143552778041253940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_08
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1918
+        width: 185
+        height: 339
+      alignment: 9
+      pivot: {x: 0.5783784, y: 0.54867256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02fe203b7061f4c0800000000000000
+      internalID: -4255514090682781174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_10
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2692
+        width: 199
+        height: 325
+      alignment: 9
+      pivot: {x: 0.57788944, y: 0.48307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a13cd9293112b1f0800000000000000
+      internalID: -1030742427501317719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_11
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1686
+        width: 188
+        height: 316
+      alignment: 9
+      pivot: {x: 0.5851064, y: 0.471519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361859a46fc5efb0800000000000000
+      internalID: -4619057811553774027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_13
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1711
+        width: 172
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19932a38740d26780800000000000000
+      internalID: -8691155325301933679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_14
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 249
+        width: 173
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.4536741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebafd92830f4e1a30800000000000000
+      internalID: 4187871579996027582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_15
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2793
+        width: 175
+        height: 307
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45928338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd315a5951ce81b0800000000000000
+      internalID: -5652367892791870030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_16
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 3122
+        width: 169
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5029586, y: 0.45751634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c0210527cc07680800000000000000
+      internalID: -8759276483893916651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_17
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2402
+        width: 176
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5113636, y: 0.4713376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c539766eca01280800000000000000
+      internalID: -9074563143571383245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1645
+        width: 174
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48136646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86bafc3204dcd9a0800000000000000
+      internalID: -6206853080345299314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_19
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 3412
+        width: 177
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.4845679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3ef33a6f8217a0800000000000000
+      internalID: -6407901633493189358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 169
+        width: 176
+        height: 329
+      alignment: 9
+      pivot: {x: 0.5056818, y: 0.4863222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0519e7a70981c90800000000000000
+      internalID: -7198845148567875359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2679
+        width: 172
+        height: 338
+      alignment: 9
+      pivot: {x: 0.50581396, y: 0.47633135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8faff7e0291b3120800000000000000
+      internalID: 2394535255999491982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3389
+        width: 177
+        height: 343
+      alignment: 9
+      pivot: {x: 0.53672314, y: 0.47521865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8995b001b29f811c0800000000000000
+      internalID: -4532599061600314984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1179
+        width: 171
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5497076, y: 0.47714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1820506fa59a5b9d0800000000000000
+      internalID: -2759112988554886527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_24
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3370
+        width: 168
+        height: 353
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.47592068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ba53b478cfe4320800000000000000
+      internalID: 2544248497523501832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2999
+        width: 169
+        height: 353
+      alignment: 9
+      pivot: {x: 0.56213015, y: 0.47025496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171bf82e62a997150800000000000000
+      internalID: 5870893081054654833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2261
+        width: 177
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5706215, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaea96e1c6cfd190800000000000000
+      internalID: -7935405482303624454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_27
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3380
+        width: 171
+        height: 345
+      alignment: 9
+      pivot: {x: 0.6023392, y: 0.46376812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb66162ce06610f0800000000000000
+      internalID: -1146622487751660561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_28
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3492
+        width: 149
+        height: 291
+      alignment: 9
+      pivot: {x: 0.4899329, y: 0.36426118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61fbd7bb458828a0800000000000000
+      internalID: -6329662716015546003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_29
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2844
+        width: 155
+        height: 293
+      alignment: 9
+      pivot: {x: 0.4903226, y: 0.40273038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f598bdd17c58d30800000000000000
+      internalID: 4433168339267313453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_30
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 3476
+        width: 149
+        height: 297
+      alignment: 9
+      pivot: {x: 0.4899329, y: 0.4276094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfac0f57cd518ef0800000000000000
+      internalID: -107701805205639211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_31
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2158
+        width: 180
+        height: 302
+      alignment: 9
+      pivot: {x: 0.59444445, y: 0.4834437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edc0692e32924e10800000000000000
+      internalID: 2180465965280579048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_32
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1772
+        width: 193
+        height: 302
+      alignment: 9
+      pivot: {x: 0.6062176, y: 0.5066225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca0ac5768e693d00800000000000000
+      internalID: 952914319946418889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_33
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1040
+        width: 195
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5948718, y: 0.5305466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030cf84d5b916a000800000000000000
+      internalID: 46753114879934512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_34
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1392
+        width: 201
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5870647, y: 0.5436893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5284e9a6727c00d50800000000000000
+      internalID: 6701575217633708069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1556
+        width: 195
+        height: 339
+      alignment: 9
+      pivot: {x: 0.5846154, y: 0.539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafd75a148be9f7d0800000000000000
+      internalID: -2884015133743915093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_37
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3015
+        width: 178
+        height: 345
+      alignment: 9
+      pivot: {x: 0.5898876, y: 0.5507246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d15bd556e1d6bc0800000000000000
+      internalID: -3788338290836038264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 483
+        width: 184
+        height: 336
+      alignment: 9
+      pivot: {x: 0.59782606, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63aa17f5f496c190800000000000000
+      internalID: -7942497108687674518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1580
+        width: 178
+        height: 328
+      alignment: 9
+      pivot: {x: 0.6011236, y: 0.54268295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53de7ac4a7c2cb340800000000000000
+      internalID: 4880824999946480949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_40
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 572
+        width: 181
+        height: 322
+      alignment: 9
+      pivot: {x: 0.6022099, y: 0.51863354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c1ebbe85a95c70800000000000000
+      internalID: 8960374966086388128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_41
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3437
+        width: 175
+        height: 318
+      alignment: 9
+      pivot: {x: 0.57714283, y: 0.47484276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c725ec09466e704e0800000000000000
+      internalID: -2015388988624448900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_42
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2036
+        width: 188
+        height: 316
+      alignment: 9
+      pivot: {x: 0.59574467, y: 0.471519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62273b7b841f9b990800000000000000
+      internalID: -7369594020593176026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_43
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2787
+        width: 174
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5689655, y: 0.456869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74311c8a707bad850800000000000000
+      internalID: 6402631063784461127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_44
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2075
+        width: 170
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f884b74800d64d0800000000000000
+      internalID: -3139852796203331727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_45
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 3456
+        width: 167
+        height: 305
+      alignment: 9
+      pivot: {x: 0.52095807, y: 0.4557377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c7d82e8c0df1500800000000000000
+      internalID: 369243255680629797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_46
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2811
+        width: 175
+        height: 301
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.45847178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d89cef464c799d30800000000000000
+      internalID: 4438715549180795096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_47
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 3790
+        width: 141
+        height: 297
+      alignment: 9
+      pivot: {x: 0.41843972, y: 0.45117846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e4ddc6e52ac670800000000000000
+      internalID: 8559695714997035418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_48
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1361
+        width: 175
+        height: 315
+      alignment: 9
+      pivot: {x: 0.52, y: 0.46984127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50463b67e997a8a30800000000000000
+      internalID: 4218317722489152517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_49
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 912
+        width: 176
+        height: 322
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.4751553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c43625a8bbe18e50800000000000000
+      internalID: 6809983289838154945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_50
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1242
+        width: 172
+        height: 328
+      alignment: 9
+      pivot: {x: 0.51744187, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911c4374cbc683690800000000000000
+      internalID: -7622222813420273383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_51
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2313
+        width: 175
+        height: 338
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4733728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac75972a6e9643d0800000000000000
+      internalID: -3222714304569181017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_52
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2661
+        width: 174
+        height: 344
+      alignment: 9
+      pivot: {x: 0.52873564, y: 0.4738372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391feea0a7cde6660800000000000000
+      internalID: 7381079256034374035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3362
+        width: 170
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5411765, y: 0.46629214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cee593ea34bb3fb0800000000000000
+      internalID: -4666938423820030266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_54
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2644
+        width: 179
+        height: 345
+      alignment: 9
+      pivot: {x: 0.5586592, y: 0.47536233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a767976dc827596a0800000000000000
+      internalID: -6443117742664354182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3728
+        width: 175
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5657143, y: 0.47632313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc39104112694390800000000000000
+      internalID: -7833622250604905289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2985
+        width: 185
+        height: 357
+      alignment: 9
+      pivot: {x: 0.6, y: 0.46778712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062270a5fe3a38c0800000000000000
+      internalID: -4018830492795001337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3733
+        width: 189
+        height: 354
+      alignment: 9
+      pivot: {x: 0.61904764, y: 0.46327683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7555868a3a8175c0800000000000000
+      internalID: -4219439391899822724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_59
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3027
+        width: 192
+        height: 343
+      alignment: 9
+      pivot: {x: 0.6302083, y: 0.44606414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab49efc9e87e640b0800000000000000
+      internalID: -5744649674959186758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_60
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 270
+        width: 217
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5483871, y: 0.4340836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf30c44b5f8aaf30800000000000000
+      internalID: 4587636792588517321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_61
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3765
+        width: 200
+        height: 322
+      alignment: 9
+      pivot: {x: 0.625, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a081a2ca485047740800000000000000
+      internalID: 5148746341373581322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_62
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2343
+        width: 200
+        height: 326
+      alignment: 9
+      pivot: {x: 0.625, y: 0.48466256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353243bd9e6109620800000000000000
+      internalID: 2778746163748414291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_63
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1244
+        width: 226
+        height: 326
+      alignment: 9
+      pivot: {x: 0.55309737, y: 0.5184049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18feb6a706efb6cf0800000000000000
+      internalID: -257832863319462015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_64
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2362
+        width: 207
+        height: 320
+      alignment: 9
+      pivot: {x: 0.6038647, y: 0.559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4203a49414d78f0800000000000000
+      internalID: -541204597181504332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_65
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1213
+        width: 163
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5705522, y: 0.5645646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22440c0fe35e0ad0800000000000000
+      internalID: -2734155637603417558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_66
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1192
+        width: 178
+        height: 340
+      alignment: 9
+      pivot: {x: 0.5898876, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c645b1658e674b30800000000000000
+      internalID: 4271504290733180608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_67
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 904
+        width: 172
+        height: 328
+      alignment: 9
+      pivot: {x: 0.54651165, y: 0.5792683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe5fdbeda60e080800000000000000
+      internalID: -9160204137169293536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_68
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2012
+        width: 167
+        height: 321
+      alignment: 9
+      pivot: {x: 0.5329341, y: 0.52024925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f289cacbca6b9a0800000000000000
+      internalID: -6217592309188907143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_69
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 3438
+        width: 177
+        height: 317
+      alignment: 9
+      pivot: {x: 0.53672314, y: 0.45741326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b6000d5cc27fd0800000000000000
+      internalID: -2345587756102142117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_70
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 786
+        width: 200
+        height: 283
+      alignment: 9
+      pivot: {x: 0.555, y: 0.39929327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3417c46533b8baa80800000000000000
+      internalID: -8454510822850531005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_71
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2909
+        width: 191
+        height: 264
+      alignment: 9
+      pivot: {x: 0.565445, y: 0.38257575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb3851ae83461ab0800000000000000
+      internalID: -5037764853295989823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_72
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 907
+        width: 199
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5427136, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0c32b9d68a6e4a0800000000000000
+      internalID: -6564374218138205960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_74
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 682
+        width: 178
+        height: 215
+      alignment: 9
+      pivot: {x: 0.4550562, y: 0.27906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e771083e782d2270800000000000000
+      internalID: 8227276616846374888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_75
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 60
+        width: 176
+        height: 220
+      alignment: 9
+      pivot: {x: 0.44886363, y: 0.27727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4e8e6815e40fcc0800000000000000
+      internalID: -3679354783498967879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_76
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 290
+        width: 171
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4502924, y: 0.30941704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e74514a3b883fdb0800000000000000
+      internalID: -4759310076067100703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_77
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1253
+        width: 175
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4457143, y: 0.31390134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc3cc6d48a0b2d0800000000000000
+      internalID: -3264924679352889912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_78
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 14
+        width: 171
+        height: 225
+      alignment: 9
+      pivot: {x: 0.49707603, y: 0.34666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035629b53916a61c0800000000000000
+      internalID: -4509684791333722832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_79
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 12
+        width: 172
+        height: 227
+      alignment: 9
+      pivot: {x: 0.45930234, y: 0.3524229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae736bad7e009a00800000000000000
+      internalID: 761124269934739107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_80
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 19
+        width: 179
+        height: 241
+      alignment: 9
+      pivot: {x: 0.44134077, y: 0.36514524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bf820db0c4c4ed0800000000000000
+      internalID: -2428482485438842052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_81
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 523
+        width: 177
+        height: 253
+      alignment: 9
+      pivot: {x: 0.4519774, y: 0.3952569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816512583ff0ea430800000000000000
+      internalID: 3795989074504930840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_83
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2570
+        width: 192
+        height: 264
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.41287878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a75a9df2a48b430800000000000000
+      internalID: 3798867855062432277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_84
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1151
+        width: 199
+        height: 283
+      alignment: 9
+      pivot: {x: 0.44723618, y: 0.43816254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175dfb9422eb8dea0800000000000000
+      internalID: -5847715061665114767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_85
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 430
+        width: 204
+        height: 287
+      alignment: 9
+      pivot: {x: 0.44607842, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0bb3f7013d70f00800000000000000
+      internalID: 1083066303213449380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_86
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 3793
+        width: 214
+        height: 294
+      alignment: 9
+      pivot: {x: 0.44859812, y: 0.44557822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee10e1ffbbd872ad0800000000000000
+      internalID: -2727055210770988562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_87
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2482
+        width: 221
+        height: 301
+      alignment: 9
+      pivot: {x: 0.43891403, y: 0.44850498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c485f0b613fc7130800000000000000
+      internalID: 3565992283754300608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_88
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 591
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: 0.4618834, y: 0.45980707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75725e78396871810800000000000000
+      internalID: 1736004149572872023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_89
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2726
+        width: 233
+        height: 319
+      alignment: 9
+      pivot: {x: 0.4635193, y: 0.47021943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6838f1b1689fb7a0800000000000000
+      internalID: -6359196603458766739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_90
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 3147
+        width: 221
+        height: 299
+      alignment: 9
+      pivot: {x: 0.43438914, y: 0.50501674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f20a806c963770b0800000000000000
+      internalID: -5731051955543211272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_91
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1444
+        width: 202
+        height: 302
+      alignment: 9
+      pivot: {x: 0.43069306, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0024c968bb89ef90800000000000000
+      internalID: -6923849327940722673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_92
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 3083
+        width: 203
+        height: 319
+      alignment: 9
+      pivot: {x: 0.408867, y: 0.492163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b7b2a4eff8cd0e0800000000000000
+      internalID: -2243760192008520943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_93
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1977
+        width: 211
+        height: 326
+      alignment: 9
+      pivot: {x: 0.43127963, y: 0.4785276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fab2f0f8be02250800000000000000
+      internalID: 5917988910032203617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_94
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2622
+        width: 198
+        height: 353
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.48441926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f770fdce1d38e1690800000000000000
+      internalID: -7629515781073598593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_95
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1900
+        width: 173
+        height: 351
+      alignment: 9
+      pivot: {x: 0.53757226, y: 0.47293448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a009640332b80e0800000000000000
+      internalID: -2266679297201665504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_96
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3735
+        width: 170
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5764706, y: 0.46022728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c3b0c30e07592f0800000000000000
+      internalID: -966742436618748807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1905
+        width: 169
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5739645, y: 0.45953757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42fdc7f0b8508510800000000000000
+      internalID: 1549335788910408269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_98
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 482
+        width: 175
+        height: 337
+      alignment: 9
+      pivot: {x: 0.60571426, y: 0.45994064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ea6a68bcbe2f140800000000000000
+      internalID: 4752119816199253603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_killer_whale_moving_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 141
+        width: 190
+        height: 332
+      alignment: 9
+      pivot: {x: 0.6, y: 0.43373495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e010f2a9d6e86e70800000000000000
+      internalID: 9108784068772761824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

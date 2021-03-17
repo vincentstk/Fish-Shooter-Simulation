@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 16991482ae1536f44a638417188ca049
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7986735612799891726
+    second: ock_fishes_turtle_dead_00
+  - first:
+      213: 7564185952661825895
+    second: ock_fishes_turtle_dead_02
+  - first:
+      213: 5255902869937613206
+    second: ock_fishes_turtle_dead_03
+  - first:
+      213: 3651356920561309097
+    second: ock_fishes_turtle_dead_04
+  - first:
+      213: -7176779808776201342
+    second: ock_fishes_turtle_moving_01
+  - first:
+      213: 131100630608450558
+    second: ock_fishes_turtle_moving_02
+  - first:
+      213: 4917638688671563353
+    second: ock_fishes_turtle_moving_03
+  - first:
+      213: 2877184486547086486
+    second: ock_fishes_turtle_moving_04
+  - first:
+      213: -4435827922508143274
+    second: ock_fishes_turtle_moving_05
+  - first:
+      213: -4180415631513693190
+    second: ock_fishes_turtle_moving_07
+  - first:
+      213: -4787626104788546191
+    second: ock_fishes_turtle_moving_08
+  - first:
+      213: 4040243438037845768
+    second: ock_fishes_turtle_moving_09
+  - first:
+      213: -1707501307825726805
+    second: ock_fishes_turtle_moving_10
+  - first:
+      213: -338661129387089497
+    second: ock_fishes_turtle_moving_11
+  - first:
+      213: 3147612502598094617
+    second: ock_fishes_turtle_moving_12
+  - first:
+      213: 5551550989118381202
+    second: ock_fishes_turtle_moving_13
+  - first:
+      213: 5997887926095430971
+    second: ock_fishes_turtle_moving_14
+  - first:
+      213: 4123328367456763577
+    second: ock_fishes_turtle_moving_15
+  - first:
+      213: -5230261712642652204
+    second: ock_fishes_turtle_moving_16
+  - first:
+      213: 5371031308999635170
+    second: ock_fishes_turtle_moving_17
+  - first:
+      213: 1875817222540876998
+    second: ock_fishes_turtle_moving_18
+  - first:
+      213: 2331060493295455133
+    second: ock_fishes_turtle_moving_19
+  - first:
+      213: 6310354648995904621
+    second: ock_fishes_turtle_moving_20
+  - first:
+      213: 2273731551105157467
+    second: ock_fishes_turtle_moving_21
+  - first:
+      213: 377277298216051741
+    second: ock_fishes_turtle_moving_22
+  - first:
+      213: -7686239527853222826
+    second: ock_fishes_turtle_moving_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_turtle_dead_00
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 641
+        width: 183
+        height: 120
+      alignment: 9
+      pivot: {x: 0.49726775, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0936eb69b596de60800000000000000
+      internalID: 7986735612799891726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_dead_02
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 768
+        width: 186
+        height: 118
+      alignment: 9
+      pivot: {x: 0.48924732, y: 0.4915254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76968631c0369f860800000000000000
+      internalID: 7564185952661825895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_dead_03
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 895
+        width: 190
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699669030d7b0f840800000000000000
+      internalID: 5255902869937613206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_dead_04
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 898
+        width: 190
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4957265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5983606c93ca230800000000000000
+      internalID: 3651356920561309097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_01
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 895
+        width: 189
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bd2b2c9c4f66c90800000000000000
+      internalID: -7176779808776201342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_02
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 899
+        width: 190
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef31f353453c1d100800000000000000
+      internalID: 131100630608450558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_03
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 896
+        width: 187
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5080214, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e7cf32556fe3440800000000000000
+      internalID: 4917638688671563353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_04
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 639
+        width: 180
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5222222, y: 0.48739496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c57e9eb00dde720800000000000000
+      internalID: 2877184486547086486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_05
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 518
+        width: 178
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4775281, y: 0.5086207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655a42aa106c072c0800000000000000
+      internalID: -4435827922508143274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_07
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 383
+        width: 135
+        height: 117
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3d226c12e2cf5c0800000000000000
+      internalID: -4180415631513693190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_08
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 265
+        width: 131
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d01b27c6fee8db0800000000000000
+      internalID: -4787626104788546191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_09
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 380
+        width: 132
+        height: 118
+      alignment: 9
+      pivot: {x: 0.50757575, y: 0.4915254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80749523004d11830800000000000000
+      internalID: 4040243438037845768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 376
+        width: 136
+        height: 119
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.48739496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa58857b9cbd48e0800000000000000
+      internalID: -1707501307825726805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 385
+        width: 146
+        height: 118
+      alignment: 9
+      pivot: {x: 0.46575344, y: 0.48305085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a166a34f75dc4bf0800000000000000
+      internalID: -338661129387089497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 391
+        width: 156
+        height: 117
+      alignment: 9
+      pivot: {x: 0.49358973, y: 0.47863248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f00f3f4e09eab20800000000000000
+      internalID: 3147612502598094617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_13
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 508
+        width: 171
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5146199, y: 0.47863248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c9ed216321b0d40800000000000000
+      internalID: 5551550989118381202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 513
+        width: 175
+        height: 118
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4915254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35c5856a47cc3350800000000000000
+      internalID: 5997887926095430971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_15
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 510
+        width: 173
+        height: 119
+      alignment: 9
+      pivot: {x: 0.4682081, y: 0.49579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be3d8acd41093930800000000000000
+      internalID: 4123328367456763577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 505
+        width: 174
+        height: 121
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.49586776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7cb97fea06a67b0800000000000000
+      internalID: -5230261712642652204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 635
+        width: 178
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4775281, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0bc62c48cb98a40800000000000000
+      internalID: 5371031308999635170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 636
+        width: 180
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccdb1d43dd380a10800000000000000
+      internalID: 1875817222540876998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 644
+        width: 185
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5027027, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b82dc0b27995020800000000000000
+      internalID: 2331060493295455133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 766
+        width: 188
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.5126051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cb22c9e12e29750800000000000000
+      internalID: 6310354648995904621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 772
+        width: 189
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59883a8ccaed8f10800000000000000
+      internalID: 2273731551105157467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 771
+        width: 189
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.4957265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14acfd24bb5c3500800000000000000
+      internalID: 377277298216051741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_turtle_moving_23
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 767
+        width: 186
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6541eb37fddf45590800000000000000
+      internalID: -7686239527853222826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

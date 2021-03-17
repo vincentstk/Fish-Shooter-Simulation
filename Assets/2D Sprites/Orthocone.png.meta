@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: df6b79b241f371c43b99c718b505846a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 596912633330322009
+    second: ock_fishes_orthocone_dead_00
+  - first:
+      213: 36019206075635206
+    second: ock_fishes_orthocone_dead_01
+  - first:
+      213: 5467533546048008249
+    second: ock_fishes_orthocone_dead_02
+  - first:
+      213: -2604285575606448665
+    second: ock_fishes_orthocone_dead_03
+  - first:
+      213: 2185109546970473140
+    second: ock_fishes_orthocone_dead_04
+  - first:
+      213: -20789562455502706
+    second: ock_fishes_orthocone_dead_05
+  - first:
+      213: 2968712461084120644
+    second: ock_fishes_orthocone_dead_06
+  - first:
+      213: -2897972978075475051
+    second: ock_fishes_orthocone_dead_07
+  - first:
+      213: -8534913911136680265
+    second: ock_fishes_orthocone_dead_08
+  - first:
+      213: 4115724157741863360
+    second: ock_fishes_orthocone_dead_11
+  - first:
+      213: 7282700228943896860
+    second: ock_fishes_orthocone_dead_12
+  - first:
+      213: 64822965785441489
+    second: ock_fishes_orthocone_dead_13
+  - first:
+      213: -8187171204035795421
+    second: ock_fishes_orthocone_dead_14
+  - first:
+      213: 6090797421512275182
+    second: ock_fishes_orthocone_moving_01
+  - first:
+      213: 5721958693113511110
+    second: ock_fishes_orthocone_moving_03
+  - first:
+      213: -2998240033076172741
+    second: ock_fishes_orthocone_moving_04
+  - first:
+      213: -2101839373804729496
+    second: ock_fishes_orthocone_moving_05
+  - first:
+      213: -4889594154688054905
+    second: ock_fishes_orthocone_moving_06
+  - first:
+      213: 2131369643202534930
+    second: ock_fishes_orthocone_moving_07
+  - first:
+      213: -470651551793473984
+    second: ock_fishes_orthocone_moving_08
+  - first:
+      213: -5342540015415936738
+    second: ock_fishes_orthocone_moving_10
+  - first:
+      213: -2077466674445109688
+    second: ock_fishes_orthocone_moving_12
+  - first:
+      213: 5887492001844897463
+    second: ock_fishes_orthocone_moving_13
+  - first:
+      213: -7009405808803741529
+    second: ock_fishes_orthocone_moving_15
+  - first:
+      213: -4096143111842114720
+    second: ock_fishes_orthocone_moving_16
+  - first:
+      213: 2875516703223395504
+    second: ock_fishes_orthocone_moving_17
+  - first:
+      213: 5719602337715841925
+    second: ock_fishes_orthocone_moving_18
+  - first:
+      213: 3856182960077131326
+    second: ock_fishes_orthocone_moving_19
+  - first:
+      213: 8008140672996234383
+    second: ock_fishes_orthocone_moving_20
+  - first:
+      213: 7521295910023800392
+    second: ock_fishes_orthocone_moving_21
+  - first:
+      213: -1202054015890805421
+    second: ock_fishes_orthocone_moving_22
+  - first:
+      213: 481591611323916426
+    second: ock_fishes_orthocone_moving_23
+  - first:
+      213: 6460108321307934071
+    second: ock_fishes_orthocone_moving_24
+  - first:
+      213: 5115546660041240110
+    second: ock_fishes_orthocone_moving_26
+  - first:
+      213: -5721266793893326359
+    second: ock_fishes_orthocone_moving_27
+  - first:
+      213: -3241231680692505572
+    second: ock_fishes_orthocone_moving_28
+  - first:
+      213: -8819034025074658696
+    second: ock_fishes_orthocone_moving_30
+  - first:
+      213: -2631900667909624262
+    second: ock_fishes_orthocone_moving_31
+  - first:
+      213: -2931367547544380620
+    second: ock_fishes_orthocone_moving_34
+  - first:
+      213: 1093309461077403647
+    second: ock_fishes_orthocone_moving_35
+  - first:
+      213: 6598296218970600797
+    second: ock_fishes_orthocone_moving_36
+  - first:
+      213: -6616293281482123530
+    second: ock_fishes_orthocone_moving_37
+  - first:
+      213: -5666312936736849767
+    second: ock_fishes_orthocone_moving_38
+  - first:
+      213: -5415026406657257527
+    second: ock_fishes_orthocone_moving_40
+  - first:
+      213: -5848433348718279574
+    second: ock_fishes_orthocone_moving_41
+  - first:
+      213: 149700384457708344
+    second: ock_fishes_orthocone_moving_42
+  - first:
+      213: -6205037964802976437
+    second: ock_fishes_orthocone_moving_43
+  - first:
+      213: 5753796155256146929
+    second: ock_fishes_orthocone_moving_44
+  - first:
+      213: -1720082210943182475
+    second: ock_fishes_orthocone_moving_45
+  - first:
+      213: -2306314462222998746
+    second: ock_fishes_orthocone_moving_47
+  - first:
+      213: -5066191605100293739
+    second: ock_fishes_orthocone_moving_48
+  - first:
+      213: -2631309509648588736
+    second: ock_fishes_orthocone_moving_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_00
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 17
+        width: 35
+        height: 85
+      alignment: 9
+      pivot: {x: 0.41428572, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac89f90e8a84800800000000000000
+      internalID: 596912633330322009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_01
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 17
+        width: 35
+        height: 85
+      alignment: 9
+      pivot: {x: 0.41428572, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606da3fe647ff7000800000000000000
+      internalID: 36019206075635206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_02
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 818
+        width: 35
+        height: 85
+      alignment: 9
+      pivot: {x: 0.41428572, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93039b9bac490eb40800000000000000
+      internalID: 5467533546048008249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_03
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edcd4c2118bbdbd0800000000000000
+      internalID: -2604285575606448665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_04
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 36
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5694444, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b26d764e81135e10800000000000000
+      internalID: 2185109546970473140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_05
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 362
+        width: 34
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5441176, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80ddcac00426bff0800000000000000
+      internalID: -20789562455502706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_06
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 268
+        width: 39
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4940476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446d133214cf23920800000000000000
+      internalID: 2968712461084120644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_07
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 930
+        width: 35
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59361293ee458c7d0800000000000000
+      internalID: -2897972978075475051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_08
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 38
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5394737, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6882a8405ed8980800000000000000
+      internalID: -8534913911136680265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 477
+        width: 27
+        height: 84
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.4940476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c192bfb05dfd1930800000000000000
+      internalID: 4115724157741863360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_12
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 363
+        width: 37
+        height: 84
+      alignment: 9
+      pivot: {x: 0.47297296, y: 0.4940476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c116bd7d549511560800000000000000
+      internalID: 7282700228943896860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 267
+        width: 30
+        height: 85
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4bde8d42c46e000800000000000000
+      internalID: 64822965785441489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_dead_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 173
+        width: 40
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.4940476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326a32cda23516e80800000000000000
+      internalID: -8187171204035795421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_01
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 913
+        width: 40
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4ba140cfbd68450800000000000000
+      internalID: 6090797421512275182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_03
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 910
+        width: 41
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc3d7a7d1b786f40800000000000000
+      internalID: 5721958693113511110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_04
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 221
+        width: 40
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38a325439c1466d0800000000000000
+      internalID: -2998240033076172741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_05
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 335
+        width: 38
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5394737, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b807db934c4d2e0800000000000000
+      internalID: -2101839373804729496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_06
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 567
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789fdf1c50ca42cb0800000000000000
+      internalID: -4889594154688054905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_07
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 453
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e5324e565249d10800000000000000
+      internalID: 2131369643202534930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_08
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 683
+        width: 36
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5694444, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0461d5248e8e779f0800000000000000
+      internalID: -470651551793473984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 567
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19b2d6792c7bd5b0800000000000000
+      internalID: -5342540015415936738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 682
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846bcf4011b5b23e0800000000000000
+      internalID: -2077466674445109688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 797
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b62beb48c294b150800000000000000
+      internalID: 5887492001844897463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 911
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a081b7ed8699be90800000000000000
+      internalID: -7009405808803741529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 453
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063dc75ca839727c0800000000000000
+      internalID: -4096143111842114720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 339
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b43559d433e7e720800000000000000
+      internalID: 2875516703223395504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 225
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58beb0cb50c106f40800000000000000
+      internalID: 5719602337715841925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 111
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ecf44a8f9e38530800000000000000
+      internalID: 3856182960077131326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 568
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f845c4d5381a22f60800000000000000
+      internalID: 8008140672996234383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 683
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8462197d7c2016860800000000000000
+      internalID: 7521295910023800392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 797
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d2ff5cd32715fe0800000000000000
+      internalID: -1202054015890805421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 911
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8025c7d405fea600800000000000000
+      internalID: 481591611323916426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 454
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dba168a4ae6a950800000000000000
+      internalID: 6460108321307934071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 340
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ea1bf75921ef640800000000000000
+      internalID: 5115546660041240110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 226
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e110ccd92af990b0800000000000000
+      internalID: -5721266793893326359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 112
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14b49d85f4d403d0800000000000000
+      internalID: -3241231680692505572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 569
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727759874f7c9580800000000000000
+      internalID: -8819034025074658696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 680
+        width: 39
+        height: 105
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e2225794c997bd0800000000000000
+      internalID: -2631900667909624262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 565
+        width: 39
+        height: 105
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b528e1fb0b157d0800000000000000
+      internalID: -2931367547544380620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 450
+        width: 39
+        height: 105
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7a71989273c2f00800000000000000
+      internalID: 1093309461077403647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 220
+        width: 38
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5394737, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55bb8ea37bd19b50800000000000000
+      internalID: 6598296218970600797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 38
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5394737, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6547ba0543e24a0800000000000000
+      internalID: -6616293281482123530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 335
+        width: 38
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5394737, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990899bc7663d51b0800000000000000
+      internalID: -5666312936736849767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 795
+        width: 40
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf85d55c26f9d4b0800000000000000
+      internalID: -5415026406657257527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 107
+        width: 40
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64491d0bd036dea0800000000000000
+      internalID: -5848433348718279574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 681
+        width: 40
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833575ed4b7d31200800000000000000
+      internalID: 149700384457708344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_43
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 796
+        width: 40
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b451b12c8d643e9a0800000000000000
+      internalID: -6205037964802976437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 911
+        width: 40
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb0d084e1799df40800000000000000
+      internalID: 5753796155256146929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 798
+        width: 40
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5795340b75a0128e0800000000000000
+      internalID: -1720082210943182475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_47
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 457
+        width: 40
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6232ada47335effd0800000000000000
+      internalID: -2306314462222998746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_48
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 571
+        width: 40
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5915ee5b39541b9b0800000000000000
+      internalID: -5066191605100293739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_orthocone_moving_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 686
+        width: 40
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040e94731f5bb7bd0800000000000000
+      internalID: -2631309509648588736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

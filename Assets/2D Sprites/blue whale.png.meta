@@ -1,0 +1,2324 @@
+fileFormatVersion: 2
+guid: a476afde66ff2d2469c9faaecf927c14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1354604691374205003
+    second: ock_fishes_bluewhale_dead_00
+  - first:
+      213: 7356424051200967697
+    second: ock_fishes_bluewhale_dead_01
+  - first:
+      213: -9108736844347193772
+    second: ock_fishes_bluewhale_dead_03
+  - first:
+      213: 7144382693888331777
+    second: ock_fishes_bluewhale_dead_04
+  - first:
+      213: -4286945797998903537
+    second: ock_fishes_bluewhale_dead_05
+  - first:
+      213: -7140197971964139340
+    second: ock_fishes_bluewhale_dead_06
+  - first:
+      213: -120850429534579208
+    second: ock_fishes_bluewhale_dead_07
+  - first:
+      213: -7044619119938225489
+    second: ock_fishes_bluewhale_dead_08
+  - first:
+      213: -4408342037050985909
+    second: ock_fishes_bluewhale_dead_09
+  - first:
+      213: -6922919516973359667
+    second: ock_fishes_bluewhale_moving_00
+  - first:
+      213: -8440070703062539943
+    second: ock_fishes_bluewhale_moving_01
+  - first:
+      213: -7699554371920254463
+    second: ock_fishes_bluewhale_moving_02
+  - first:
+      213: 8294154678250914091
+    second: ock_fishes_bluewhale_moving_03
+  - first:
+      213: 6193088426375685932
+    second: ock_fishes_bluewhale_moving_04
+  - first:
+      213: 1098060927360605474
+    second: ock_fishes_bluewhale_moving_05
+  - first:
+      213: -9201765155797965300
+    second: ock_fishes_bluewhale_moving_07
+  - first:
+      213: -689876153255154673
+    second: ock_fishes_bluewhale_moving_08
+  - first:
+      213: -4629507467292018482
+    second: ock_fishes_bluewhale_moving_09
+  - first:
+      213: 8780528363392059679
+    second: ock_fishes_bluewhale_moving_10
+  - first:
+      213: 2137614120502108707
+    second: ock_fishes_bluewhale_moving_12
+  - first:
+      213: -4456159236478640057
+    second: ock_fishes_bluewhale_moving_13
+  - first:
+      213: -1893748964482419163
+    second: ock_fishes_bluewhale_moving_14
+  - first:
+      213: -6763749040092398524
+    second: ock_fishes_bluewhale_moving_17
+  - first:
+      213: 7272482682024013186
+    second: ock_fishes_bluewhale_moving_18
+  - first:
+      213: 8263288124482370341
+    second: ock_fishes_bluewhale_moving_20
+  - first:
+      213: -3029853877667796542
+    second: ock_fishes_bluewhale_moving_21
+  - first:
+      213: 2598711199710417794
+    second: ock_fishes_bluewhale_moving_22
+  - first:
+      213: 4557320907193312242
+    second: ock_fishes_bluewhale_moving_23
+  - first:
+      213: -5327593120360880654
+    second: ock_fishes_bluewhale_moving_24
+  - first:
+      213: -184674576040451407
+    second: ock_fishes_bluewhale_moving_25
+  - first:
+      213: 8084410775569194063
+    second: ock_fishes_bluewhale_moving_26
+  - first:
+      213: 7632145991395447726
+    second: ock_fishes_bluewhale_moving_27
+  - first:
+      213: 8592830649667504034
+    second: ock_fishes_bluewhale_moving_29
+  - first:
+      213: 3934379068597350910
+    second: ock_fishes_bluewhale_moving_30
+  - first:
+      213: -8334271426252201480
+    second: ock_fishes_bluewhale_moving_31
+  - first:
+      213: -4376127846287532687
+    second: ock_fishes_bluewhale_moving_32
+  - first:
+      213: -1628993594202964531
+    second: ock_fishes_bluewhale_moving_34
+  - first:
+      213: -3693613708698535866
+    second: ock_fishes_bluewhale_moving_35
+  - first:
+      213: -8764665309259301264
+    second: ock_fishes_bluewhale_moving_36
+  - first:
+      213: 8386169290566946390
+    second: ock_fishes_bluewhale_moving_37
+  - first:
+      213: 3902241480404666848
+    second: ock_fishes_bluewhale_moving_38
+  - first:
+      213: 6739315226084070114
+    second: ock_fishes_bluewhale_moving_39
+  - first:
+      213: 7146674443609382004
+    second: ock_fishes_bluewhale_moving_40
+  - first:
+      213: -7251527146649562306
+    second: ock_fishes_bluewhale_moving_41
+  - first:
+      213: 6475425706622804389
+    second: ock_fishes_bluewhale_moving_44
+  - first:
+      213: 1318061547821609827
+    second: ock_fishes_bluewhale_moving_45
+  - first:
+      213: -4346042895369706453
+    second: ock_fishes_bluewhale_moving_46
+  - first:
+      213: 4056538277698422509
+    second: ock_fishes_bluewhale_moving_47
+  - first:
+      213: 2546652050463176620
+    second: ock_fishes_bluewhale_moving_48
+  - first:
+      213: 8118404169234002425
+    second: ock_fishes_bluewhale_moving_49
+  - first:
+      213: -4164892322053239524
+    second: ock_fishes_bluewhale_moving_50
+  - first:
+      213: -1846573222337669202
+    second: ock_fishes_bluewhale_moving_52
+  - first:
+      213: -2432743953595370475
+    second: ock_fishes_bluewhale_moving_53
+  - first:
+      213: 7530770264601517227
+    second: ock_fishes_bluewhale_moving_54
+  - first:
+      213: -8280602250777554751
+    second: ock_fishes_bluewhale_moving_55
+  - first:
+      213: 8094104926018658628
+    second: ock_fishes_bluewhale_moving_57
+  - first:
+      213: -420957750772897431
+    second: ock_fishes_bluewhale_moving_60
+  - first:
+      213: -7744062338847785454
+    second: ock_fishes_bluewhale_moving_61
+  - first:
+      213: -2351129518782964805
+    second: ock_fishes_bluewhale_moving_63
+  - first:
+      213: -6081994265606851888
+    second: ock_fishes_bluewhale_moving_64
+  - first:
+      213: -4788025491297809617
+    second: ock_fishes_bluewhale_moving_65
+  - first:
+      213: -8674747673704979685
+    second: ock_fishes_bluewhale_moving_66
+  - first:
+      213: -6300366575348103995
+    second: ock_fishes_bluewhale_moving_69
+  - first:
+      213: -7042987497769457687
+    second: ock_fishes_bluewhale_moving_71
+  - first:
+      213: 7294366370447399851
+    second: ock_fishes_bluewhale_moving_73
+  - first:
+      213: 5090504910769264089
+    second: ock_fishes_bluewhale_moving_74
+  - first:
+      213: 5894809423528422749
+    second: ock_fishes_bluewhale_moving_75
+  - first:
+      213: -5360295766104546459
+    second: ock_fishes_bluewhale_moving_76
+  - first:
+      213: 1805148455842621476
+    second: ock_fishes_bluewhale_moving_78
+  - first:
+      213: 7159556011290581016
+    second: ock_fishes_bluewhale_moving_80
+  - first:
+      213: 5535203680437586280
+    second: ock_fishes_bluewhale_moving_82
+  - first:
+      213: 3731750031118757890
+    second: ock_fishes_bluewhale_moving_84
+  - first:
+      213: 7213701689004082132
+    second: ock_fishes_bluewhale_moving_85
+  - first:
+      213: 4831413973263011527
+    second: ock_fishes_bluewhale_moving_86
+  - first:
+      213: 1028452292175114627
+    second: ock_fishes_bluewhale_moving_87
+  - first:
+      213: -437334622804719818
+    second: ock_fishes_bluewhale_moving_89
+  - first:
+      213: 8310664314015851612
+    second: ock_fishes_bluewhale_moving_91
+  - first:
+      213: -4765080826325840149
+    second: ock_fishes_bluewhale_moving_94
+  - first:
+      213: 4482722044658185319
+    second: ock_fishes_bluewhale_moving_95
+  - first:
+      213: 3842722256949421029
+    second: ock_fishes_bluewhale_moving_96
+  - first:
+      213: -8170921505432710446
+    second: ock_fishes_bluewhale_moving_97
+  - first:
+      213: -3659916167346196490
+    second: ock_fishes_bluewhale_moving_99
+  - first:
+      213: -5477924892435432676
+    second: ock_fishes_bluewhale_moving_100
+  - first:
+      213: -3235251419006987638
+    second: ock_fishes_bluewhale_moving_102
+  - first:
+      213: 5569311615420430680
+    second: ock_fishes_bluewhale_moving_103
+  - first:
+      213: -9096690392207266802
+    second: ock_fishes_bluewhale_moving_104
+  - first:
+      213: 8038490346253647023
+    second: ock_fishes_bluewhale_moving_105
+  - first:
+      213: -6171846417072555351
+    second: ock_fishes_bluewhale_moving_106
+  - first:
+      213: -3386621501938434300
+    second: ock_fishes_bluewhale_moving_107
+  - first:
+      213: -8096121959391814198
+    second: ock_fishes_bluewhale_moving_109
+  - first:
+      213: -1279992252254053797
+    second: ock_fishes_bluewhale_moving_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_dead_00
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3323
+        width: 236
+        height: 377
+      alignment: 9
+      pivot: {x: 0.4957627, y: 0.5026525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48ef603ac58cc210800000000000000
+      internalID: 1354604691374205003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_dead_01
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3711
+        width: 242
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5013298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11449f4d2b4471660800000000000000
+      internalID: 7356424051200967697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_dead_03
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2933
+        width: 241
+        height: 377
+      alignment: 9
+      pivot: {x: 0.4979253, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4564c28a914479180800000000000000
+      internalID: -9108736844347193772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_dead_04
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3710
+        width: 242
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49734747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10099a02532f52360800000000000000
+      internalID: 7144382693888331777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_dead_05
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2547
+        width: 227
+        height: 376
+      alignment: 9
+      pivot: {x: 0.49779737, y: 0.49601063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ffbea8285b184c0800000000000000
+      internalID: -4286945797998903537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_dead_06
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1789
+        width: 205
+        height: 369
+      alignment: 9
+      pivot: {x: 0.45365855, y: 0.48644987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8ec1f56cbe8ec90800000000000000
+      internalID: -7140197971964139340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_dead_07
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1417
+        width: 207
+        height: 362
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0.47928175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f553a4bc27a25ef0800000000000000
+      internalID: -120850429534579208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_dead_08
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2168
+        width: 212
+        height: 369
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.48644987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa38220c3c7c3e90800000000000000
+      internalID: -7044619119938225489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_dead_09
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3320
+        width: 235
+        height: 378
+      alignment: 9
+      pivot: {x: 0.49361703, y: 0.50132275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b427721164c62d2c0800000000000000
+      internalID: -4408342037050985909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_00
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1492
+        width: 184
+        height: 299
+      alignment: 9
+      pivot: {x: 0.32880434, y: 0.3896321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1f26e069dcef90800000000000000
+      internalID: -6922919516973359667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_01
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1651
+        width: 184
+        height: 285
+      alignment: 9
+      pivot: {x: 0.3451087, y: 0.40877193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951a6c8b968deda80800000000000000
+      internalID: -8440070703062539943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_02
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1938
+        width: 192
+        height: 294
+      alignment: 9
+      pivot: {x: 0.30989584, y: 0.39965987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a23ecb710b52590800000000000000
+      internalID: -7699554371920254463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_03
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2312
+        width: 194
+        height: 286
+      alignment: 9
+      pivot: {x: 0.3170103, y: 0.41083917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b214a4d4cb1ca1370800000000000000
+      internalID: 8294154678250914091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_04
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 242
+        width: 184
+        height: 288
+      alignment: 9
+      pivot: {x: 0.32336956, y: 0.41493055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27a4b48c1542f550800000000000000
+      internalID: 6193088426375685932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_05
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2018
+        width: 180
+        height: 284
+      alignment: 9
+      pivot: {x: 0.30833334, y: 0.4278169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d901d78981d3f00800000000000000
+      internalID: 1098060927360605474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_07
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2315
+        width: 172
+        height: 283
+      alignment: 9
+      pivot: {x: 0.2877907, y: 0.43639576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0668160853cc4080800000000000000
+      internalID: -9201765155797965300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_08
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 3525
+        width: 169
+        height: 274
+      alignment: 9
+      pivot: {x: 0.2751479, y: 0.4580292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca6323b411d66f0800000000000000
+      internalID: -689876153255154673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_09
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 296
+        width: 176
+        height: 264
+      alignment: 9
+      pivot: {x: 0.2471591, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec87a079c7fa0cfb0800000000000000
+      internalID: -4629507467292018482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_10
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 26
+        width: 165
+        height: 261
+      alignment: 9
+      pivot: {x: 0.24545455, y: 0.4731801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c9387604bad970800000000000000
+      internalID: 8780528363392059679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_12
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1078
+        width: 168
+        height: 258
+      alignment: 9
+      pivot: {x: 0.21726191, y: 0.45930234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322236f87b45aad10800000000000000
+      internalID: 2137614120502108707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_13
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 3269
+        width: 170
+        height: 246
+      alignment: 9
+      pivot: {x: 0.24411765, y: 0.4695122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7406d1fb8ca8822c0800000000000000
+      internalID: -4456159236478640057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_14
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 2915
+        width: 158
+        height: 248
+      alignment: 9
+      pivot: {x: 0.18037975, y: 0.4576613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526f24ea95d08b5e0800000000000000
+      internalID: -1893748964482419163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_17
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 407
+        width: 158
+        height: 232
+      alignment: 9
+      pivot: {x: 0.1613924, y: 0.4547414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c376b75165222a0800000000000000
+      internalID: -6763749040092398524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_18
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1137
+        width: 151
+        height: 237
+      alignment: 9
+      pivot: {x: 0.13576159, y: 0.4451477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da831d77c0de460800000000000000
+      internalID: 7272482682024013186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_20
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3020
+        width: 166
+        height: 239
+      alignment: 9
+      pivot: {x: 0.20180723, y: 0.44142258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bb978b4c81da270800000000000000
+      internalID: 8263288124482370341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_21
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1512
+        width: 152
+        height: 231
+      alignment: 9
+      pivot: {x: 0.12828948, y: 0.43506494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9654c73fbc3f5d0800000000000000
+      internalID: -3029853877667796542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_22
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 651
+        width: 147
+        height: 232
+      alignment: 9
+      pivot: {x: 0.12585033, y: 0.43318966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283919c411a701420800000000000000
+      internalID: 2598711199710417794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_23
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1271
+        width: 150
+        height: 231
+      alignment: 9
+      pivot: {x: 0.123333335, y: 0.43073592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3e7b8283bde3f30800000000000000
+      internalID: 4557320907193312242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_24
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3844
+        width: 150
+        height: 243
+      alignment: 9
+      pivot: {x: 0.123333335, y: 0.41358024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f52319a8469016b0800000000000000
+      internalID: -5327593120360880654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_25
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 3315
+        width: 148
+        height: 239
+      alignment: 9
+      pivot: {x: 0.10472973, y: 0.416318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b220189377ef6df0800000000000000
+      internalID: -184674576040451407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_26
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 3595
+        width: 143
+        height: 239
+      alignment: 9
+      pivot: {x: 0.08041958, y: 0.4121339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c542074c8913070800000000000000
+      internalID: 8084410775569194063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_27
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 3848
+        width: 138
+        height: 239
+      alignment: 9
+      pivot: {x: 0.061594203, y: 0.40376568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea31c03a754dae960800000000000000
+      internalID: 7632145991395447726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_29
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 168
+        width: 139
+        height: 229
+      alignment: 9
+      pivot: {x: 0.04676259, y: 0.37772927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a74588f2fddf3770800000000000000
+      internalID: 8592830649667504034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_30
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1030
+        width: 138
+        height: 231
+      alignment: 9
+      pivot: {x: 0.04710145, y: 0.33982685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef13a7beae8b99630800000000000000
+      internalID: 3934379068597350910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_31
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 19
+        width: 136
+        height: 213
+      alignment: 9
+      pivot: {x: 0.06985294, y: 0.32629108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1ac807b48b65c80800000000000000
+      internalID: -8334271426252201480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_32
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 14
+        width: 131
+        height: 203
+      alignment: 9
+      pivot: {x: 0.057251908, y: 0.2783251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d1656d8eed443c0800000000000000
+      internalID: -4376127846287532687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_34
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 14
+        width: 132
+        height: 218
+      alignment: 9
+      pivot: {x: 0.11742424, y: 0.24541284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd3524f4f6a469e0800000000000000
+      internalID: -1628993594202964531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_35
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 848
+        width: 129
+        height: 209
+      alignment: 9
+      pivot: {x: 0.15116279, y: 0.24641149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b28bc6e5adbcc0800000000000000
+      internalID: -3693613708698535866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_36
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 414
+        width: 129
+        height: 227
+      alignment: 9
+      pivot: {x: 0.20542635, y: 0.3061674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ef862a657ad5680800000000000000
+      internalID: -8764665309259301264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_37
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 649
+        width: 134
+        height: 234
+      alignment: 9
+      pivot: {x: 0.25746268, y: 0.31837606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4886b988a16470800000000000000
+      internalID: 8386169290566946390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_38
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2913
+        width: 139
+        height: 250
+      alignment: 9
+      pivot: {x: 0.29856116, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9805393fb872630800000000000000
+      internalID: 3902241480404666848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_39
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1384
+        width: 137
+        height: 257
+      alignment: 9
+      pivot: {x: 0.3540146, y: 0.30544746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e25f10ed7bd68d50800000000000000
+      internalID: 6739315226084070114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_40
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2050
+        width: 137
+        height: 255
+      alignment: 9
+      pivot: {x: 0.38321167, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c13b0ba861e2360800000000000000
+      internalID: 7146674443609382004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_41
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2185
+        width: 146
+        height: 250
+      alignment: 9
+      pivot: {x: 0.41438356, y: 0.338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33d9d8fa766d5b90800000000000000
+      internalID: -7251527146649562306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_44
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 22
+        width: 158
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5348101, y: 0.37310606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a16fa43f555dd950800000000000000
+      internalID: 6475425706622804389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_45
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3070
+        width: 162
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.3683274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363320e8ef1ba4210800000000000000
+      internalID: 1318061547821609827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_46
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1345
+        width: 167
+        height: 286
+      alignment: 9
+      pivot: {x: 0.61976045, y: 0.37937063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24e0e25301cfa3c0800000000000000
+      internalID: -4346042895369706453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_47
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 531
+        width: 189
+        height: 295
+      alignment: 9
+      pivot: {x: 0.58465606, y: 0.38135594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de64df33218bb4830800000000000000
+      internalID: 4056538277698422509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 419
+        width: 184
+        height: 312
+      alignment: 9
+      pivot: {x: 0.6494565, y: 0.37660256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7b0621c86875320800000000000000
+      internalID: 2546652050463176620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 388
+        width: 186
+        height: 324
+      alignment: 9
+      pivot: {x: 0.6532258, y: 0.4212963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f13e3a249d5aa070800000000000000
+      internalID: 8118404169234002425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 741
+        width: 190
+        height: 321
+      alignment: 9
+      pivot: {x: 0.6552632, y: 0.4034268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc348ef745336c0800000000000000
+      internalID: -4164892322053239524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1072
+        width: 180
+        height: 335
+      alignment: 9
+      pivot: {x: 0.625, y: 0.419403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea790d61077af56e0800000000000000
+      internalID: -1846573222337669202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_53
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2962
+        width: 188
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5398936, y: 0.44586894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f77073482d3ed0800000000000000
+      internalID: -2432743953595370475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2180
+        width: 157
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5254777, y: 0.46078432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd5aae7aba28860800000000000000
+      internalID: 7530770264601517227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3354
+        width: 166
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5512048, y: 0.4481268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c09a1c1024651d80800000000000000
+      internalID: -8280602250777554751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2958
+        width: 165
+        height: 355
+      alignment: 9
+      pivot: {x: 0.669697, y: 0.45211267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441e41abb89045070800000000000000
+      internalID: 8094104926018658628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_60
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2597
+        width: 202
+        height: 351
+      alignment: 9
+      pivot: {x: 0.62623763, y: 0.45156696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ebbfe725782af0800000000000000
+      internalID: -420957750772897431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_61
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2608
+        width: 223
+        height: 344
+      alignment: 9
+      pivot: {x: 0.55829597, y: 0.4520349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e3f762550978490800000000000000
+      internalID: -7744062338847785454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_63
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2242
+        width: 215
+        height: 345
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb9104d82c1f5fd0800000000000000
+      internalID: -2351129518782964805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_64
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3748
+        width: 234
+        height: 339
+      alignment: 9
+      pivot: {x: 0.49786323, y: 0.49705014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d27a80707a689ba0800000000000000
+      internalID: -6081994265606851888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_65
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3001
+        width: 239
+        height: 343
+      alignment: 9
+      pivot: {x: 0.4707113, y: 0.5233236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bcda70f248d8db0800000000000000
+      internalID: -4788025491297809617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_66
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 3361
+        width: 227
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4647577, y: 0.53088236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b132ba893fa1d9780800000000000000
+      internalID: -8674747673704979685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_69
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1145
+        width: 210
+        height: 310
+      alignment: 9
+      pivot: {x: 0.50714284, y: 0.5274193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4c1a10bf99098a0800000000000000
+      internalID: -6300366575348103995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_71
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 540
+        width: 188
+        height: 291
+      alignment: 9
+      pivot: {x: 0.54521275, y: 0.50343645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e72fe5af28424e90800000000000000
+      internalID: -7042987497769457687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_73
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 112
+        width: 194
+        height: 297
+      alignment: 9
+      pivot: {x: 0.5438144, y: 0.510101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab9214119bca3560800000000000000
+      internalID: 7294366370447399851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_74
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1641
+        width: 192
+        height: 287
+      alignment: 9
+      pivot: {x: 0.5286458, y: 0.5627178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d598c5ee3b15a640800000000000000
+      internalID: 5090504910769264089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_75
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1946
+        width: 198
+        height: 286
+      alignment: 9
+      pivot: {x: 0.5126263, y: 0.5751748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d690c40f19ec150800000000000000
+      internalID: 5894809423528422749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_76
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1346
+        width: 199
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5150754, y: 0.59122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563ee4a96676c95b0800000000000000
+      internalID: -5360295766104546459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_78
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 841
+        width: 229
+        height: 294
+      alignment: 9
+      pivot: {x: 0.51310045, y: 0.6105442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428285dd4fc2d0910800000000000000
+      internalID: 1805148455842621476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_80
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2445
+        width: 219
+        height: 254
+      alignment: 9
+      pivot: {x: 0.48630136, y: 0.5019685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818dc72624adb5360800000000000000
+      internalID: 7159556011290581016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_82
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2655
+        width: 228
+        height: 248
+      alignment: 9
+      pivot: {x: 0.4758772, y: 0.47379032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869caebab6ef0dc40800000000000000
+      internalID: 5535203680437586280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_84
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2709
+        width: 240
+        height: 282
+      alignment: 9
+      pivot: {x: 0.47291666, y: 0.5159575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200f263b1e6d9c330800000000000000
+      internalID: 3731750031118757890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_85
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 3817
+        width: 245
+        height: 270
+      alignment: 9
+      pivot: {x: 0.46734694, y: 0.47592592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d349b067773c1460800000000000000
+      internalID: 7213701689004082132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_86
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 3173
+        width: 263
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47833934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce43372961ac0340800000000000000
+      internalID: 4831413973263011527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 243
+        height: 313
+      alignment: 9
+      pivot: {x: 0.47942388, y: 0.5063898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381b88729ebc54e00800000000000000
+      internalID: 1028452292175114627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_89
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 3809
+        width: 253
+        height: 278
+      alignment: 9
+      pivot: {x: 0.4762846, y: 0.45143884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637ceb74a764ee9f0800000000000000
+      internalID: -437334622804719818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_91
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 3460
+        width: 255
+        height: 278
+      alignment: 9
+      pivot: {x: 0.48039216, y: 0.4766187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542e6c6929655370800000000000000
+      internalID: 8310664314015851612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_94
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 893
+        width: 255
+        height: 234
+      alignment: 9
+      pivot: {x: 0.48039216, y: 0.37393162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beec2d42c380fddb0800000000000000
+      internalID: -4765080826325840149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_95
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3564
+        width: 255
+        height: 243
+      alignment: 9
+      pivot: {x: 0.48431373, y: 0.38477367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764f9aaf2f3d53e30800000000000000
+      internalID: 4482722044658185319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_96
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 570
+        width: 265
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42350745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e325f77887145530800000000000000
+      internalID: 3842722256949421029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_97
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1753
+        width: 243
+        height: 255
+      alignment: 9
+      pivot: {x: 0.4547325, y: 0.40980393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d25515ae2e0b9e80800000000000000
+      internalID: -8170921505432710446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_99
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 297
+        width: 128
+        height: 263
+      alignment: 9
+      pivot: {x: 0.08203125, y: 0.44296578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffee9903ad553dc0800000000000000
+      internalID: -3659916167346196490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_100
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1067
+        width: 135
+        height: 269
+      alignment: 9
+      pivot: {x: 0.1, y: 0.46282527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bbd1865508af3b0800000000000000
+      internalID: -5477924892435432676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_102
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 227
+        width: 137
+        height: 294
+      alignment: 9
+      pivot: {x: 0.1350365, y: 0.4744898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82920bb9f31a13d0800000000000000
+      internalID: -3235251419006987638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_103
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 836
+        width: 135
+        height: 299
+      alignment: 9
+      pivot: {x: 0.12962963, y: 0.49331105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8597790286b2a4d40800000000000000
+      internalID: 5569311615420430680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_104
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1465
+        width: 139
+        height: 326
+      alignment: 9
+      pivot: {x: 0.12589929, y: 0.51380366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ce6ccd84012c180800000000000000
+      internalID: -9096690392207266802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 722
+        width: 143
+        height: 336
+      alignment: 9
+      pivot: {x: 0.15034965, y: 0.5014881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facfad251647e8f60800000000000000
+      internalID: 8038490346253647023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1068
+        width: 140
+        height: 339
+      alignment: 9
+      pivot: {x: 0.16785714, y: 0.4941003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7f1e2262395aa0800000000000000
+      internalID: -6171846417072555351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_107
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2566
+        width: 142
+        height: 357
+      alignment: 9
+      pivot: {x: 0.19366197, y: 0.5112045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f7244efad4001d0800000000000000
+      internalID: -3386621501938434300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1801
+        width: 168
+        height: 357
+      alignment: 9
+      pivot: {x: 0.22321428, y: 0.50560224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd163819fbc4af80800000000000000
+      internalID: -8096121959391814198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_bluewhale_moving_111
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3708
+        width: 182
+        height: 379
+      alignment: 9
+      pivot: {x: 0.29395604, y: 0.5131926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a152904dd8c3ee0800000000000000
+      internalID: -1279992252254053797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

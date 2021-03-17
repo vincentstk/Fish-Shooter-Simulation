@@ -1,0 +1,1364 @@
+fileFormatVersion: 2
+guid: 751ec204c84304c4c8093c267c8b059b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -369539261216454921
+    second: ock_fishes_grouperfish_dead_00
+  - first:
+      213: -6017377017775166021
+    second: ock_fishes_grouperfish_dead_01
+  - first:
+      213: -2299751679894081123
+    second: ock_fishes_grouperfish_dead_02
+  - first:
+      213: 8723083140070824855
+    second: ock_fishes_grouperfish_dead_03
+  - first:
+      213: -6637278528778720800
+    second: ock_fishes_grouperfish_dead_04
+  - first:
+      213: -933050956681059696
+    second: ock_fishes_grouperfish_dead_05
+  - first:
+      213: 2868454860208322623
+    second: ock_fishes_grouperfish_dead_06
+  - first:
+      213: 3637945608644488525
+    second: ock_fishes_grouperfish_dead_07
+  - first:
+      213: -5560574527122788133
+    second: ock_fishes_grouperfish_dead_08
+  - first:
+      213: -8886374365488426646
+    second: ock_fishes_grouperfish_dead_09
+  - first:
+      213: 2717817852063441678
+    second: ock_fishes_grouperfish_dead_10
+  - first:
+      213: 3920748764337040235
+    second: ock_fishes_grouperfish_dead_11
+  - first:
+      213: 3502362433627848540
+    second: ock_fishes_grouperfish_dead_12
+  - first:
+      213: -5538962234061357328
+    second: ock_fishes_grouperfish_dead_13
+  - first:
+      213: -568867197353797915
+    second: ock_fishes_grouperfish_moving_00
+  - first:
+      213: 2546164024010812127
+    second: ock_fishes_grouperfish_moving_01
+  - first:
+      213: 2171850567669723152
+    second: ock_fishes_grouperfish_moving_02
+  - first:
+      213: -763785635402286522
+    second: ock_fishes_grouperfish_moving_03
+  - first:
+      213: -7884030822588809895
+    second: ock_fishes_grouperfish_moving_04
+  - first:
+      213: 350904520867978362
+    second: ock_fishes_grouperfish_moving_05
+  - first:
+      213: 7774725542964200757
+    second: ock_fishes_grouperfish_moving_06
+  - first:
+      213: -86671888956126586
+    second: ock_fishes_grouperfish_moving_08
+  - first:
+      213: 2520335955570896186
+    second: ock_fishes_grouperfish_moving_09
+  - first:
+      213: 896008242414925440
+    second: ock_fishes_grouperfish_moving_10
+  - first:
+      213: 2468859664496077644
+    second: ock_fishes_grouperfish_moving_11
+  - first:
+      213: 6333888179835775510
+    second: ock_fishes_grouperfish_moving_12
+  - first:
+      213: -246094849833911473
+    second: ock_fishes_grouperfish_moving_13
+  - first:
+      213: -2638915714097500013
+    second: ock_fishes_grouperfish_moving_14
+  - first:
+      213: -3484925315715594326
+    second: ock_fishes_grouperfish_moving_15
+  - first:
+      213: -6294876161678892926
+    second: ock_fishes_grouperfish_moving_16
+  - first:
+      213: 8080938323669447851
+    second: ock_fishes_grouperfish_moving_18
+  - first:
+      213: -1906237267791607710
+    second: ock_fishes_grouperfish_moving_19
+  - first:
+      213: 13832437051549143
+    second: ock_fishes_grouperfish_moving_20
+  - first:
+      213: -2856419948411371109
+    second: ock_fishes_grouperfish_moving_21
+  - first:
+      213: 8680474959353008028
+    second: ock_fishes_grouperfish_moving_22
+  - first:
+      213: 8025614430049388150
+    second: ock_fishes_grouperfish_moving_23
+  - first:
+      213: -1481020161180659837
+    second: ock_fishes_grouperfish_moving_24
+  - first:
+      213: 4559536824276219981
+    second: ock_fishes_grouperfish_moving_25
+  - first:
+      213: 7372477155946301625
+    second: ock_fishes_grouperfish_moving_26
+  - first:
+      213: -7773006096305200264
+    second: ock_fishes_grouperfish_moving_27
+  - first:
+      213: 2049607333246834052
+    second: ock_fishes_grouperfish_moving_28
+  - first:
+      213: 4241105071038064728
+    second: ock_fishes_grouperfish_moving_29
+  - first:
+      213: -4620716282399979469
+    second: ock_fishes_grouperfish_moving_30
+  - first:
+      213: 9130785333528398726
+    second: ock_fishes_grouperfish_moving_31
+  - first:
+      213: -1680587934962976883
+    second: ock_fishes_grouperfish_moving_32
+  - first:
+      213: -2249881981806620004
+    second: ock_fishes_grouperfish_moving_33
+  - first:
+      213: 1031617422821927517
+    second: ock_fishes_grouperfish_moving_34
+  - first:
+      213: 4809742724011839640
+    second: ock_fishes_grouperfish_moving_35
+  - first:
+      213: 6919438484989185394
+    second: ock_fishes_grouperfish_moving_36
+  - first:
+      213: -7728825511700050293
+    second: ock_fishes_grouperfish_moving_38
+  - first:
+      213: -2953354232358949415
+    second: ock_fishes_grouperfish_moving_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_00
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 383
+        width: 82
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f602a4fff12fdaf0800000000000000
+      internalID: -369539261216454921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_01
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 34
+        width: 81
+        height: 153
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.503268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd69e7db7bfd7ca0800000000000000
+      internalID: -6017377017775166021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_02
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 539
+        width: 82
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49006623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d913e402804a510e0800000000000000
+      internalID: -2299751679894081123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_03
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 362
+        width: 82
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bde1626ed9e0970800000000000000
+      internalID: 8723083140070824855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_04
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 859
+        width: 81
+        height: 156
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e921d80856a3e3a0800000000000000
+      internalID: -6637278528778720800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_05
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 32
+        width: 81
+        height: 155
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092efa139132d03f0800000000000000
+      internalID: -933050956681059696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_06
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 862
+        width: 81
+        height: 153
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.49673203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38b5f46f7ccec720800000000000000
+      internalID: 2868454860208322623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_07
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 220
+        width: 80
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47972974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d6273a1449c7230800000000000000
+      internalID: 3637945608644488525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_08
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 378
+        width: 80
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49668875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b2c3cdeed4d2b0800000000000000
+      internalID: -5560574527122788133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_09
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 693
+        width: 81
+        height: 156
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61dcebb8914da480800000000000000
+      internalID: -8886374365488426646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 527
+        width: 81
+        height: 156
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03e474dfe0a7b520800000000000000
+      internalID: 2717817852063441678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 82
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b6cd76a3c496630800000000000000
+      internalID: 3920748764337040235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 82
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49342105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f7f0bb314ea9030800000000000000
+      internalID: 3502362433627848540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_dead_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 863
+        width: 82
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fef77ed137a123b0800000000000000
+      internalID: -5538962234061357328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_00
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 227
+        width: 67
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5298507, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6da594c4afa18f0800000000000000
+      internalID: -568867197353797915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_01
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 242
+        width: 64
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5390625, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda2b0f80bac55320800000000000000
+      internalID: 2546164024010812127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_02
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 563
+        width: 66
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5378788, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0103f279596f32e10800000000000000
+      internalID: 2171850567669723152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_03
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 106
+        width: 70
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5214286, y: 0.49295774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64afc45e20d7665f0800000000000000
+      internalID: -763785635402286522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_04
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 103
+        width: 69
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5289855, y: 0.48951048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dfc5dfcbb469290800000000000000
+      internalID: -7884030822588809895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_05
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 564
+        width: 73
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5273973, y: 0.48951048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c1a647dc9aed400800000000000000
+      internalID: 350904520867978362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_06
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 874
+        width: 76
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5197368, y: 0.4822695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535898660bf55eb60800000000000000
+      internalID: 7774725542964200757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_08
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 875
+        width: 75
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5133333, y: 0.47857141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a02ce40641ccef0800000000000000
+      internalID: -86671888956126586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_09
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 707
+        width: 78
+        height: 146
+      alignment: 9
+      pivot: {x: 0.50641024, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3da272c2380af220800000000000000
+      internalID: 2520335955570896186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 256
+        width: 79
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48951048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086b6fccfb24f6c00800000000000000
+      internalID: 896008242414925440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 88
+        width: 79
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b2496c8c6234220800000000000000
+      internalID: 2468859664496077644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 724
+        width: 77
+        height: 140
+      alignment: 9
+      pivot: {x: 0.512987, y: 0.47857141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a282ebdbd76e750800000000000000
+      internalID: 6333888179835775510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 717
+        width: 77
+        height: 144
+      alignment: 9
+      pivot: {x: 0.512987, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb896b902b59cf0800000000000000
+      internalID: -246094849833911473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 258
+        width: 77
+        height: 142
+      alignment: 9
+      pivot: {x: 0.512987, y: 0.48591548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390b50db320b06bd0800000000000000
+      internalID: -2638915714097500013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_15
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 410
+        width: 78
+        height: 143
+      alignment: 9
+      pivot: {x: 0.50641024, y: 0.48951048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78108a3ee03afc0800000000000000
+      internalID: -3484925315715594326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 552
+        width: 76
+        height: 145
+      alignment: 9
+      pivot: {x: 0.49342105, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2802e0e8b7b14a8a0800000000000000
+      internalID: -6294876161678892926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 228
+        width: 77
+        height: 145
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4782a3792452070800000000000000
+      internalID: 8080938323669447851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 871
+        width: 78
+        height: 144
+      alignment: 9
+      pivot: {x: 0.49358973, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2688babfd4fab85e0800000000000000
+      internalID: -1906237267791607710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 72
+        width: 78
+        height: 145
+      alignment: 9
+      pivot: {x: 0.50641024, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5e5d83784213000800000000000000
+      internalID: 13832437051549143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 396
+        width: 77
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91c99dd035fb58d0800000000000000
+      internalID: -2856419948411371109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 551
+        width: 76
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5065789, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fc8e10cfd377870800000000000000
+      internalID: 8680474959353008028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 551
+        width: 76
+        height: 146
+      alignment: 9
+      pivot: {x: 0.48026314, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c7577dc5b06f60800000000000000
+      internalID: 8025614430049388150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 707
+        width: 76
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5065789, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f82ab920c527be0800000000000000
+      internalID: -1481020161180659837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 869
+        width: 74
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48fb4f859ab64f30800000000000000
+      internalID: 4559536824276219981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 714
+        width: 74
+        height: 145
+      alignment: 9
+      pivot: {x: 0.49324325, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88cda89ec405660800000000000000
+      internalID: 7372477155946301625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_27
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 870
+        width: 73
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87368c8732cb02490800000000000000
+      internalID: -7773006096305200264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 397
+        width: 69
+        height: 145
+      alignment: 9
+      pivot: {x: 0.51449275, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4859633a20ba17c10800000000000000
+      internalID: 2049607333246834052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 241
+        width: 71
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5140845, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858e45e779e6bda30800000000000000
+      internalID: 4241105071038064728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 73
+        width: 72
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3388fa3d50befdfb0800000000000000
+      internalID: -4620716282399979469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_31
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 409
+        width: 66
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5378788, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b8e4542e017be70800000000000000
+      internalID: 9130785333528398726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 563
+        width: 65
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5307692, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8779b26d2a5da8e0800000000000000
+      internalID: -1680587934962976883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 86
+        width: 67
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c925dd70240d6c0e0800000000000000
+      internalID: -2249881981806620004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_34
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 717
+        width: 65
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aa76f849a015e00800000000000000
+      internalID: 1031617422821927517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 64
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5234375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890debd3683afb240800000000000000
+      internalID: 4809742724011839640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_36
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 871
+        width: 64
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5234375, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d82fe24a8c60060800000000000000
+      internalID: 6919438484989185394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 242
+        width: 63
+        height: 145
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e442c6522bdb490800000000000000
+      internalID: -7728825511700050293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_grouperfish_moving_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 397
+        width: 64
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5546875, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd295429f39307d0800000000000000
+      internalID: -2953354232358949415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

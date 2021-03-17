@@ -1,0 +1,1340 @@
+fileFormatVersion: 2
+guid: 579b01eb03edb7544a9d89c11ce5183c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1083567423995850163
+    second: ock_fishes_tuna_dead_00
+  - first:
+      213: -1210330290838760364
+    second: ock_fishes_tuna_dead_01
+  - first:
+      213: 1899257203585407817
+    second: ock_fishes_tuna_dead_02
+  - first:
+      213: -5717891535676456475
+    second: ock_fishes_tuna_dead_03
+  - first:
+      213: -1235785740031381066
+    second: ock_fishes_tuna_dead_04
+  - first:
+      213: -1185750224288507002
+    second: ock_fishes_tuna_dead_05
+  - first:
+      213: -5336256953788370022
+    second: ock_fishes_tuna_dead_06
+  - first:
+      213: -916894125143244807
+    second: ock_fishes_tuna_dead_07
+  - first:
+      213: -1133939486965837046
+    second: ock_fishes_tuna_dead_08
+  - first:
+      213: 5284827531269800983
+    second: ock_fishes_tuna_normal_00
+  - first:
+      213: 8436973917751601294
+    second: ock_fishes_tuna_normal_01
+  - first:
+      213: -3543022305580282573
+    second: ock_fishes_tuna_normal_02
+  - first:
+      213: 3443497967337822125
+    second: ock_fishes_tuna_normal_03
+  - first:
+      213: 5744032254485876335
+    second: ock_fishes_tuna_normal_04
+  - first:
+      213: 7837729622663244843
+    second: ock_fishes_tuna_normal_05
+  - first:
+      213: 4286894803211765364
+    second: ock_fishes_tuna_normal_06
+  - first:
+      213: 4529622563490674577
+    second: ock_fishes_tuna_normal_07
+  - first:
+      213: 3340824601262859801
+    second: ock_fishes_tuna_normal_08
+  - first:
+      213: 8439281105473575568
+    second: ock_fishes_tuna_normal_09
+  - first:
+      213: -3907913884350096406
+    second: ock_fishes_tuna_normal_10
+  - first:
+      213: -6873261533740493458
+    second: ock_fishes_tuna_normal_11
+  - first:
+      213: -3001813904929413100
+    second: ock_fishes_tuna_normal_12
+  - first:
+      213: -6338315359349612348
+    second: ock_fishes_tuna_normal_13
+  - first:
+      213: 483817087883861248
+    second: ock_fishes_tuna_normal_14
+  - first:
+      213: 6201037733584570492
+    second: ock_fishes_tuna_normal_15
+  - first:
+      213: 7564655804683023321
+    second: ock_fishes_tuna_normal_16
+  - first:
+      213: 1156417061009281016
+    second: ock_fishes_tuna_normal_17
+  - first:
+      213: -5561475458389188449
+    second: ock_fishes_tuna_normal_18
+  - first:
+      213: 576954640510042739
+    second: ock_fishes_tuna_normal_19
+  - first:
+      213: -6350970775430471461
+    second: ock_fishes_tuna_normal_20
+  - first:
+      213: -8573251565489923957
+    second: ock_fishes_tuna_normal_21
+  - first:
+      213: -8786108518091988786
+    second: ock_fishes_tuna_normal_22
+  - first:
+      213: 7480311138152747303
+    second: ock_fishes_tuna_normal_23
+  - first:
+      213: 7288149190977514395
+    second: ock_fishes_tuna_normal_24
+  - first:
+      213: 8003464426065714812
+    second: ock_fishes_tuna_normal_25
+  - first:
+      213: 7174493319627374421
+    second: ock_fishes_tuna_normal_26
+  - first:
+      213: -3057833344652834541
+    second: ock_fishes_tuna_normal_27
+  - first:
+      213: -6417210343154988766
+    second: ock_fishes_tuna_normal_28
+  - first:
+      213: -4262160850161890510
+    second: ock_fishes_tuna_normal_29
+  - first:
+      213: 4441362065541593432
+    second: ock_fishes_tuna_normal_30
+  - first:
+      213: -818733286744820465
+    second: ock_fishes_tuna_normal_31
+  - first:
+      213: 3180842505563276747
+    second: ock_fishes_tuna_normal_32
+  - first:
+      213: -6361637030505531243
+    second: ock_fishes_tuna_normal_33
+  - first:
+      213: 8770063358291243198
+    second: ock_fishes_tuna_normal_34
+  - first:
+      213: 6363246524834721518
+    second: ock_fishes_tuna_normal_35
+  - first:
+      213: -1895016110427536752
+    second: ock_fishes_tuna_normal_36
+  - first:
+      213: -8340881970409341993
+    second: ock_fishes_tuna_normal_37
+  - first:
+      213: 5406081984463548378
+    second: ock_fishes_tuna_normal_38
+  - first:
+      213: 3144853402099162500
+    second: ock_fishes_tuna_normal_39
+  - first:
+      213: -4530781020246737269
+    second: ock_fishes_tuna_normal_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_tuna_dead_00
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 27
+        width: 78
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4551282, y: 0.42028984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd2575c4da990f00800000000000000
+      internalID: 1083567423995850163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_dead_01
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 16
+        width: 83
+        height: 149
+      alignment: 9
+      pivot: {x: 0.48795182, y: 0.47651008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45419a9530b043fe0800000000000000
+      internalID: -1210330290838760364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_dead_02
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 685
+        width: 72
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5347222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b5fcc2d548b5a10800000000000000
+      internalID: 1899257203585407817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_dead_03
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 20
+        width: 66
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5530303, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1cac761f7f5a0b0800000000000000
+      internalID: -5717891535676456475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_dead_04
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 32
+        width: 69
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0.40298507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1bfeaba6b99dee0800000000000000
+      internalID: -1235785740031381066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_dead_05
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 21
+        width: 66
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5530303, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b91f0147e5b8fe0800000000000000
+      internalID: -1185750224288507002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_dead_06
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 855
+        width: 81
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a937c3fb29ec1f5b0800000000000000
+      internalID: -5336256953788370022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_dead_07
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 83
+        height: 148
+      alignment: 9
+      pivot: {x: 0.48795182, y: 0.47297296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffb13ea6a98643f0800000000000000
+      internalID: -916894125143244807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_dead_08
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 27
+        width: 78
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4551282, y: 0.42028984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03dc926b007340f0800000000000000
+      internalID: -1133939486965837046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_00
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 345
+        width: 57
+        height: 160
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7148a84b3aa775940800000000000000
+      internalID: 5284827531269800983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_01
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 175
+        width: 54
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88e1d2c317261570800000000000000
+      internalID: 8436973917751601294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_02
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 515
+        width: 51
+        height: 160
+      alignment: 9
+      pivot: {x: 0.39215687, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0a9c1cf7a4dec0800000000000000
+      internalID: -3543022305580282573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_03
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 175
+        width: 57
+        height: 160
+      alignment: 9
+      pivot: {x: 0.45614034, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da753f72823c9cf20800000000000000
+      internalID: 3443497967337822125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_04
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 518
+        width: 57
+        height: 159
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e440bf6e6e6bf40800000000000000
+      internalID: 5744032254485876335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_05
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 515
+        width: 57
+        height: 160
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c2664d09535cc60800000000000000
+      internalID: 7837729622663244843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_06
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 687
+        width: 56
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5535714, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476c7ee4c1c1e7b30800000000000000
+      internalID: 4286894803211765364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_07
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 855
+        width: 56
+        height: 160
+      alignment: 9
+      pivot: {x: 0.58928573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197b477f8b37cde30800000000000000
+      internalID: 4529622563490674577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_08
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 175
+        width: 59
+        height: 160
+      alignment: 9
+      pivot: {x: 0.59322035, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916a82f364efc5e20800000000000000
+      internalID: 3340824601262859801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_09
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 855
+        width: 60
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6166667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a1b63c3795e1570800000000000000
+      internalID: 8439281105473575568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 175
+        width: 61
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6393443, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebde76f60d44c9c0800000000000000
+      internalID: -3907913884350096406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 515
+        width: 60
+        height: 160
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e659a091d054d90a0800000000000000
+      internalID: -6873261533740493458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 175
+        width: 61
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6557377, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418aad2682a6756d0800000000000000
+      internalID: -3001813904929413100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 855
+        width: 58
+        height: 160
+      alignment: 9
+      pivot: {x: 0.67241377, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0609333c7c908a0800000000000000
+      internalID: -6338315359349612348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 345
+        width: 59
+        height: 160
+      alignment: 9
+      pivot: {x: 0.66101694, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dd49bf31dd6b600800000000000000
+      internalID: 483817087883861248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 345
+        width: 60
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c780a15d6f28e0650800000000000000
+      internalID: 6201037733584570492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 685
+        width: 63
+        height: 160
+      alignment: 9
+      pivot: {x: 0.63492066, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d37a36006e0bf860800000000000000
+      internalID: 7564655804683023321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 515
+        width: 60
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffc8a5a03b6c0010800000000000000
+      internalID: 1156417061009281016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 687
+        width: 63
+        height: 159
+      alignment: 9
+      pivot: {x: 0.63492066, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90e8ab598ba1d2b0800000000000000
+      internalID: -5561475458389188449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_19
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 856
+        width: 62
+        height: 159
+      alignment: 9
+      pivot: {x: 0.62903225, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3724d1f4031c10800800000000000000
+      internalID: 576954640510042739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 345
+        width: 68
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd064978ab1dcd7a0800000000000000
+      internalID: -6350970775430471461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 856
+        width: 68
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8859eccf11b50980800000000000000
+      internalID: -8573251565489923957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_22
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 517
+        width: 67
+        height: 159
+      alignment: 9
+      pivot: {x: 0.58208954, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0e7158ad8711680800000000000000
+      internalID: -8786108518091988786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 686
+        width: 71
+        height: 159
+      alignment: 9
+      pivot: {x: 0.52112675, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7211ef609576fc760800000000000000
+      internalID: 7480311138152747303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_24
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 176
+        width: 68
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9be34e2315b42560800000000000000
+      internalID: 7288149190977514395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 515
+        width: 71
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47887325, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e5f18cd74021f60800000000000000
+      internalID: 8003464426065714812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 345
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f7dcf79abe09360800000000000000
+      internalID: 7174493319627374421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 175
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44285715, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3198f9d26c46095d0800000000000000
+      internalID: -3057833344652834541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 515
+        width: 64
+        height: 160
+      alignment: 9
+      pivot: {x: 0.421875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229c847513d71f6a0800000000000000
+      internalID: -6417210343154988766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 855
+        width: 62
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4032258, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b0686e943c9d4c0800000000000000
+      internalID: -4262160850161890510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 685
+        width: 61
+        height: 160
+      alignment: 9
+      pivot: {x: 0.37704918, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859708b6443e2ad30800000000000000
+      internalID: 4441362065541593432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_31
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 685
+        width: 60
+        height: 160
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0579cdd96643a4f0800000000000000
+      internalID: -818733286744820465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 515
+        width: 59
+        height: 160
+      alignment: 9
+      pivot: {x: 0.33898306, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5009ee76f942c20800000000000000
+      internalID: 3180842505563276747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 175
+        width: 58
+        height: 160
+      alignment: 9
+      pivot: {x: 0.31034482, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5983fbe73dce6b7a0800000000000000
+      internalID: -6361637030505531243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 685
+        width: 57
+        height: 160
+      alignment: 9
+      pivot: {x: 0.2982456, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07e98982685b970800000000000000
+      internalID: 8770063358291243198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 345
+        width: 56
+        height: 160
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee230b100bce4850800000000000000
+      internalID: 6363246524834721518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 855
+        width: 60
+        height: 160
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092035643ec83b5e0800000000000000
+      internalID: -1895016110427536752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_37
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 685
+        width: 59
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3220339, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db7a403a0c3f3c80800000000000000
+      internalID: -8340881970409341993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_38
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 345
+        width: 52
+        height: 160
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfa6961ce2460b40800000000000000
+      internalID: 5406081984463548378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_39
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 348
+        width: 59
+        height: 159
+      alignment: 9
+      pivot: {x: 0.3559322, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d9ccec183c4ab20800000000000000
+      internalID: 3144853402099162500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_tuna_normal_40
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 348
+        width: 62
+        height: 159
+      alignment: 9
+      pivot: {x: 0.38709676, y: 0.49685535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e7c1dcaae6f11c0800000000000000
+      internalID: -4530781020246737269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

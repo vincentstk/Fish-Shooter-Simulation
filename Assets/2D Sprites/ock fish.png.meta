@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 5afec58e76189c440b6fa643a624a995
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2579173353339470695
+    second: ock_fishes_big_puffer_die_00
+  - first:
+      213: -8441590854179425998
+    second: ock_fishes_big_puffer_die_01
+  - first:
+      213: -2628002577415995246
+    second: ock_fishes_big_puffer_die_02
+  - first:
+      213: -6806561297601141319
+    second: ock_fishes_big_puffer_die_03
+  - first:
+      213: -7487419899617374945
+    second: ock_fishes_big_puffer_die_05
+  - first:
+      213: -4943788184195679973
+    second: ock_fishes_big_puffer_die_06
+  - first:
+      213: 2380283908166082122
+    second: ock_fishes_big_puffer_die_07
+  - first:
+      213: -3890938736356637228
+    second: ock_fishes_big_puffer_die_08
+  - first:
+      213: 6377997545208407860
+    second: ock_fishes_big_puffer_die_09
+  - first:
+      213: -7909832664931014102
+    second: ock_fishes_big_puffer_die_10
+  - first:
+      213: -5125246609876181938
+    second: ock_fishes_big_puffer_die_11
+  - first:
+      213: -8769795590875131180
+    second: ock_fishes_big_puffer_die_12
+  - first:
+      213: 4668587091322377542
+    second: ock_fishes_big_puffer_die_13
+  - first:
+      213: 7127634554090088483
+    second: ock_fishes_big_puffer_die_14
+  - first:
+      213: 4399690964168774443
+    second: ock_fishes_big_puffer_moving_00
+  - first:
+      213: 4546816220909761258
+    second: ock_fishes_big_puffer_moving_01
+  - first:
+      213: 224423632403931820
+    second: ock_fishes_big_puffer_moving_02
+  - first:
+      213: 8148594112501828892
+    second: ock_fishes_big_puffer_moving_03
+  - first:
+      213: -442587977806697174
+    second: ock_fishes_big_puffer_moving_04
+  - first:
+      213: -6613102219605187532
+    second: ock_fishes_big_puffer_moving_05
+  - first:
+      213: 6833558662464520884
+    second: ock_fishes_big_puffer_moving_06
+  - first:
+      213: 6976545856092707456
+    second: ock_fishes_big_puffer_moving_07
+  - first:
+      213: 2674218175935623761
+    second: ock_fishes_big_puffer_moving_08
+  - first:
+      213: -9160021534231601069
+    second: ock_fishes_big_puffer_moving_09
+  - first:
+      213: 8986151759584552640
+    second: ock_fishes_big_puffer_moving_10
+  - first:
+      213: -2341363717371810366
+    second: ock_fishes_big_puffer_moving_11
+  - first:
+      213: 1588244407122647974
+    second: ock_fishes_big_puffer_moving_13
+  - first:
+      213: 8380762891776465843
+    second: ock_fishes_big_puffer_moving_14
+  - first:
+      213: -1012941607480289901
+    second: ock_fishes_big_puffer_moving_15
+  - first:
+      213: -3576629572268921080
+    second: ock_fishes_big_puffer_moving_16
+  - first:
+      213: 4100356672204365969
+    second: ock_fishes_big_puffer_moving_17
+  - first:
+      213: -4374992522563748255
+    second: ock_fishes_big_puffer_moving_18
+  - first:
+      213: 3191684001002681551
+    second: ock_fishes_big_puffer_moving_19
+  - first:
+      213: -7125246002691379756
+    second: ock_fishes_big_puffer_moving_20
+  - first:
+      213: -2795554274834076971
+    second: ock_fishes_big_puffer_moving_22
+  - first:
+      213: 2631407993940005340
+    second: ock_fishes_big_puffer_moving_23
+  - first:
+      213: -8988263497689955974
+    second: ock_fishes_big_puffer_moving_24
+  - first:
+      213: -2919948445220643823
+    second: ock_fishes_big_puffer_moving_25
+  - first:
+      213: 8087627185765058370
+    second: ock_fishes_big_puffer_moving_26
+  - first:
+      213: 2795477394570864851
+    second: ock_fishes_big_puffer_moving_27
+  - first:
+      213: 5632848674238253151
+    second: ock_fishes_big_puffer_moving_28
+  - first:
+      213: 7595753985629115864
+    second: ock_fishes_big_puffer_moving_29
+  - first:
+      213: 6198955143085046077
+    second: ock_fishes_big_puffer_moving_30
+  - first:
+      213: -2408603735208479990
+    second: ock_fishes_big_puffer_moving_31
+  - first:
+      213: 6815342838372441578
+    second: ock_fishes_big_puffer_moving_32
+  - first:
+      213: -899321461410392978
+    second: ock_fishes_big_puffer_moving_33
+  - first:
+      213: -5719805620245574547
+    second: ock_fishes_big_puffer_moving_34
+  - first:
+      213: 4233154469585427532
+    second: ock_fishes_big_puffer_moving_35
+  - first:
+      213: -7620291489548259273
+    second: ock_fishes_big_puffer_moving_36
+  - first:
+      213: -5838113185891347207
+    second: ock_fishes_big_puffer_moving_37
+  - first:
+      213: 6210323061405095638
+    second: ock_fishes_big_puffer_moving_38
+  - first:
+      213: -7799485324978911748
+    second: ock_fishes_big_puffer_moving_39
+  - first:
+      213: -953369154521550383
+    second: ock_fishes_big_puffer_moving_40
+  - first:
+      213: -3535472612360041395
+    second: ock_fishes_big_puffer_moving_41
+  - first:
+      213: 910628266709338289
+    second: ock_fishes_big_puffer_moving_42
+  - first:
+      213: 6053800403754934641
+    second: ock_fishes_big_puffer_moving_43
+  - first:
+      213: -8218242719363698047
+    second: ock_fishes_big_puffer_moving_44
+  - first:
+      213: -8459075362103324154
+    second: ock_fishes_big_puffer_moving_45
+  - first:
+      213: -5303326109579443589
+    second: ock_fishes_big_puffer_moving_46
+  - first:
+      213: -5124395346018562271
+    second: ock_fishes_big_puffer_moving_48
+  - first:
+      213: 1370950183779528473
+    second: ock_fishes_big_puffer_moving_49
+  - first:
+      213: -7301104433292670645
+    second: ock_fishes_big_puffer_moving_50
+  - first:
+      213: 133882245667859011
+    second: ock_fishes_big_puffer_moving_51
+  - first:
+      213: 7113524360981965788
+    second: ock_fishes_big_puffer_moving_52
+  - first:
+      213: -5674040296868112425
+    second: ock_fishes_big_puffer_moving_53
+  - first:
+      213: 6658545096498899221
+    second: ock_fishes_big_puffer_moving_54
+  - first:
+      213: 8316949060804824615
+    second: ock_fishes_big_puffer_moving_55
+  - first:
+      213: -4718204757345168213
+    second: ock_fishes_big_puffer_moving_56
+  - first:
+      213: -861800208331762477
+    second: ock_fishes_big_puffer_moving_58
+  - first:
+      213: -3832884138581743152
+    second: ock_fishes_big_puffer_moving_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_00
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1575
+        width: 143
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5559441, y: 0.48333332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763c3f3ff701bc320800000000000000
+      internalID: 2579173353339470695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_01
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1532
+        width: 138
+        height: 121
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.4876033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231f275f7d179da80800000000000000
+      internalID: -8441590854179425998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_02
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1742
+        width: 131
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2900f406495778bd0800000000000000
+      internalID: -2628002577415995246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_03
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1559
+        width: 129
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5ef82009c3a81a0800000000000000
+      internalID: -6806561297601141319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_05
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1563
+        width: 127
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4527559, y: 0.52307695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d8d177547571890800000000000000
+      internalID: -7487419899617374945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_06
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1565
+        width: 129
+        height: 128
+      alignment: 9
+      pivot: {x: 0.43023255, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b193e3cf6d2246bb0800000000000000
+      internalID: -4943788184195679973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_07
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1563
+        width: 139
+        height: 130
+      alignment: 9
+      pivot: {x: 0.46402878, y: 0.4923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e51da6a97780120800000000000000
+      internalID: 2380283908166082122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_08
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1526
+        width: 141
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4574468, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5c7a895db900ac0800000000000000
+      internalID: -3890938736356637228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_09
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 943
+        width: 132
+        height: 124
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e57ca9f2338850800000000000000
+      internalID: 6377997545208407860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 944
+        width: 140
+        height: 123
+      alignment: 9
+      pivot: {x: 0.49642858, y: 0.5121951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a610e6911aa3290800000000000000
+      internalID: -7909832664931014102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_11
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1440
+        width: 135
+        height: 121
+      alignment: 9
+      pivot: {x: 0.47777778, y: 0.49586776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c1e00fc577fd8b0800000000000000
+      internalID: -5125246609876181938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_12
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 549
+        width: 132
+        height: 118
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d91ddf5d6b4680800000000000000
+      internalID: -8769795590875131180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_13
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1913
+        width: 140
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5107143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6459e3d69372ac040800000000000000
+      internalID: 4668587091322377542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_die_14
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 427
+        width: 128
+        height: 118
+      alignment: 9
+      pivot: {x: 0.49609375, y: 0.4915254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328e655fcd17ae260800000000000000
+      internalID: 7127634554090088483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_00
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1865
+        width: 181
+        height: 166
+      alignment: 9
+      pivot: {x: 0.49723756, y: 0.75301206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2396c01f97de0d30800000000000000
+      internalID: 4399690964168774443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_01
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1362
+        width: 186
+        height: 166
+      alignment: 9
+      pivot: {x: 0.50537634, y: 0.76506025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae27f4a4349891f30800000000000000
+      internalID: 4546816220909761258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_02
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 671
+        width: 183
+        height: 161
+      alignment: 9
+      pivot: {x: 0.48087433, y: 0.76397514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2a3a8ca105d1300800000000000000
+      internalID: 224423632403931820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_03
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1866
+        width: 176
+        height: 165
+      alignment: 9
+      pivot: {x: 0.53977275, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc2861c2f951170800000000000000
+      internalID: 8148594112501828892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_04
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1071
+        width: 174
+        height: 170
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.7176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d29f0449c9bd9f0800000000000000
+      internalID: -442587977806697174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_05
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1353
+        width: 174
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5229885, y: 0.74556214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434e519a19a8934a0800000000000000
+      internalID: -6613102219605187532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_06
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1008
+        width: 174
+        height: 168
+      alignment: 9
+      pivot: {x: 0.54022986, y: 0.74404764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2cdf3d56da5de50800000000000000
+      internalID: 6833558662464520884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_07
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1697
+        width: 174
+        height: 165
+      alignment: 9
+      pivot: {x: 0.545977, y: 0.75151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a11a72e7ba1d060800000000000000
+      internalID: 6976545856092707456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_08
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1695
+        width: 180
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.74698794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152398c234bbc1520800000000000000
+      internalID: 2674218175935623761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_09
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1697
+        width: 182
+        height: 165
+      alignment: 9
+      pivot: {x: 0.51648355, y: 0.75151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350623d42f011e080800000000000000
+      internalID: -9160021534231601069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 56
+        width: 194
+        height: 162
+      alignment: 9
+      pivot: {x: 0.48969072, y: 0.7592593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6e9c72a6935bc70800000000000000
+      internalID: 8986151759584552640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_11
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1058
+        width: 180
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47777778, y: 0.7625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cda018aa1ec18fd0800000000000000
+      internalID: -2341363717371810366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_13
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1192
+        width: 186
+        height: 166
+      alignment: 9
+      pivot: {x: 0.50537634, y: 0.76506025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abdb079fd39a0610800000000000000
+      internalID: 1588244407122647974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_14
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 857
+        width: 183
+        height: 161
+      alignment: 9
+      pivot: {x: 0.48087433, y: 0.76397514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb9c1762737e4470800000000000000
+      internalID: 8380762891776465843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1390
+        width: 176
+        height: 165
+      alignment: 9
+      pivot: {x: 0.53977275, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3959ceb89fe41f1f0800000000000000
+      internalID: -1012941607480289901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 770
+        width: 174
+        height: 170
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.7176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fe0c39a524d5ec0800000000000000
+      internalID: -3576629572268921080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_17
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1180
+        width: 174
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5229885, y: 0.74556214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190e4233ba467e830800000000000000
+      internalID: 4100356672204365969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 836
+        width: 174
+        height: 168
+      alignment: 9
+      pivot: {x: 0.54022986, y: 0.74404764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ef89dfa77e843c0800000000000000
+      internalID: -4374992522563748255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_19
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1866
+        width: 174
+        height: 165
+      alignment: 9
+      pivot: {x: 0.545977, y: 0.75151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4ff0b40b32b4c20800000000000000
+      internalID: 3191684001002681551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_20
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1657
+        width: 181
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5248619, y: 0.74850297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddee40038a0e1d90800000000000000
+      internalID: -7125246002691379756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_22
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 223
+        width: 194
+        height: 162
+      alignment: 9
+      pivot: {x: 0.48969072, y: 0.7592593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daa032d2323439d0800000000000000
+      internalID: -2795554274834076971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_23
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1231
+        width: 180
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47777778, y: 0.7625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1dae1f0a3a48420800000000000000
+      internalID: 2631407993940005340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_24
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1222
+        width: 179
+        height: 164
+      alignment: 9
+      pivot: {x: 0.48603353, y: 0.7621951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71849088f5434380800000000000000
+      internalID: -8988263497689955974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_25
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 58
+        width: 192
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7515528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c5b201c524a77d0800000000000000
+      internalID: -2919948445220643823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_26
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1866
+        width: 183
+        height: 165
+      alignment: 9
+      pivot: {x: 0.49726775, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247815b43160d3070800000000000000
+      internalID: 8087627185765058370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 176
+        height: 163
+      alignment: 9
+      pivot: {x: 0.53977275, y: 0.74846625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8e70911e78bc620800000000000000
+      internalID: 2795477394570864851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_28
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 577
+        width: 180
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.7588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58408d6606eb2e40800000000000000
+      internalID: 5632848674238253151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_29
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 389
+        width: 179
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5586592, y: 0.7542857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d55ea2810a896960800000000000000
+      internalID: 7595753985629115864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_30
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1022
+        width: 184
+        height: 166
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.8012048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d393a22fbdc170650800000000000000
+      internalID: 6198955143085046077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 18
+        width: 183
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5409836, y: 0.8235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0338360aabe29ed0800000000000000
+      internalID: -2408603735208479990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 751
+        width: 177
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5480226, y: 0.8128342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed11b7c336f49e50800000000000000
+      internalID: 6815342838372441578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 75
+        width: 173
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5202312, y: 0.8042328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e649fb945e7f483f0800000000000000
+      internalID: -899321461410392978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_34
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 192
+        width: 176
+        height: 195
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ccafcd71b2f90b0800000000000000
+      internalID: -5719805620245574547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 268
+        width: 167
+        height: 190
+      alignment: 9
+      pivot: {x: 0.51497006, y: 0.7736842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c1ff6df8f2fba30800000000000000
+      internalID: 4233154469585427532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_36
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 568
+        width: 162
+        height: 179
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.8044693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7303b88a3494f3690800000000000000
+      internalID: -7620291489548259273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_37
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1395
+        width: 159
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5031447, y: 0.8719512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f41c643dfadafea0800000000000000
+      internalID: -5838113185891347207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_38
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 411
+        width: 170
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5117647, y: 0.8580247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6977fabef7f2650800000000000000
+      internalID: 6210323061405095638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_39
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1699
+        width: 157
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4968153, y: 0.80368096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf582cd9b69a2c390800000000000000
+      internalID: -7799485324978911748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_40
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 222
+        width: 157
+        height: 163
+      alignment: 9
+      pivot: {x: 0.50318474, y: 0.79141104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1bdec1ec3f4c2f0800000000000000
+      internalID: -953369154521550383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 462
+        width: 168
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.774359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c482b046a7feec0800000000000000
+      internalID: -3535472612360041395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 184
+        width: 169
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4852071, y: 0.74876845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c3a7759333ac00800000000000000
+      internalID: 910628266709338289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_43
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1828
+        width: 170
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.74384236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171edee846b630450800000000000000
+      internalID: 6053800403754934641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1526
+        width: 187
+        height: 227
+      alignment: 9
+      pivot: {x: 0.53475934, y: 0.6167401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182f262f9cfe2fd80800000000000000
+      internalID: -8218242719363698047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1804
+        width: 184
+        height: 227
+      alignment: 9
+      pivot: {x: 0.49456522, y: 0.5814978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6029299b6c35b9a80800000000000000
+      internalID: -8459075362103324154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_46
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1245
+        width: 187
+        height: 238
+      alignment: 9
+      pivot: {x: 0.49197862, y: 0.5420168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b728676600dc666b0800000000000000
+      internalID: -5303326109579443589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 661
+        width: 178
+        height: 252
+      alignment: 9
+      pivot: {x: 0.48876405, y: 0.49603173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f06ef359d72e8b0800000000000000
+      internalID: -5124395346018562271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 917
+        width: 184
+        height: 272
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.4522059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f6fe4bde7960310800000000000000
+      internalID: 1370950183779528473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 647
+        width: 177
+        height: 266
+      alignment: 9
+      pivot: {x: 0.519774, y: 0.45864663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b498f8963344daa90800000000000000
+      internalID: -7301104433292670645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1487
+        width: 178
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5280899, y: 0.4548872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aa3ce6135abd100800000000000000
+      internalID: 133882245667859011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1193
+        width: 176
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.45255473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbea6d97b058b260800000000000000
+      internalID: 7113524360981965788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1196
+        width: 174
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5229885, y: 0.45387453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d79cef8962c141b0800000000000000
+      internalID: -5674040296868112425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1751
+        width: 174
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.46071428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5196cbd9c77e76c50800000000000000
+      internalID: 6658545096498899221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1471
+        width: 183
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5409836, y: 0.44927537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e4a401b1dbb6370800000000000000
+      internalID: 8316949060804824615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1757
+        width: 188
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5265958, y: 0.4452555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba412e475c1958eb0800000000000000
+      internalID: -4718204757345168213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 391
+        width: 200
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5, y: 0.515873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4170bc6454a04f0800000000000000
+      internalID: -861800208331762477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ock_fishes_big_puffer_moving_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 942
+        width: 195
+        height: 250
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d92b96fe2cdecac0800000000000000
+      internalID: -3832884138581743152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
