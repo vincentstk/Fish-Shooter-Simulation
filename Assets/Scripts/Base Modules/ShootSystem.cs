@@ -23,6 +23,8 @@ public class ShootSystem
         {
             return;
         }
+        Bullet bullet = BulletObject.GetComponent<Bullet>();
+        bullet.Setup();
         GameController.Instance.UseGold();
     }
     public void Tick(ref ShootComponent shootComp)

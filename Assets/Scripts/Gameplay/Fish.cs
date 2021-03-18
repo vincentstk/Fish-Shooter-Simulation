@@ -35,14 +35,16 @@ public class Fish : MonoBehaviour, IGetNormalHit
     {
         Vector3 TargetPosition = transform.position;
         TargetPosition *= -1;
-        transform.DOMove(TargetPosition, fishComp.SwimTime).SetEase(Ease.Linear).OnComplete(CompleteTravelCallback);
+        transform.DOMove(TargetPosition, fishComp.SwimTime).SetEase(Ease.Linear).OnComplete(CompleteTravelCallback).SetId(GetInstanceID());
     }
     public void Hit()
     {
         float RandomResult = Random.Range(0f, 1f);
         if (RandomResult <= fishComp.KillRate)
         {
+            DOTween.Kill(GetInstanceID());
             GameController.Instance.AddGold(fishComp.Gold);
+            GameController.Instance.CountKill();
             _ObjectPooler.ReturnToPool(DOLPHIN, gameObject, true);
         }
     }
