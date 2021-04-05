@@ -12,5 +12,6 @@ public class SceneInstaller : MonoInstaller
     {
         Container.BindFactory<Player, ShootSystem, ShootSystem.Factory>();
         Container.Bind<MainPooler>().FromComponentInNewPrefab(Pooler).AsSingle();
+        Container.BindFactory<SpawnComponent, FishSpawnerSystem, FishSpawnerSystem.Factory>();
     }
 }

@@ -54,3 +54,32 @@ MonoBehaviour:
       type: 3}
     Size: 10
     Parent: {fileID: 0}
+  - Tag: HammerShark
+    Prefab: {fileID: 8092576457131353159, guid: 6cbf2ec5abf4cf84785d2a2d80bb37c3,
+      type: 3}
+    Size: 10
+    Parent: {fileID: 0}
+  - Tag: JellyFish
+    Prefab: {fileID: 258176327048609771, guid: 9afda08f7b15a5940be5b593b00fb5fc, type: 3}
+    Size: 10
+    Parent: {fileID: 0}
+  - Tag: Koi
+    Prefab: {fileID: 3455531801341043990, guid: 5f13d0a978c8d9741827a0f4ba3dcab1,
+      type: 3}
+    Size: 10
+    Parent: {fileID: 0}
+  - Tag: Orthocone
+    Prefab: {fileID: 6196265553086491587, guid: fe36cbcc5e6471c4f9e668096353cbab,
+      type: 3}
+    Size: 10
+    Parent: {fileID: 0}
+  - Tag: Turtle
+    Prefab: {fileID: 3948593790946035250, guid: 2aab6afc16e277c47b6eaa094a29b946,
+      type: 3}
+    Size: 10
+    Parent: {fileID: 0}
+  - Tag: KillerWhale
+    Prefab: {fileID: 2798040240652113882, guid: fb497287e23f5c144a24ed8fd2fd6a49,
+      type: 3}
+    Size: 10
+    Parent: {fileID: 0}

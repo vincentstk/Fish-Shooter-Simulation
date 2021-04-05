@@ -5,6 +5,12 @@ using UnityEngine;
 [System.Serializable]
 public struct SpawnComponent
 {
-    public float SpawnRate;
-    public short FishCount;
+    public float SpawnTime;
+    public byte DolphinPerSec;
+    public byte HammerSharkPerSec;
+    public byte JellyFishPerSec;
+    public byte KoiFishPerSec;
+    public byte OrthoconePerSec;
+    public byte TurtlePerSec;
+    public byte KillerWhalePerSec;
 }

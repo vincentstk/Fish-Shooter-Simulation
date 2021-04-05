@@ -9,7 +9,7 @@ public class Fish : MonoBehaviour, IGetNormalHit
 {
     [Inject] MainPooler _ObjectPooler;
 
-    private const string DOLPHIN = "Dolphin";
+    private string TAG;
 
     [Foldout("Components", true)]
     [SerializeField]
@@ -18,7 +18,30 @@ public class Fish : MonoBehaviour, IGetNormalHit
     // Start is called before the first frame update
     void Start()
     {
-        
+        switch (fishComp.Type)
+        {
+            case FishType.Dolphin:
+                TAG = "Dolphin";
+                break;
+            case FishType.HammerShark:
+                TAG = "HammerShark";
+                break;
+            case FishType.JellyFish:
+                TAG = "JellyFish";
+                break;
+            case FishType.KoiFish:
+                TAG = "Koi";
+                break;
+            case FishType.Orthocone:
+                TAG = "Orthocone";
+                break;
+            case FishType.Turtle:
+                TAG = "Turtle";
+                break;
+            case FishType.KillerWhale:
+                TAG = "KillerWhale";
+                break;
+        }
     }
 
     // Update is called once per frame
@@ -28,7 +51,7 @@ public class Fish : MonoBehaviour, IGetNormalHit
     }
     private void CompleteTravelCallback()
     {
-        _ObjectPooler.ReturnToPool(DOLPHIN, gameObject, true);
+        _ObjectPooler.ReturnToPool(TAG, gameObject, true);
     }
 
     public void SetupWay()
@@ -44,8 +67,8 @@ public class Fish : MonoBehaviour, IGetNormalHit
         {
             DOTween.Kill(GetInstanceID());
             GameController.Instance.AddGold(fishComp.Gold);
-            GameController.Instance.CountKill();
-            _ObjectPooler.ReturnToPool(DOLPHIN, gameObject, true);
+            GameController.Instance.CountKill(fishComp.Type);
+            _ObjectPooler.ReturnToPool(TAG, gameObject, true);
         }
     }
 }
